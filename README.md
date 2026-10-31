@@ -16,4 +16,4 @@
 
 ## 字体许可
 
-字体使用 Noto Sans SC 衍生字库，保留 Adobe 2014–2021 版权，按 OFL 1.1 授权。见 [字体许可](licenses/NotoSansSC-OFL.txt)。
+使用 Noto Sans SC 字体，许可见 [字体许可](licenses/NotoSansSC-OFL.txt)。
