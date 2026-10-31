@@ -2784,7 +2784,7 @@
     {
       "id": "csv:Host/Eye Pad",
       "source": "Eye Pad",
-      "translation": "眼板"
+      "translation": "EyePad 平板"
     },
     {
       "id": "csv:Host/Eye Spy",
@@ -3274,7 +3274,7 @@
     {
       "id": "csv:Host/Juice Bag",
       "source": "Juice Bag",
-      "translation": "能量液袋"
+      "translation": "动力液袋"
     },
     {
       "id": "csv:Host/Scrambled Ego",
@@ -3419,12 +3419,12 @@
     {
       "id": "csv:Host/MEM/BuyMe/Juice/1",
       "source": "Increase juice capacity of ctrl'd hosts by [?]",
-      "translation": "受控宿主的能量液上限增加[?]"
+      "translation": "受控宿主的动力液上限增加[?]"
     },
     {
       "id": "csv:Host/MEM/BuyMe/Juice/2",
       "source": "Grow your juice meter!",
-      "translation": "增加你的能量液上限！"
+      "translation": "增加你的动力液上限！"
     },
     {
       "id": "csv:Host/LAN/Heading",
@@ -4024,7 +4024,7 @@
     {
       "id": "csv:Host/Capability/VendingMachine/Usage",
       "source": "Vend Juice",
-      "translation": "贩售能量液"
+      "translation": "贩售动力液"
     },
     {
       "id": "csv:Host/Capability/EvilEye",
@@ -5224,7 +5224,7 @@
     {
       "id": "csv:Hud/Juice",
       "source": "Juice",
-      "translation": "能量液"
+      "translation": "动力液"
     },
     {
       "id": "csv:Hud/Safe",
@@ -6159,7 +6159,7 @@
     {
       "id": "csv:Interact/Juice",
       "source": "Juice",
-      "translation": "能量液"
+      "translation": "动力液"
     },
     {
       "id": "csv:Interact/Jus' Jus",
@@ -6214,7 +6214,7 @@
     {
       "id": "csv:Interact/Security Iris",
       "source": "Security Iris",
-      "translation": "安全虹膜门"
+      "translation": "安保光圈门"
     },
     {
       "id": "csv:Interact/Shotgun",
@@ -6349,7 +6349,7 @@
     {
       "id": "csv:Interact/Open Security Iris",
       "source": "Open Security Iris",
-      "translation": "开启安保虹膜门"
+      "translation": "开启安保光圈门"
     },
     {
       "id": "csv:Interact/Press to call",
@@ -6424,7 +6424,7 @@
     {
       "id": "csv:Interact/doesn't like juice :(",
       "source": "doesn't like juice :(",
-      "translation": "不喜欢能量液 :("
+      "translation": "不喜欢动力液 :("
     },
     {
       "id": "csv:Interact/doesn't like oil :(",
@@ -6434,7 +6434,7 @@
     {
       "id": "csv:Interact/Juice Full",
       "source": "Juice Full",
-      "translation": "能量液已满"
+      "translation": "动力液已满"
     },
     {
       "id": "csv:Interact/Locked",
@@ -8684,7 +8684,7 @@
     {
       "id": "csv:Signs/Graffiti/JuiceIsAmmo",
       "source": "Juice = AMMO",
-      "translation": "能量液 = 弹药"
+      "translation": "动力液 = 弹药"
     },
     {
       "id": "csv:Signs/Graffiti/BatteryIsHealth",
@@ -10749,7 +10749,7 @@
     {
       "id": "csv:Metas/dad.base",
       "source": "DAD Base\nDAD may conceal himself inside his DAD Base,\nemerging only in response to\npotential security threats.\n\nBefore DAD emerges, you can take ctrl of the base\nto <color=cyan><i>own</i></color> it, meaning you alone\ncan open it subsequently.\n\nDAD's juice replenishes automatically\nfor as long as he remains at his base.",
-      "translation": "DAD基地\nDAD可能藏在自己的基地里，\n只有出现潜在安保威胁时才会出来。\n\n在DAD现身前，你可以Ctrl基地，\n将其<color=cyan><i>占为己有</i></color>。\n之后就只有你能打开它了。\n\n只要DAD待在基地里，\n它的能量液就会自动补充。"
+      "translation": "DAD基地\nDAD可能藏在自己的基地里，\n只有出现潜在安保威胁时才会出来。\n\n在DAD现身前，你可以Ctrl基地，\n将其<color=cyan><i>占为己有</i></color>。\n之后就只有你能打开它了。\n\n只要DAD待在基地里，\n它的动力液就会自动补充。"
     },
     {
       "id": "csv:Metas/disembodied",
@@ -10834,7 +10834,7 @@
     {
       "id": "csv:Metas/juice",
       "source": "Juice\nBug disk programs run on <color=cyan>Juice</color>.\n\nKeep your HUD <i>Juice Meter</i> topped up by \nfinding and drinking packets of <color=cyan>Juice</color>.",
-      "translation": "能量液\nBUG的磁盘程序靠<color=cyan>能量液</color>运行。\n\n想让HUD上的<i>能量液表</i>保持充足，\n就去寻找并饮用一包包<color=cyan>能量液</color>。"
+      "translation": "动力液\nBUG的磁盘程序靠<color=cyan>动力液</color>运行。\n\n想让HUD上的<i>动力液表</i>保持充足，\n就去寻找并饮用一包包<color=cyan>动力液</color>。"
     },
     {
       "id": "csv:Metas/lost.bug",
@@ -11124,7 +11124,7 @@
     {
       "id": "csv:Insights/thrust.juice",
       "source": "Juice\nDisk programs are fueled by juice",
-      "translation": "能量液\n磁盘程序需要消耗能量液来运行"
+      "translation": "动力液\n磁盘程序需要消耗动力液来运行"
     },
     {
       "id": "csv:Insights/thrust.rocky.can.fly",
@@ -11204,7 +11204,7 @@
     {
       "id": "csv:Insights/episode2/crs.techlab.drawer",
       "source": "Lost CAT\nI saw some strange eyepad waffle\nabout concealing CATs in drawers.",
-      "translation": "走失的CAT\n我在眼板上看到些奇怪的闲话，\n说是要把CAT藏在抽屉里。"
+      "translation": "走失的CAT\n我在EyePad 平板上看到些奇怪的闲话，\n说是要把CAT藏在抽屉里。"
     },
     {
       "id": "csv:Insights/episode2/exe.corporate.2",
@@ -11379,7 +11379,7 @@
     {
       "id": "csv:HostInfo/Juicer",
       "source": "\nLook,\nstop your complaining!\nI've given you one whole\nadditional juice compartment\nat every bot you ctrl now\nand in the future.\n\nNo, don't ask how that is possible\n- something about \"video games\".\n\nI do so hope you enjoy\nyour extra juice storage.",
-      "translation": "\n听着，\n别抱怨了！\n无论你现在还是将来Ctrl的\n每一个机器人，\n我都为你额外增加了一整个\n能量液储存舱。\n\n不，别问这怎么可能做到\n——大概和“电子游戏”之类的有关吧。\n\n真希望你能喜欢\n你额外的能量液储存空间。"
+      "translation": "\n听着，\n别抱怨了！\n无论你现在还是将来Ctrl的\n每一个机器人，\n我都为你额外增加了一整个\n动力液储存舱。\n\n不，别问这怎么可能做到\n——大概和“电子游戏”之类的有关吧。\n\n真希望你能喜欢\n你额外的动力液储存空间。"
     },
     {
       "id": "csv:HostInfo/JUS",
@@ -11639,7 +11639,7 @@
     {
       "id": "csv:Upgrades/Aeronautics/About/Branch/Flight",
       "source": "<color=white><i>Flight</i></color> provides thrust and rocket dynamics.\nA well-wormed rocket increases speed and range.\nDrinks a moderate amount of juice.",
-      "translation": "<color=white><i>飞行</i></color>提供推进与火箭动力学效果。\n经过充分蠕虫强化的火箭冲刺能提升速度与射程。\n消耗适量的能量液。"
+      "translation": "<color=white><i>飞行</i></color>提供推进与火箭动力学效果。\n经过充分蠕虫强化的火箭冲刺能提升速度与射程。\n消耗适量的动力液。"
     },
     {
       "id": "csv:Upgrades/Aeronautics/About/Branch/Stun",
@@ -11799,27 +11799,27 @@
     {
       "id": "csv:Upgrades/BaseProgram/ConsumesJuice",
       "source": "Consumes Juice",
-      "translation": "消耗能量液"
+      "translation": "消耗动力液"
     },
     {
       "id": "csv:Upgrades/BaseProgram/JuiceCost",
       "source": "Juice Cost: $",
-      "translation": "能量液消耗：$"
+      "translation": "动力液消耗：$"
     },
     {
       "id": "csv:Upgrades/BaseProgram/NeedJuice",
       "source": "Need Juice",
-      "translation": "需要能量液"
+      "translation": "需要动力液"
     },
     {
       "id": "csv:Upgrades/BaseProgram/OutOfJuice",
       "source": "Out of juice",
-      "translation": "能量液耗尽"
+      "translation": "动力液耗尽"
     },
     {
       "id": "csv:Upgrades/BaseProgram/LowJuice",
       "source": "Low Juice",
-      "translation": "能量液不足"
+      "translation": "动力液不足"
     },
     {
       "id": "csv:Upgrades/BaseProgram/OutOfRange",
@@ -11944,7 +11944,7 @@
     {
       "id": "csv:Upgrades/Download/About/Branch/Name/Juice",
       "source": "Juice",
-      "translation": "能量液"
+      "translation": "动力液"
     },
     {
       "id": "csv:Upgrades/Download/About/Branch/Name/BioCrate",
@@ -11984,7 +11984,7 @@
     {
       "id": "csv:Upgrades/Download/About/Branch/Range",
       "source": "Worm <color=white><i>Range</i></color> to extend download distance.\nDrinks a fixed amount of juice per download type,\nirrespective of distance.",
-      "translation": "植入蠕虫升级<color=white><i>范围</i></color>以延长下载距离。\n每种下载类型消耗固定量的能量液，\n与距离无关。"
+      "translation": "植入蠕虫升级<color=white><i>范围</i></color>以延长下载距离。\n每种下载类型消耗固定量的动力液，\n与距离无关。"
     },
     {
       "id": "csv:Upgrades/Download/About/Branch/Battery",
@@ -11994,7 +11994,7 @@
     {
       "id": "csv:Upgrades/Download/About/Branch/Juice",
       "source": "Worm <color=white><i>Juice</i></color> to enable the downloading of fresh Juice.",
-      "translation": "植入蠕虫升级<color=white><i>能量液</i></color>以解锁新鲜能量液下载。"
+      "translation": "植入蠕虫升级<color=white><i>动力液</i></color>以解锁新鲜动力液下载。"
     },
     {
       "id": "csv:Upgrades/Download/About/Branch/BioCrate",
@@ -12079,17 +12079,17 @@
     {
       "id": "csv:Upgrades/Download/Branch/Juice/Message",
       "source": "Download Juice now available",
-      "translation": "现已可下载能量液"
+      "translation": "现已可下载动力液"
     },
     {
       "id": "csv:Upgrades/Download/Branch/Juice/Slot/1/Name",
       "source": "Download Juice",
-      "translation": "下载能量液"
+      "translation": "下载动力液"
     },
     {
       "id": "csv:Upgrades/Download/Branch/Juice/Slot/1/Desc",
       "source": "Enable downloading of packets of juice",
-      "translation": "允许下载能量液包"
+      "translation": "允许下载动力液包"
     },
     {
       "id": "csv:Upgrades/Download/Branch/BioCrate/Message",
@@ -12269,7 +12269,7 @@
     {
       "id": "csv:Upgrades/Drill/About/Branch/Drill",
       "source": "A well-wormed <color=white><i>Drill</i></color> breaks things apart faster.\nFairly thirsty juice consumption.",
-      "translation": "充分注入蠕虫的<color=white><i>钻头</i></color>能更快地把东西拆解。\n能量液消耗相当大。"
+      "translation": "充分注入蠕虫的<color=white><i>钻头</i></color>能更快地把东西拆解。\n动力液消耗相当大。"
     },
     {
       "id": "csv:Upgrades/Drill/About/Branch/Extension",
@@ -12419,7 +12419,7 @@
     {
       "id": "csv:Upgrades/EgoSucker/ConnectionBroken/OutOfJuice",
       "source": "ⓘ Ego Sucker out of juice",
-      "translation": "ⓘ 自我吸取器能量液耗尽"
+      "translation": "ⓘ 自我吸取器动力液耗尽"
     },
     {
       "id": "csv:Upgrades/EgoSucker/ConnectionBroken/Obstructed",
@@ -12474,7 +12474,7 @@
     {
       "id": "csv:Upgrades/EgoSucker/About/Branch/Rate",
       "source": "Worm <color=white><i>Rate</i></color> to leech faster.\nFaster leeching also means less juice consumed\nper ego fragment gained.",
-      "translation": "植入蠕虫升级<color=white><i>速率</i></color>以加快汲取速度。\n更快的汲取速度也意味着每获得一个自我碎片\n消耗的能量液更少。"
+      "translation": "植入蠕虫升级<color=white><i>速率</i></color>以加快汲取速度。\n更快的汲取速度也意味着每获得一个自我碎片\n消耗的动力液更少。"
     },
     {
       "id": "csv:Upgrades/EgoSucker/About/Branch/Bother",
@@ -12684,7 +12684,7 @@
     {
       "id": "csv:Upgrades/Fault/About/Description",
       "source": "Introduce faults to turn things\ninto ethermatically unstable \n'bombs', liable to implode\nunless handled with care.\n\n• Heavier objects make \n  more damaging implosions.\n• Hostile egos are faultable\n  at additional juice cost.",
-      "translation": "植入故障，将物体转变为以太\n不稳定的“炸弹”，若不小心\n对待极易发生内爆。\n\n• 物体越重，内爆造成的\n  伤害越大。\n• 敌对自我亦可植入故障，\n  但需消耗更多能量液。"
+      "translation": "植入故障，将物体转变为以太\n不稳定的“炸弹”，若不小心\n对待极易发生内爆。\n\n• 物体越重，内爆造成的\n  伤害越大。\n• 敌对自我亦可植入故障，\n  但需消耗更多动力液。"
     },
     {
       "id": "csv:Upgrades/Fault/About/Recommendation",
@@ -12899,7 +12899,7 @@
     {
       "id": "csv:Upgrades/Glitch/About/Branch/Density",
       "source": "Worm <color=white><i>Density</i></color> for more damaging glitches.\nDamage is inflicted in proportion to distance from epicentre.\nDrinks a fixed quota of juice per glitch.",
-      "translation": "植入蠕虫升级<color=white><i>密度</i></color>以造成伤害更高的故障。\n伤害根据距离爆心的远近按比例造成。\n每次故障消耗固定配额的能量液。"
+      "translation": "植入蠕虫升级<color=white><i>密度</i></color>以造成伤害更高的故障。\n伤害根据距离爆心的远近按比例造成。\n每次故障消耗固定配额的动力液。"
     },
     {
       "id": "csv:Upgrades/Glitch/About/Branch/Volume",
@@ -13204,7 +13204,7 @@
     {
       "id": "csv:Upgrades/Shift/InsufficientJuice",
       "source": "Insufficient Juice",
-      "translation": "能量液不足"
+      "translation": "动力液不足"
     },
     {
       "id": "csv:Upgrades/Shift/AimAtEthermaticObjects",
@@ -13274,7 +13274,7 @@
     {
       "id": "csv:Upgrades/Shift/About/Branch/Shock",
       "source": "Administer a short sharp <color=white><i>Shock</i></color> to hostiles,\ncausing them to malfunction for a wormable duration.\nThe larger their ego, the greater the juice cost.",
-      "translation": "对敌对目标施加一次短促强烈的<color=white><i>电击</i></color>，\n使其发生故障，持续时间可通过蠕虫延长。\n目标的自我越大，消耗的能量液就越多。"
+      "translation": "对敌对目标施加一次短促强烈的<color=white><i>电击</i></color>，\n使其发生故障，持续时间可通过蠕虫延长。\n目标的自我越大，消耗的动力液就越多。"
     },
     {
       "id": "csv:Upgrades/Shift/About/Branch/Vortex",
@@ -13434,7 +13434,7 @@
     {
       "id": "csv:Upgrades/Shotgun/About/Description",
       "source": "You want a gun?\n\nFires solid juice.\n\nGet up close and personal\nfor larger damage.\n\nBrainshots do critical damage.",
-      "translation": "想要一把枪？\n\n发射固态能量液。\n\n靠近目标射击，\n伤害更足。\n\n爆脑射击造成暴击伤害。"
+      "translation": "想要一把枪？\n\n发射固态动力液。\n\n靠近目标射击，\n伤害更足。\n\n爆脑射击造成暴击伤害。"
     },
     {
       "id": "csv:Upgrades/Shotgun/About/Recommendation",
@@ -13464,12 +13464,12 @@
     {
       "id": "csv:Upgrades/Shotgun/About/Branch/BigShot",
       "source": "Fire down both barrels!\nDeals double damage,\nwhile drinking only 1.5x juice.",
-      "translation": "双管齐发！\n造成双倍伤害，\n却仅消耗1.5倍能量液。"
+      "translation": "双管齐发！\n造成双倍伤害，\n却仅消耗1.5倍动力液。"
     },
     {
       "id": "csv:Upgrades/Shotgun/About/Branch/Spread",
       "source": "Worm to reduce the 'spread effect' of projecting\nsolid juice through space at high velocity.\nMakes it easier to inflict full damage.",
-      "translation": "用蠕虫升级以减少固态能量液\n在空间中高速喷射时的“扩散效应”。\n更易造成全额伤害。"
+      "translation": "用蠕虫升级以减少固态动力液\n在空间中高速喷射时的“扩散效应”。\n更易造成全额伤害。"
     },
     {
       "id": "csv:Upgrades/Shotgun/About/Branch/Recoil",
@@ -13654,7 +13654,7 @@
     {
       "id": "csv:Upgrades/VaQ/About/Description",
       "source": "Suck up small bits to recycle\ntheir energy and juice.\n\nAim the VaQ at lightweight stuff \nto suck it towards you.\n\nAim at anything else to suck\nyourself towards it.",
-      "translation": "吸入细小碎片以回收\n其能量与能量液。\n\n将VaQ对准轻量物品\n可将其吸向你。\n\n对准其他任何物体\n则会将你自己吸过去。"
+      "translation": "吸入细小碎片以回收\n其能量与动力液。\n\n将VaQ对准轻量物品\n可将其吸向你。\n\n对准其他任何物体\n则会将你自己吸过去。"
     },
     {
       "id": "csv:Upgrades/VaQ/About/Branch/Name/VaQ",
@@ -13689,7 +13689,7 @@
     {
       "id": "csv:Upgrades/VaQ/About/Branch/Juicer",
       "source": "Worm <color=white><i>Juicer</i></color> to squeeze more juice\nfrom every broken bit sucked up",
-      "translation": "对<color=white><i>榨汁器</i></color>使用蠕虫，从吸入的\n每块破损碎片中榨出更多能量液"
+      "translation": "对<color=white><i>榨汁器</i></color>使用蠕虫，从吸入的\n每块破损碎片中榨出更多动力液"
     },
     {
       "id": "csv:Upgrades/VaQ/About/Branch/Fragmenter",
@@ -13744,12 +13744,12 @@
     {
       "id": "csv:Upgrades/VaQ/Branch/Juicer/Message",
       "source": "Juice extraction upgraded",
-      "translation": "能量液榨取已升级"
+      "translation": "动力液榨取已升级"
     },
     {
       "id": "csv:Upgrades/VaQ/Branch/Juicer/Slot/Desc",
       "source": "Digested broken bits yield [?]x juice",
-      "translation": "消化的残骸碎片可产出 [?] 倍能量液"
+      "translation": "消化的残骸碎片可产出 [?] 倍动力液"
     },
     {
       "id": "csv:Upgrades/VaQ/Branch/Juicer/Slot/1/Name",
@@ -13894,7 +13894,7 @@
     {
       "id": "csv:Upgrades/Virtual/About/Branch/Creep",
       "source": "User movement speed is limited to a <color=white><i>Creep</i></color>.\nWorm to increase the virtual speed cap.\nJuice is consumed to preserve virtual integrity.",
-      "translation": "使用者移动速度被限制为<color=white><i>潜行</i></color>。\n植入蠕虫升级以提高虚拟速度上限。\n消耗能量液以维持虚拟完整性。"
+      "translation": "使用者移动速度被限制为<color=white><i>潜行</i></color>。\n植入蠕虫升级以提高虚拟速度上限。\n消耗动力液以维持虚拟完整性。"
     },
     {
       "id": "csv:Upgrades/Virtual/About/Branch/Concurrency",
@@ -13909,7 +13909,7 @@
     {
       "id": "csv:Upgrades/Virtual/About/Branch/Idle",
       "source": "Worm <color=white><i>Idle</i></color> to remain virtual\nat zero juice cost while idling.\ni.e. not moving, not interacting, not using other programs.",
-      "translation": "植入蠕虫升级<color=white><i>闲置</i></color>，以便在闲置时\n以零能量液消耗保持虚拟状态。\n即：不移动、不交互、不使用其他程序。"
+      "translation": "植入蠕虫升级<color=white><i>闲置</i></color>，以便在闲置时\n以零动力液消耗保持虚拟状态。\n即：不移动、不交互、不使用其他程序。"
     },
     {
       "id": "csv:Upgrades/Virtual/About/Branch/Abstract",
@@ -13984,7 +13984,7 @@
     {
       "id": "csv:Upgrades/Virtual/Branch/Concurrency/Slot/2/Desc",
       "source": "Remain virtual while using other programs, at 50% juice penalty",
-      "translation": "在使用其他程序时保持虚拟状态，但有50%的额外能量液消耗"
+      "translation": "在使用其他程序时保持虚拟状态，但有50%的额外动力液消耗"
     },
     {
       "id": "csv:Upgrades/Virtual/Branch/Concurrency/Slot/2/Message",
@@ -13999,7 +13999,7 @@
     {
       "id": "csv:Upgrades/Virtual/Branch/Concurrency/Slot/3/Desc",
       "source": "Remain virtual while using other programs, at 25% juice penalty",
-      "translation": "在使用其他程序时保持虚拟状态，但有25%的额外能量液消耗"
+      "translation": "在使用其他程序时保持虚拟状态，但有25%的额外动力液消耗"
     },
     {
       "id": "csv:Upgrades/Virtual/Branch/Concurrency/Slot/3/Message",
@@ -14014,7 +14014,7 @@
     {
       "id": "csv:Upgrades/Virtual/Branch/Concurrency/Slot/4/Desc",
       "source": "Remain virtual while using other programs, with no juice penalty",
-      "translation": "在使用其他程序时保持虚拟状态，且无额外能量液消耗"
+      "translation": "在使用其他程序时保持虚拟状态，且无额外动力液消耗"
     },
     {
       "id": "csv:Upgrades/Virtual/Branch/Concurrency/Slot/4/Message",
@@ -14044,7 +14044,7 @@
     {
       "id": "csv:Upgrades/Virtual/Branch/Idle/Slot/1/Desc",
       "source": "Drink zero juice while virtual and idle",
-      "translation": "在虚拟且闲置状态下消耗零能量液"
+      "translation": "在虚拟且闲置状态下消耗零动力液"
     },
     {
       "id": "csv:Upgrades/Virtual/Branch/Idle/Slot/1/Message",
@@ -14509,7 +14509,7 @@
     {
       "id": "csv:Plot/tutorial/plot/computer/{it is me}",
       "source": "Hello, it's me (you)\nfrom an earlier version.\nYou (I) left this \nto remind me (you)\nhow to defeat the parasite.\nBut then you (I) discovered\nthere wasn't enough space\non this screen,\nso I (you) decided to\nleave a couple of eye-pads \ninstead.",
-      "translation": "你好，是我（你）\n来自之前的版本。\n你（我）留下了这个，\n是为了提醒我（你）\n该如何击败寄生体。\n但后来你（我）发现\n屏幕上的空间\n不够写了，\n所以我（你）决定\n留下两台 眼板\n来代替。"
+      "translation": "你好，是我（你）\n来自之前的版本。\n你（我）留下了这个，\n是为了提醒我（你）\n该如何击败寄生体。\n但后来你（我）发现\n屏幕上的空间\n不够写了，\n所以我（你）决定\n留下两台 EyePad 平板\n来代替。"
     },
     {
       "id": "csv:Plot/tutorial/plot/tasks/Tasks/Task/GetEMU",
@@ -14904,7 +14904,7 @@
     {
       "id": "csv:Plot/egonomics/plot/misc/Misc/You can re-print bugs to gain an emergency drop of juice",
       "source": "You can re-print bugs to gain an emergency drop of juice",
-      "translation": "你可以重新打印BUG以获取救急的一滴能量液"
+      "translation": "你可以重新打印BUG以获取救急的一滴动力液"
     },
     {
       "id": "csv:Plot/egonomics/plot/misc/{ego.engine.01}",
@@ -14954,12 +14954,12 @@
     {
       "id": "csv:Plot/thrust/plot/eyepad/{intro juice}",
       "source": "Conscious Robot Services (CRS) Health & Safety Missive:\n\nDear customer #73,\n\nThe transmission subsystem of your new bug is designed to consume etherelectrolytic fluids.\n\nThe famous jus' jus juice snack products are examples of etherelectrolytic fluids, and are widely available.\n\nWe would like to take this opportunity to wish you every good fortune with your new bug!\n\nRegardance,\nFrom the Conscious Robot Services Customer Relations Team.",
-      "translation": "有意识机器人服务公司（CRS）健康与安全公文：\n\n尊敬的客户 #73：\n\n您的新BUG传动子系统设计用于消耗以太电解液。\n\n著名的“就是汁”能量液零食产品便属于以太电解液，且随处可见。\n\n我们借此机会，祝愿您与您的新BUG一切顺利！\n\n谨致问候，\n有意识机器人服务公司客户关系团队。"
+      "translation": "有意识机器人服务公司（CRS）健康与安全公文：\n\n尊敬的客户 #73：\n\n您的新BUG传动子系统设计用于消耗以太电解液。\n\n著名的“就是汁”动力液零食产品便属于以太电解液，且随处可见。\n\n我们借此机会，祝愿您与您的新BUG一切顺利！\n\n谨致问候，\n有意识机器人服务公司客户关系团队。"
     },
     {
       "id": "csv:Plot/thrust/plot/eyepad/{juice gauge}",
       "source": "Dear customer #73,\n\nThank you for your letter dated 13.13.2980\n\nWe are very sorry to hear you are not overly impressed by the aeronautics bug program.\n\nBefore acceding to your refund request, please ensure you have tried the following remedial steps:\n\n• Do you have sufficient juice showing up in your EMU juice gauge? We recommend you maintain at least one full bar of juice at all times.\n\n• Have you tried worm-hacking the disk? If you have, apologies, your warranty has already been invalidated.\n\n• Have you tried switching your bug off and on again?\n\nBest possible regardance,\nFrom the Conscious Robot Services Customer Relations Team.",
-      "translation": "尊敬的客户 #73：\n\n感谢您于2980年13月13日寄出的信件。\n\n听说您对航空BUG程序并不太满意，我们深表遗憾。\n\n在同意您的退款申请之前，请确保您已尝试过以下补救步骤：\n\n• 您的EMU能量液计量表上是否显示有足够的能量液？我们建议随时保持至少一格满格的能量液。\n\n• 您是否尝试过用蠕虫黑入磁盘？如果试过，很抱歉，您的保修已失效。\n\n• 您是否尝试过将BUG关机后再重新开机？\n\n致以最崇高的敬意，\n有意识机器人服务公司客户关系团队。"
+      "translation": "尊敬的客户 #73：\n\n感谢您于2980年13月13日寄出的信件。\n\n听说您对航空BUG程序并不太满意，我们深表遗憾。\n\n在同意您的退款申请之前，请确保您已尝试过以下补救步骤：\n\n• 您的EMU动力液计量表上是否显示有足够的动力液？我们建议随时保持至少一格满格的动力液。\n\n• 您是否尝试过用蠕虫黑入磁盘？如果试过，很抱歉，您的保修已失效。\n\n• 您是否尝试过将BUG关机后再重新开机？\n\n致以最崇高的敬意，\n有意识机器人服务公司客户关系团队。"
     },
     {
       "id": "csv:Plot/thrust/plot/eyepad/{oil}",
@@ -15024,7 +15024,7 @@
     {
       "id": "csv:Plot/thrust/plot/tasks/Tasks/Drink juice",
       "source": "Drink juice",
-      "translation": "喝能量液"
+      "translation": "喝动力液"
     },
     {
       "id": "csv:Plot/thrust/plot/tasks/Tasks/UpgradeBug22Disk",
@@ -15169,7 +15169,7 @@
     {
       "id": "csv:Plot/disassembly/plot/eyepad/{bug report 002}",
       "source": "Bug report #002\n\n  • Summary: \n      I keep running out of juice\n\n  • Steps to reproduce: \n      1. I start to do stuff\n      2. I run out of juice\n\n  • CRS developer comment:\n      Freshly recruited CRS contractors often raise this.\n      We recommend keeping your juice topped up at all \n      times - there should be plenty around.\n\n  • Action:\n      DO NOT FIX.",
-      "translation": "Bug报告 #002\n\n  • 摘要：\n      我的能量液总是不够用\n\n  • 重现步骤：\n      1. 我开始干活\n      2. 我的能量液用光了\n\n  • CRS开发者回复：\n      刚入职的CRS承包商经常提这个问题。\n      我们建议随时把你的能量液补满——\n      到处都有大把能量液。\n\n  • 处理措施：\n      无需修复。"
+      "translation": "Bug报告 #002\n\n  • 摘要：\n      我的动力液总是不够用\n\n  • 重现步骤：\n      1. 我开始干活\n      2. 我的动力液用光了\n\n  • CRS开发者回复：\n      刚入职的CRS承包商经常提这个问题。\n      我们建议随时把你的动力液补满——\n      到处都有大把动力液。\n\n  • 处理措施：\n      无需修复。"
     },
     {
       "id": "csv:Plot/disassembly/plot/eyepad/{bug report 003}",
@@ -15294,7 +15294,7 @@
     {
       "id": "csv:Plot/mum/plot/eyepad/{dont disassemble mum}",
       "source": "Dear cruel world,\n\nI'm leaving this note in case I don't make it out of here, which is looking increasingly likely.\n\nWe were told to evacuate NOW, but - stupidly, I realise with hindsight - I wanted to grab my files first.\n\nI think I'm trapped here.\n\nMUM has gone nuts.\n\nMustn't let her see me.\n\nI tried breaking her apart, but all that happened was another MUM appeared.\n\nConclusion: waste of juice.\n\nI need to ctrl her, it's my only chance.\n\nLove you Mum. \n\nChris.\n\nPS. Not \"love you MUM\", \"love you, Mum\" - my real Mum, I mean.",
-      "translation": "亲爱的残酷世界：\n\n我留下这张便条，以防我出不去——现在看来这可能性越来越大了。\n\n我们被通知“立即”撤离，但——事后我才意识到自己真蠢——我想先把我的文件拿到手。\n\n我觉得我被困在这里了。\n\nMUM彻底疯了。\n\n千万不能让她看见我。\n\n我试过把她拆碎，但结果只是又冒出来了一个MUM。\n\n结论：纯粹浪费能量液。\n\n我必须ctrl她，这是我唯一的机会。\n\n爱你，妈妈。\n\n克里斯。\n\n又及：不是“爱你，MUM”，是“爱你，妈妈”——我是指我亲妈。"
+      "translation": "亲爱的残酷世界：\n\n我留下这张便条，以防我出不去——现在看来这可能性越来越大了。\n\n我们被通知“立即”撤离，但——事后我才意识到自己真蠢——我想先把我的文件拿到手。\n\n我觉得我被困在这里了。\n\nMUM彻底疯了。\n\n千万不能让她看见我。\n\n我试过把她拆碎，但结果只是又冒出来了一个MUM。\n\n结论：纯粹浪费动力液。\n\n我必须ctrl她，这是我唯一的机会。\n\n爱你，妈妈。\n\n克里斯。\n\n又及：不是“爱你，MUM”，是“爱你，妈妈”——我是指我亲妈。"
     },
     {
       "id": "csv:Plot/mum/plot/eyepad/{intro firewall}",
@@ -15304,7 +15304,7 @@
     {
       "id": "csv:Plot/mum/plot/eyepad/{keep mum juiced up}",
       "source": "\nFor the urgent attention of all legacy systems analysts:\n\nPlease ensure you leave all MUMs fully juiced up at the end of your shift.",
-      "translation": "\n请所有遗留系统分析员紧急注意：\n\n下班交接时，请务必确保所有MUM都已补满能量液。"
+      "translation": "\n请所有遗留系统分析员紧急注意：\n\n下班交接时，请务必确保所有MUM都已补满动力液。"
     },
     {
       "id": "csv:Plot/mum/plot/eyepad/{recharge}",
@@ -15734,7 +15734,7 @@
     {
       "id": "csv:Plot/merger/plot/computer/{password}",
       "source": "Dear Miss Lucia,\n\nI think I may have left my eye-pad in your office - oups!\n\nDon't worry, I definitely wiped the network password I had jotted down temporarily on it.\n\nI probably left it literally on your side of the adjoining door. \n\nI'm such an idiot! \n\nCan you let me back through?\n\nSimon.\n",
-      "translation": "亲爱的露西亚小姐，\n\n我想我可能把我的 眼板 落在你办公室了——哎呀！\n\n别担心，我临时随手记在上面的网络密码肯定已经擦掉了。\n\n我大概就把它落在连通门靠你那一侧的位置。\n\n我真是个蠢货！\n\n你能放我回去拿一下吗？\n\n西蒙。\n"
+      "translation": "亲爱的露西亚小姐，\n\n我想我可能把我的 EyePad 平板 落在你办公室了——哎呀！\n\n别担心，我临时随手记在上面的网络密码肯定已经擦掉了。\n\n我大概就把它落在连通门靠你那一侧的位置。\n\n我真是个蠢货！\n\n你能放我回去拿一下吗？\n\n西蒙。\n"
     },
     {
       "id": "csv:Plot/merger/plot/computer/{username}",
@@ -15889,7 +15889,7 @@
     {
       "id": "csv:Plot/workshop/plot/eyepad/{download.exe}",
       "source": "[DRAFT]\n\nDear customer #73,\n\nThank you for your monograph dated 30.02.2981\n\nWe truly regret that you \"fail to see the point\" of our download.exe bug program.\n\n• Did you read the 'Get Started' guide?\n\n• If we rename it to 'teleport.exe', would that help?\n\n• As you say, the program is indeed fairly juice intensive - our engineers are working on a more efficient injection mechanism.\n\n• If you don't like it, don't use it, you are under no obligation. But no, sorry, no refund.\n\nBest possible regardance,\nFrom the Conscious Robot Services Customer Relations Team.",
-      "translation": "[草稿]\n\n尊敬的第73号客户：\n\n感谢您于2981年2月30日寄来的专题报告。\n\n得知您“完全看不出我们的download.exe BUG程序有什么意义”，我们深感遗憾。\n\n• 您阅读过《新手指南》了吗？\n\n• 如果我们将其改名为“teleport.exe”，会对您有所帮助吗？\n\n• 正如您所言，该程序确实相当消耗能量液——我们的工程师正在研发更高效的注入机制。\n\n• 如果您不喜欢，不使用即可，您无需承担任何义务。但是抱歉，绝不退款。\n\n致以最崇高的敬意，\n有意识机器人服务公司客户关系团队 敬上。"
+      "translation": "[草稿]\n\n尊敬的第73号客户：\n\n感谢您于2981年2月30日寄来的专题报告。\n\n得知您“完全看不出我们的download.exe BUG程序有什么意义”，我们深感遗憾。\n\n• 您阅读过《新手指南》了吗？\n\n• 如果我们将其改名为“teleport.exe”，会对您有所帮助吗？\n\n• 正如您所言，该程序确实相当消耗动力液——我们的工程师正在研发更高效的注入机制。\n\n• 如果您不喜欢，不使用即可，您无需承担任何义务。但是抱歉，绝不退款。\n\n致以最崇高的敬意，\n有意识机器人服务公司客户关系团队 敬上。"
     },
     {
       "id": "csv:Plot/workshop/plot/eyepad/{faulty canisters}",
@@ -16454,7 +16454,7 @@
     {
       "id": "csv:Plot/crs.techlab/plot/computer/{project update.09}",
       "source": "Team Bindweed have adapted a bug chassis to incorporate a fuel resevoir, filled it with the industrial solvent found in regular packets of juice, and demonstrated that burning the juice under void conditions is sufficient to power several ethermatic functions.\nThey've even built a placeholder EMU readout. \nWell done boys! \n(And Pamela)",
-      "translation": "旋花小队（Team Bindweed）改装了一个BUG底盘，在其中加入了一个燃料箱，里面装满了普通能量液包装里常见的那种工业溶剂；他们已经证实，在虚空条件下燃烧能量液足以驱动若干项以太质功能。\n他们甚至还做出了一个EMU读数占位界面。\n干得好，小伙子们！\n（还有帕梅拉）"
+      "translation": "旋花小队（Team Bindweed）改装了一个BUG底盘，在其中加入了一个燃料箱，里面装满了普通动力液包装里常见的那种工业溶剂；他们已经证实，在虚空条件下燃烧动力液足以驱动若干项以太质功能。\n他们甚至还做出了一个EMU读数占位界面。\n干得好，小伙子们！\n（还有帕梅拉）"
     },
     {
       "id": "csv:Plot/crs.techlab/plot/computer/{project update.10}",
@@ -16594,7 +16594,7 @@
     {
       "id": "csv:Plot/crs.observation/plot/eyepad/{ego sucker notes}",
       "source": "Ego-Sucker tool notes v6.18\n\nDisclaimer: Users of the tool should bear in mind the moral implications of consuming ego from other sentient entities. Remember: they were people once too.\n\n• Any ego-bearing host sensor may be targeted\n\n• Ego is extracted through target sensors in discrete packets, or fragments\n\n• Owing to egomatic convergence, it may be possible to extract through glass - see WORM user guide.\n\n• Ego extraction requires an energy source, e.g. a BUG equipped with a juice exchanger\n\n• Ego extraction is mostly painless and in modest quantities, barely detectable\n\n• Lengthy extractions can cause discomfort and are not recommended",
-      "translation": "自我吸取器工具说明 v6.18\n\n免责声明：本工具使用者应注意从其他感知实体吸收自我的道德影响。请记住：他们曾经也是人类。\n\n• 可瞄准任何带有自我的宿主传感器\n\n• 自我会以离散数据包或碎片形式通过目标传感器被提取\n\n• 得益于自我聚合效应，或许可以穿透玻璃进行提取——详见Worm用户指南。\n\n• 自我提取需要能源，例如配备了能量液交换器的BUG\n\n• 自我提取过程基本无痛，且小剂量下极难察觉\n\n• 长时间提取可能引起不适，不予建议"
+      "translation": "自我吸取器工具说明 v6.18\n\n免责声明：本工具使用者应注意从其他感知实体吸收自我的道德影响。请记住：他们曾经也是人类。\n\n• 可瞄准任何带有自我的宿主传感器\n\n• 自我会以离散数据包或碎片形式通过目标传感器被提取\n\n• 得益于自我聚合效应，或许可以穿透玻璃进行提取——详见Worm用户指南。\n\n• 自我提取需要能源，例如配备了动力液交换器的BUG\n\n• 自我提取过程基本无痛，且小剂量下极难察觉\n\n• 长时间提取可能引起不适，不予建议"
     },
     {
       "id": "csv:Plot/crs.observation/plot/eyepad/{faulting.canisters}",
@@ -16699,7 +16699,7 @@
     {
       "id": "csv:Plot/crs.observation/plot/sms/{go.to.cloud}",
       "source": "David?\n\nThere's a problem.\n\nYou said that if the worst happens, you'd try to use a temporary version of yourself to bring yourself back. But The Executor has deleted your ego backup history as far back as when you first began to question him, so even if your plan works, you'll still not remember any of it.\n\nThere's still a chance though:\n\nI managed to bootleg your last ego backup onto disk before The Executor purged the repository. I put the disk in a PUP and dispatched the PUP to The Cloud.\n\nSo if you're here, go there. To the Cloud. Find yourself.\n\nPAM.\n\nPS. FYEO Here's half the POD C fingerprint. The other half is on my eye-pad - my assistant borrowed it - look under POD B.",
-      "translation": "大卫？\n\n出问题了。\n\n你说过如果情况变得最糟，你会尝试用一个临时的自己来让自己复活。但执行者已经删除了你自从开始质疑他以来的自我备份历史。所以就算你的计划成功，你也仍然不会记得这段经历。\n\n不过还有一个机会：\n\n在执行者清理库之前，我设法把你的最后一份自我备份私自刻录到了磁盘上。我把磁盘放进了一台PUP，并把那台PUP送到了“云端”。\n\n所以如果你到了这里，就去那里吧。去云端。找回你自己。\n\nPAM。\n\n又及：仅供你亲阅。这是舱室 C指纹的一半。另一半在我的眼板上——我助手借走了它——去舱室 B下面找找。"
+      "translation": "大卫？\n\n出问题了。\n\n你说过如果情况变得最糟，你会尝试用一个临时的自己来让自己复活。但执行者已经删除了你自从开始质疑他以来的自我备份历史。所以就算你的计划成功，你也仍然不会记得这段经历。\n\n不过还有一个机会：\n\n在执行者清理库之前，我设法把你的最后一份自我备份私自刻录到了磁盘上。我把磁盘放进了一台PUP，并把那台PUP送到了“云端”。\n\n所以如果你到了这里，就去那里吧。去云端。找回你自己。\n\nPAM。\n\n又及：仅供你亲阅。这是舱室 C指纹的一半。另一半在我的EyePad 平板上——我助手借走了它——去舱室 B下面找找。"
     },
     {
       "id": "csv:Plot/crs.observation/plot/sms/{humiliated}",
@@ -17914,7 +17914,7 @@
     {
       "id": "csv:Captions/cloud.repo.cat/15",
       "source": "on those eyepads that have been conveniently left lying there.",
-      "translation": "就记在那些“恰好”被随手扔在那里的眼板上。"
+      "translation": "就记在那些“恰好”被随手扔在那里的EyePad 平板上。"
     },
     {
       "id": "csv:Captions/cloud.repo.cat/16",
@@ -20884,7 +20884,7 @@
     {
       "id": "csv:Captions/PAM/pam.sci.4/21",
       "source": "The other half is on my eye-pad",
-      "translation": "另一半在我的眼板上"
+      "translation": "另一半在我的EyePad 平板上"
     },
     {
       "id": "csv:Captions/PAM/pam.sci.4/22",
@@ -21359,7 +21359,7 @@
     {
       "id": "csv:Captions/EAA/012/3",
       "source": "For a celebratory juice lunch-in",
-      "translation": "参加庆祝能量液午餐会"
+      "translation": "参加庆祝动力液午餐会"
     },
     {
       "id": "csv:Captions/EAA/012/4",
@@ -21374,7 +21374,7 @@
     {
       "id": "csv:Captions/EAA/012/6",
       "source": "and as you enjoy your free juice ration",
-      "translation": "在享用免费配给的能量液时"
+      "translation": "在享用免费配给的动力液时"
     },
     {
       "id": "csv:Captions/EAA/012/7",
@@ -21449,12 +21449,12 @@
     {
       "id": "csv:Captions/EAA/014/3",
       "source": "Due to advancements in juice technology",
-      "translation": "得益于能量液技术的进步"
+      "translation": "得益于动力液技术的进步"
     },
     {
       "id": "csv:Captions/EAA/014/4",
       "source": "We are now able to offer over 40 different preparation methods for juice",
-      "translation": "我们现在能够提供超过40种不同的能量液调制方式"
+      "translation": "我们现在能够提供超过40种不同的动力液调制方式"
     },
     {
       "id": "csv:Captions/EAA/014/5",
@@ -21464,22 +21464,22 @@
     {
       "id": "csv:Captions/EAA/014/6",
       "source": "deep-fried juice",
-      "translation": "油炸能量液"
+      "translation": "油炸动力液"
     },
     {
       "id": "csv:Captions/EAA/014/7",
       "source": "Juice Juliet",
-      "translation": "能量液朱丽叶"
+      "translation": "动力液朱丽叶"
     },
     {
       "id": "csv:Captions/EAA/014/8",
       "source": "Breaded juice on toast",
-      "translation": "吐司配裹粉能量液"
+      "translation": "吐司配裹粉动力液"
     },
     {
       "id": "csv:Captions/EAA/014/9",
       "source": "Juice au gratin",
-      "translation": "焗烤能量液"
+      "translation": "焗烤动力液"
     },
     {
       "id": "csv:Captions/EAA/014/10",
@@ -21489,7 +21489,7 @@
     {
       "id": "csv:Captions/EAA/014/11",
       "source": "Juice Jambalaya",
-      "translation": "能量液什锦饭"
+      "translation": "动力液什锦饭"
     },
     {
       "id": "csv:Captions/EAA/014/12",
@@ -21499,7 +21499,7 @@
     {
       "id": "csv:Captions/EAA/014/13",
       "source": "And an even bigger round of applause for juice",
-      "translation": "并给能量液送上更热烈的掌声"
+      "translation": "并给动力液送上更热烈的掌声"
     },
     {
       "id": "csv:Captions/EAA/014/14",
@@ -21739,7 +21739,7 @@
     {
       "id": "csv:Captions/EAA/021/6",
       "source": "with twelve cubic centimetres of juice cake in celebration",
-      "translation": "十二立方厘米的能量液蛋糕以示庆祝。"
+      "translation": "十二立方厘米的动力液蛋糕以示庆祝。"
     },
     {
       "id": "csv:Captions/EAA/021/7",
@@ -21979,17 +21979,17 @@
     {
       "id": "csv:Captions/EAA/demotion.off/4",
       "source": "Juice",
-      "translation": "能量液"
+      "translation": "动力液"
     },
     {
       "id": "csv:Captions/EAA/demotion.off/5",
       "source": "Juice",
-      "translation": "能量液"
+      "translation": "动力液"
     },
     {
       "id": "csv:Captions/EAA/demotion.off/6",
       "source": "Juice",
-      "translation": "能量液"
+      "translation": "动力液"
     },
     {
       "id": "csv:Captions/EAA/demotion.on/1",
@@ -22669,7 +22669,7 @@
     {
       "id": "csv:Signs/CheapJuice",
       "source": "JUICE HAS NEVER BEEN CHEAPER",
-      "translation": "能量液前所未有的大降价"
+      "translation": "动力液前所未有的大降价"
     },
     {
       "id": "caption:Captions/EAA/001.txt:1",
@@ -23034,7 +23034,7 @@
     {
       "id": "caption:Captions/EAA/012.txt:3",
       "source": "For a celebratory juice lunch-in",
-      "translation": "参加庆祝能量液午餐会"
+      "translation": "参加庆祝动力液午餐会"
     },
     {
       "id": "caption:Captions/EAA/012.txt:4",
@@ -23049,7 +23049,7 @@
     {
       "id": "caption:Captions/EAA/012.txt:6",
       "source": "and as you enjoy your free juice ration",
-      "translation": "在享用免费配给的能量液时"
+      "translation": "在享用免费配给的动力液时"
     },
     {
       "id": "caption:Captions/EAA/012.txt:7",
@@ -23124,12 +23124,12 @@
     {
       "id": "caption:Captions/EAA/014.txt:3",
       "source": "Due to advancements in juice technology",
-      "translation": "得益于能量液技术的进步"
+      "translation": "得益于动力液技术的进步"
     },
     {
       "id": "caption:Captions/EAA/014.txt:4",
       "source": "We are now able to offer over 40 different preparation methods for juice",
-      "translation": "我们现在能够提供超过40种不同的能量液调制方式"
+      "translation": "我们现在能够提供超过40种不同的动力液调制方式"
     },
     {
       "id": "caption:Captions/EAA/014.txt:5",
@@ -23139,22 +23139,22 @@
     {
       "id": "caption:Captions/EAA/014.txt:6",
       "source": "deep-fried juice",
-      "translation": "油炸能量液"
+      "translation": "油炸动力液"
     },
     {
       "id": "caption:Captions/EAA/014.txt:7",
       "source": "Juice Juliet",
-      "translation": "能量液朱丽叶"
+      "translation": "动力液朱丽叶"
     },
     {
       "id": "caption:Captions/EAA/014.txt:8",
       "source": "Breaded juice on toast",
-      "translation": "吐司配裹粉能量液"
+      "translation": "吐司配裹粉动力液"
     },
     {
       "id": "caption:Captions/EAA/014.txt:9",
       "source": "Juice au gratin",
-      "translation": "焗烤能量液"
+      "translation": "焗烤动力液"
     },
     {
       "id": "caption:Captions/EAA/014.txt:10",
@@ -23164,7 +23164,7 @@
     {
       "id": "caption:Captions/EAA/014.txt:11",
       "source": "Juice Jambalaya",
-      "translation": "能量液什锦饭"
+      "translation": "动力液什锦饭"
     },
     {
       "id": "caption:Captions/EAA/014.txt:12",
@@ -23174,7 +23174,7 @@
     {
       "id": "caption:Captions/EAA/014.txt:13",
       "source": "And an even bigger round of applause for juice",
-      "translation": "并给能量液送上更热烈的掌声"
+      "translation": "并给动力液送上更热烈的掌声"
     },
     {
       "id": "caption:Captions/EAA/014.txt:14",
@@ -23414,7 +23414,7 @@
     {
       "id": "caption:Captions/EAA/021.txt:6",
       "source": "with twelve cubic centimetres of juice cake in celebration",
-      "translation": "十二立方厘米的能量液蛋糕以示庆祝。"
+      "translation": "十二立方厘米的动力液蛋糕以示庆祝。"
     },
     {
       "id": "caption:Captions/EAA/021.txt:7",
@@ -23654,17 +23654,17 @@
     {
       "id": "caption:Captions/EAA/demotion.off.txt:4",
       "source": "Juice",
-      "translation": "能量液"
+      "translation": "动力液"
     },
     {
       "id": "caption:Captions/EAA/demotion.off.txt:5",
       "source": "Juice",
-      "translation": "能量液"
+      "translation": "动力液"
     },
     {
       "id": "caption:Captions/EAA/demotion.off.txt:6",
       "source": "Juice",
-      "translation": "能量液"
+      "translation": "动力液"
     },
     {
       "id": "caption:Captions/EAA/demotion.on.txt:1",
@@ -24189,7 +24189,7 @@
     {
       "id": "caption:Captions/PAM/pam.sci.4.txt:21",
       "source": "The other half is on my eye-pad",
-      "translation": "另一半在我的眼板上"
+      "translation": "另一半在我的EyePad 平板上"
     },
     {
       "id": "caption:Captions/PAM/pam.sci.4.txt:22",
@@ -24824,7 +24824,7 @@
     {
       "id": "caption:Captions/cloud.repo.cat.txt:15",
       "source": "on those eyepads that have been conveniently left lying there.",
-      "translation": "就记在那些“恰好”被随手扔在那里的眼板上。"
+      "translation": "就记在那些“恰好”被随手扔在那里的EyePad 平板上。"
     },
     {
       "id": "caption:Captions/cloud.repo.cat.txt:16",

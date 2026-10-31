@@ -44,6 +44,27 @@ def patch_native(original):
     replace(0x180d1be9a, bytes.fromhex('f30f5c05')+struct.pack('<i', 0x180e1d3a0-instruction_end),
             bytes.fromhex('f30f5c05')+struct.pack('<i', 0x180e1d3c0-instruction_end),
             'Reserve one additional native character cell for wide controller glyphs, including Latin Ctrl')
+    # The program panel places its two direction glyphs independently of MessagesUI.
+    # Use the verified alignment gap after this method for a 10-byte leaf: only
+    # volatile EAX/XMM0 change, with no stack frame or unwind entry required.
+    panel_anchor = 0x180dd4514
+    leaf = b'\xb8' + struct.pack('<i', -86) + bytes.fromhex('f30f2ac0c3')
+    replace(panel_anchor, b'\xcc' * len(leaf), leaf,
+            'Keep program-selection direction glyphs left of the CJK label')
+    for call in (0x180dd3add, 0x180dd3b35):
+        replace(call, b'\xe8' + struct.pack('<i', 0x180cd42f0 - (call + 5)),
+                b'\xe8' + struct.pack('<i', panel_anchor - (call + 5)),
+                'Program panel direction glyph anchor only; install glyph unchanged')
+    # Give the details panel's short centred CJK Install/Confirm labels room
+    # beside their glyphs; preserve vertical placement and the existing margin.
+    # The program-list Install glyph uses another path unchanged.
+    assert struct.unpack_from('<f', original, offset(0x180e1d38c))[0] == 0.5
+    assert struct.unpack_from('<f', original, offset(0x180e4a010))[0] == 2.5
+    for instruction in (0x180dcf23f, 0x180dcf843):
+        end = instruction + 8
+        replace(instruction, bytes.fromhex('f30f591d') + struct.pack('<i', 0x180e1d38c - end),
+                bytes.fromhex('f30f591d') + struct.pack('<i', 0x180e4a010 - end),
+                'Reserve centred CJK Install/Confirm glyph clearance in the details panel')
     allowed = {at+i for c in changes for at in [c['file_offset']] for i in range(len(bytes.fromhex(c['before'])))}
     assert len(result) == len(original)
     actual = [i for i, (a,b) in enumerate(zip(original,result)) if a != b]
