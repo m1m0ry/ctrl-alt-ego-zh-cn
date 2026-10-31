@@ -4,7 +4,7 @@
 
 适用游戏版本：Steam v1.5.8（build 22614084，Windows/Proton）。
 
-[下载入口（首个发行包待上传）](https://github.com/m1m0ry/ctrl-alt-ego-zh-cn/releases/latest)
+[下载覆盖包](https://github.com/m1m0ry/ctrl-alt-ego-zh-cn/releases/latest)
 
 ## 安装
 
