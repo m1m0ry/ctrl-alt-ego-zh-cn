@@ -17,3 +17,10 @@
 ## 字体许可
 
 使用 Noto Sans SC 字体，许可见 [字体许可](licenses/NotoSansSC-OFL.txt)。
+
+<details>
+<summary>一个小彩蛋</summary>
+
+![Ctrl Alt Ego 同人漫画](assets/easter-egg.png)
+
+</details>
