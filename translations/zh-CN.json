@@ -449,7 +449,7 @@
     {
       "id": "csv:GlobalNames/CRSLongForm",
       "source": "Conscious Robot Services",
-      "translation": "有意识机器人服务公司"
+      "translation": "意识机器人服务公司"
     },
     {
       "id": "csv:Host/YourPup",
@@ -554,7 +554,7 @@
     {
       "id": "csv:Host/PRINTER @egonomics",
       "source": "PRINTER @egonomics",
-      "translation": "打印机 @自我管理部"
+      "translation": "打印机 @自我经济部"
     },
     {
       "id": "csv:Host/PRINTER @lift",
@@ -1234,7 +1234,7 @@
     {
       "id": "csv:Host/Mr Merger",
       "source": "Mr Merger",
-      "translation": "并购先生"
+      "translation": "合并先生"
     },
     {
       "id": "csv:Host/Mr Git",
@@ -1609,7 +1609,7 @@
     {
       "id": "csv:Host/Shuttle Dock",
       "source": "Shuttle Dock",
-      "translation": "穿梭机船坞"
+      "translation": "穿梭机坞"
     },
     {
       "id": "csv:Host/Lobby Door",
@@ -2574,7 +2574,7 @@
     {
       "id": "csv:Host/Ascensor/Traffic/Screen/Option/Port25",
       "source": "Port 25",
-      "translation": "25号港口"
+      "translation": "端口 25"
     },
     {
       "id": "csv:Host/Ascensor/Storage/Screen/Heading",
@@ -2599,12 +2599,12 @@
     {
       "id": "csv:Host/CCTV Port 25",
       "source": "CCTV Port 25",
-      "translation": "25号港口CCTV"
+      "translation": "监控端口 25"
     },
     {
       "id": "csv:Host/CCTV Port 80",
       "source": "CCTV Port 80",
-      "translation": "80号港口CCTV"
+      "translation": "监控端口 80"
     },
     {
       "id": "csv:Host/CCTV Port 443",
@@ -3184,7 +3184,7 @@
     {
       "id": "csv:Host/EMU_FullName",
       "source": "EMU (Ego Mode Utility)",
-      "translation": "EMU（自我模式实用程序）"
+      "translation": "EMU（自我模式工具）"
     },
     {
       "id": "csv:Host/EMU_1",
@@ -5014,7 +5014,7 @@
     {
       "id": "csv:Host/GODDock/EGONET/Option/CRS/Full",
       "source": "Conscious Robot Services",
-      "translation": "有意识机器人服务公司"
+      "translation": "意识机器人服务公司"
     },
     {
       "id": "csv:Host/GODDock/EGONET/Option/TheCloud",
@@ -5084,22 +5084,22 @@
     {
       "id": "csv:Host/Remote Port80",
       "source": "Remote Port80",
-      "translation": "远程端口80"
+      "translation": "远程端口 80"
     },
     {
       "id": "csv:Host/Remote Port25",
       "source": "Remote Port25",
-      "translation": "远程端口25"
+      "translation": "远程端口 25"
     },
     {
       "id": "csv:Host/Remote Port443",
       "source": "Remote Port443",
-      "translation": "远程端口443"
+      "translation": "远程端口 443"
     },
     {
       "id": "csv:Host/Remote Port666",
       "source": "Remote Port666",
-      "translation": "远程端口666"
+      "translation": "远程端口 666"
     },
     {
       "id": "csv:Host/MateyBoy/TransmitEnergy",
@@ -5234,7 +5234,7 @@
     {
       "id": "csv:Hud/Unsafe",
       "source": "Unsafe",
-      "translation": "危险"
+      "translation": "不安全"
     },
     {
       "id": "csv:Hud/TAB/TAB",
@@ -5359,12 +5359,12 @@
     {
       "id": "csv:Hud/TAB/QueryCommitWorm",
       "source": "Commit 1 Worm?",
-      "translation": "提交 1 条蠕虫？"
+      "translation": "植入 1 条蠕虫？"
     },
     {
       "id": "csv:Hud/TAB/QueryCommitWorms",
       "source": "Commit %N% Worms?",
-      "translation": "提交 %N% 条蠕虫？"
+      "translation": "植入 %N% 条蠕虫？"
     },
     {
       "id": "csv:Hud/TAB/ReallyInstallUpgrade",
@@ -6634,7 +6634,7 @@
     {
       "id": "csv:Keys/Shuttle Dock Key",
       "source": "Shuttle Dock Key",
-      "translation": "穿梭机停泊港钥匙"
+      "translation": "穿梭机坞钥匙"
     },
     {
       "id": "csv:Keys/Back Stairs Key",
@@ -6774,7 +6774,7 @@
     {
       "id": "csv:Locations/CRS_PREFIX",
       "source": "Conscious Robot Services:",
-      "translation": "有意识机器人服务公司："
+      "translation": "意识机器人服务公司："
     },
     {
       "id": "csv:Locations/CRS_ShortForm",
@@ -6824,27 +6824,27 @@
     {
       "id": "csv:Locations/Custom/EgonomicsArseEnd",
       "source": "Egonomics Arse End",
-      "translation": "自我管理部后端"
+      "translation": "自我经济部后端"
     },
     {
       "id": "csv:Locations/Custom/CRS_BackStairs",
       "source": "Conscious Robot Services: Back Stairs",
-      "translation": "有意识机器人服务公司：后楼梯"
+      "translation": "意识机器人服务公司：后楼梯"
     },
     {
       "id": "csv:Locations/Custom/CRS_Cafeteria",
       "source": "Conscious Robot Services: Cafeteria & Lobby",
-      "translation": "有意识机器人服务公司：食堂与大厅"
+      "translation": "意识机器人服务公司：食堂与大厅"
     },
     {
       "id": "csv:Locations/Custom/CRS_FrontStairs",
       "source": "Conscious Robot Services: Front Stairs & Lobby",
-      "translation": "有意识机器人服务公司：前楼梯与大厅"
+      "translation": "意识机器人服务公司：前楼梯与大厅"
     },
     {
       "id": "csv:Locations/Custom/CRS_Security",
       "source": "Conscious Robot Services: Security & Lobby",
-      "translation": "有意识机器人服务公司：安保处与大厅"
+      "translation": "意识机器人服务公司：安保处与大厅"
     },
     {
       "id": "csv:MainMenu/Global/Back",
@@ -8264,7 +8264,7 @@
     {
       "id": "csv:Missions/Mission/Task/BFC/Details",
       "source": "(BFC = Big Fat Crate)",
-      "translation": "（BFC = 大胖箱子）"
+      "translation": "BFC = 大胖箱子（Big Fat Crate）"
     },
     {
       "id": "csv:Missions/Mission/BFC/SceneDisplayName",
@@ -8454,7 +8454,7 @@
     {
       "id": "csv:Plot/Objective/Main/LeaveTutorial",
       "source": "Head through to Egonomics",
-      "translation": "前往自我管理部"
+      "translation": "前往自我经济部"
     },
     {
       "id": "csv:Plot/Objective/Main/TheEgonomyStupid",
@@ -8574,7 +8574,7 @@
     {
       "id": "csv:Plot/Objective/Main/CRS",
       "source": "Conscious Robot Services",
-      "translation": "有意识机器人服务公司"
+      "translation": "意识机器人服务公司"
     },
     {
       "id": "csv:Plot/Objective/Main/Heaven",
@@ -8729,12 +8729,12 @@
     {
       "id": "csv:Signs/EgonomicsAndTheBugFreeZone",
       "source": "EGONOMICS\n<size=100>AND BUG FREE ZONE</size>",
-      "translation": "自我管理部\n<size=100>与无BUG区</size>"
+      "translation": "自我经济部\n<size=100>与无BUG区</size>"
     },
     {
       "id": "csv:Signs/EGONOMICS",
       "source": "EGONOMICS",
-      "translation": "自我管理部"
+      "translation": "自我经济部"
     },
     {
       "id": "csv:Signs/LAUNCH CTRL",
@@ -8809,7 +8809,7 @@
     {
       "id": "csv:Signs/Egonomics/LowerArseEnd/Maintenance",
       "source": "EGONOMICS\nLOWER ARSE END\nMAINTENANCE",
-      "translation": "自我管理部\n后端下部\n维护"
+      "translation": "自我经济部\n后端下部\n维护"
     },
     {
       "id": "csv:Signs/GOD DOCK",
@@ -8819,7 +8819,7 @@
     {
       "id": "csv:Signs/Egonomics/ThisWay",
       "source": "EGONOMICS >",
-      "translation": "自我管理部 >"
+      "translation": "自我经济部 >"
     },
     {
       "id": "csv:Signs/LaunchSite",
@@ -8844,7 +8844,7 @@
     {
       "id": "csv:Signs/EGONOMICS ARSE END",
       "source": "EGONOMICS ARSE END",
-      "translation": "自我管理部后端"
+      "translation": "自我经济部后端"
     },
     {
       "id": "csv:Signs/CAUTION/FallHazard",
@@ -8869,22 +8869,22 @@
     {
       "id": "csv:Signs/Egonomics/UpperArseEnd",
       "source": "EGONOMICS \nUPPER ARSE END",
-      "translation": "自我管理部 \n后端上部"
+      "translation": "自我经济部 \n后端上部"
     },
     {
       "id": "csv:Signs/Egometry/AndEgonomicsArseEnd",
       "source": "EGOMETRY\n<size=80>& EGONOMICS ARSE END</size>",
-      "translation": "自我测定\n<size=80>及 自我管理部后端</size>"
+      "translation": "自我测定\n<size=80>及 自我经济部后端</size>"
     },
     {
       "id": "csv:Signs/EgonomicsArseEnd/Direction",
       "source": "<<< EGONOMICS ARSE END",
-      "translation": "<<< 自我管理部后端"
+      "translation": "<<< 自我经济部后端"
     },
     {
       "id": "csv:Signs/EgonomicsArseEnd/VentAccess",
       "source": "EGONOMICS ARSE END\nVent Access",
-      "translation": "自我管理部后端\n通风管道入口"
+      "translation": "自我经济部后端\n通风管道入口"
     },
     {
       "id": "csv:Signs/LaunchCtrl/Maintenance",
@@ -8904,7 +8904,7 @@
     {
       "id": "csv:Signs/EgonomicsAndBugFreeZone/Alt",
       "source": "EGONOMICS\n& BUG FREE ZONE",
-      "translation": "自我管理部\n及 无BUG区"
+      "translation": "自我经济部\n及 无BUG区"
     },
     {
       "id": "csv:Signs/BUG FREE ZONE",
@@ -8994,7 +8994,7 @@
     {
       "id": "csv:Signs/Egonomics/ArseEnd/Maintenance",
       "source": "EGONOMICS\n<size=100>ARSE END MAINTENANCE</size>",
-      "translation": "自我管理部\n<size=100>后端维护区</size>"
+      "translation": "自我经济部\n<size=100>后端维护区</size>"
     },
     {
       "id": "csv:Signs/CAUTION/DAD",
@@ -9664,7 +9664,7 @@
     {
       "id": "csv:Signs/CONSCIOUS ROBOT SERVICES",
       "source": "CONSCIOUS ROBOT SERVICES",
-      "translation": "有意识机器人服务公司"
+      "translation": "意识机器人服务公司"
     },
     {
       "id": "csv:Signs/RECEPTION",
@@ -9699,12 +9699,12 @@
     {
       "id": "csv:Signs/ShuttleDock/SecurityPersonnelOnly",
       "source": "SHUTTLE DOCK\n<size=100>SECURITY PERSONNEL ONLY</size>",
-      "translation": "穿梭机泊位\n<size=100>仅限安保人员</size>"
+      "translation": "穿梭机坞\n<size=100>仅限安保人员</size>"
     },
     {
       "id": "csv:Signs/ShuttleDock/PortAndTaxis",
       "source": "SHUTTLE DOCK\n<size=100>PORT & TAXIS</size>",
-      "translation": "穿梭机泊位\n<size=100>港口与出租车</size>"
+      "translation": "穿梭机坞\n<size=100>港口与出租车</size>"
     },
     {
       "id": "csv:Signs/RESIDENTIAL",
@@ -10124,7 +10124,7 @@
     {
       "id": "csv:Signs/SmallComputer/Meta",
       "source": "it doesn't meta",
-      "translation": "无关紧要"
+      "translation": "无关紧要\n（it doesn't meta：借 matter 的谐音）"
     },
     {
       "id": "csv:Signs/Graffiti/Admin",
@@ -10469,17 +10469,17 @@
     {
       "id": "csv:Signs/PORT 25",
       "source": "PORT 25",
-      "translation": "25号港口"
+      "translation": "端口 25"
     },
     {
       "id": "csv:Signs/Port 25/Alt",
       "source": "PORT\n25",
-      "translation": "港口\n25"
+      "translation": "端口\n25"
     },
     {
       "id": "csv:Signs/PORT 80",
       "source": "PORT 80",
-      "translation": "80号港口"
+      "translation": "端口 80"
     },
     {
       "id": "csv:Signs/PORT 80/Alt",
@@ -10794,7 +10794,7 @@
     {
       "id": "csv:Metas/fault.canisters",
       "source": "Faulty Canisters\nCanisters catalyze all implosions they are\ncaught up in, causing 'bonus' damage.\n\nWorm the Fault disk <i>Canisters</i> branch to turn\nfaulting Canisters into even deadlier implosive\ndevices.",
-      "translation": "故障罐\n罐体会强化它们卷入的内爆，\n造成“额外”伤害。\n\n向故障磁盘的<i>罐体</i>分支投入蠕虫，\n就能让故障罐变成更加致命的内爆装置。"
+      "translation": "故障罐\n罐体会强化它们卷入的内爆，\n造成“额外”伤害。\n\n为故障磁盘的<i>罐体</i>分支植入蠕虫，\n就能让故障罐变成更加致命的内爆装置。"
     },
     {
       "id": "csv:Metas/fault",
@@ -10849,7 +10849,7 @@
     {
       "id": "csv:Metas/meta",
       "source": "About METAs\nMETA info will appear here to help\nguide you through your <i>Ctrl Alt Ego</i>\nsimulated immersive experience.",
-      "translation": "关于指南\n指南信息将显示在此处，\n帮助引导你完成《<i>Ctrl Alt Ego</i>》\n的模拟沉浸式体验。"
+      "translation": "关于指南（META）\n指南信息将显示在此处，\n帮助引导你完成《<i>Ctrl Alt Ego</i>》\n的模拟沉浸式体验。"
     },
     {
       "id": "csv:Metas/mover.arm.tight.spaces",
@@ -10899,12 +10899,12 @@
     {
       "id": "csv:Metas/quick.hop.bug22",
       "source": "Home HOP to Bug 22\nIf there is a viable HOP route back to Bug 22\nExecute a quick home HOP to Bug 22\nby hitting %Keyboard.QuickHopToMainBug% while in Ego Mode\n(or %Gamepad.QuickHopToMainBug% if using a controller).",
-      "translation": "返家跃迁至BUG 22\n如果存在返回BUG 22的可行跃迁路线，\n在自我模式下按下%Keyboard.QuickHopToMainBug%\n（若使用手柄则为%Gamepad.QuickHopToMainBug%），\n即可执行快速返家跃迁至BUG 22。"
+      "translation": "跃迁归位至BUG 22\n如果存在返回BUG 22的可行跃迁路线，\n在自我模式下按下%Keyboard.QuickHopToMainBug%\n（若使用手柄则为%Gamepad.QuickHopToMainBug%），\n即可执行快速跃迁归位至BUG 22。"
     },
     {
       "id": "csv:Metas/quick.return.hop",
       "source": "Return HOP\nIf there is a viable HOP route\nback to your last host\nexecute a quick return HOP to it\nby hitting %Keyboard.QuickHopToLastHost% while in Ego Mode\n(or %Gamepad.QuickHopToLastHost% if using a controller).",
-      "translation": "返回跃迁\n如果存在通往上一个宿主的可行跃迁路线，\n在自我模式下按%Keyboard.QuickHopToLastHost%\n（使用手柄则按%Gamepad.QuickHopToLastHost%），\n就能快速跃迁回那个宿主。"
+      "translation": "跃迁返回\n如果存在通往上一个宿主的可行跃迁路线，\n在自我模式下按%Keyboard.QuickHopToLastHost%\n（使用手柄则按%Gamepad.QuickHopToLastHost%），\n就能快速跃迁回那个宿主。"
     },
     {
       "id": "csv:Metas/reprint.fee",
@@ -10924,7 +10924,7 @@
     {
       "id": "csv:Metas/serializer",
       "source": "Serialization\nEthermatics is the branch of physics that \ndescribes material -> data and data -> material\ntransformations.\n\nBy taking ctrl of a <color=cyan><i>Serializer</i></color>\nyou can serialize and deserialize (\"print\") \nlocal ethermatic objects.\n\nTo facilitate identification, an energy readout\nis displayed when looking at ethermatic objects.",
-      "translation": "序列化\n以太学是描述“物质 -> 数据”以及“数据 -> 物质”\n转化的物理学分支。\n\n通过 ctrl 一台<color=cyan><i>序列化机</i></color>，\n你可以对本地以太学物品进行序列化\n和反序列化（“打印”）。\n\n为方便识别，注视以太学物品时\n会显示其能量读数。"
+      "translation": "序列化\n以太学是描述“物质 -> 数据”以及“数据 -> 物质”\n转化的物理学分支。\n\n通过 ctrl 一台<color=cyan><i>序列化机</i></color>，\n你可以对本地以太物品进行序列化\n和反序列化（“打印”）。\n\n为方便识别，注视以太学物品时\n会显示其能量读数。"
     },
     {
       "id": "csv:Metas/stats",
@@ -11294,12 +11294,12 @@
     {
       "id": "csv:HostInfo/CAT",
       "source": "I'm a Ctrl Alt Terminal \nor CAT\nthe communications device of choice\nfor the discerning ego.\n\nIntegrated text and audio communications\nare among two of my three advanced features.",
-      "translation": "我是Ctrl Alt终端，\n也就是CAT，\n是有品味的自我的首选通信设备。\n\n集成式文本与音频通信，\n仅是我三大先进功能中的两项。"
+      "translation": "我是Ctrl Alt终端（Ctrl Alt Terminal），\n也就是CAT，\n是有品味的自我的首选通信设备。\n\n集成式文本与音频通信，\n仅是我三大先进功能中的两项。"
     },
     {
       "id": "csv:HostInfo/DAD",
       "source": "I'm an egocentric \nmanagement tier unit \nwith the authority \nand means\nto serialize\nand/or deserialize \nethermaterial objects.\n\nNow please relinquish ctrl of me\nand file an urgent ego reset request\nwith the egonomics department.",
-      "translation": "我是一个以自我为中心的\n管理层单位，\n拥有将以太物质对象\n进行序列化\n和/或反序列化的\n权限与手段。\n\n现在请交出对我的Ctrl权，\n并向自我管理部\n提交一份紧急自我重置申请。"
+      "translation": "我是一个以自我为中心的\n管理层单位，\n拥有将以太物质对象\n进行序列化\n和/或反序列化的\n权限与手段。\n\n现在请交出对我的Ctrl权，\n并向自我经济部（Egonomics）\n提交一份紧急自我重置申请。"
     },
     {
       "id": "csv:HostInfo/DADBase",
@@ -11494,7 +11494,7 @@
     {
       "id": "csv:HostInfo/SAV",
       "source": "\nI literally save lives.",
-      "translation": "\n我真的是在拯救生命。"
+      "translation": "\n我保存生命——字面意义上的。"
     },
     {
       "id": "csv:HostInfo/Scrambler",
@@ -11529,7 +11529,7 @@
     {
       "id": "csv:HostInfo/TAB",
       "source": "Thank you for choosing to ctrl the\nTAB Task Activity Broker.\n\nEnjoy seamless EMU integration,\nenhanced communications,\nhost extensions and more.\n\nAll at a tap of your tab.",
-      "translation": "感谢选择Ctrl\nTAB任务活动代理。\n\n尽享无缝EMU集成、\n增强通信、\n宿主扩展等诸多功能。\n\n一切只需轻按TAB。"
+      "translation": "感谢选择Ctrl\nTAB任务活动代理（Task Activity Broker）。\n\n尽享无缝EMU集成、\n增强通信、\n宿主扩展等诸多功能。\n\n一切只需轻按TAB。"
     },
     {
       "id": "csv:HostInfo/TES",
@@ -11639,7 +11639,7 @@
     {
       "id": "csv:Upgrades/Aeronautics/About/Branch/Flight",
       "source": "<color=white><i>Flight</i></color> provides thrust and rocket dynamics.\nA well-wormed rocket increases speed and range.\nDrinks a moderate amount of juice.",
-      "translation": "<color=white><i>飞行</i></color>提供推进与火箭动力学效果。\n经过充分蠕虫强化的火箭冲刺能提升速度与射程。\n消耗适量的动力液。"
+      "translation": "<color=white><i>飞行</i></color>提供推进与火箭动力学效果。\n经过充分蠕虫强化的火箭冲刺能提升速度与移动距离。\n消耗适量的动力液。"
     },
     {
       "id": "csv:Upgrades/Aeronautics/About/Branch/Stun",
@@ -12484,7 +12484,7 @@
     {
       "id": "csv:Upgrades/EgoSucker/About/Branch/Range",
       "source": "Worm <color=white><i>Reach</i></color> to leech ego from farther away,\nallowing you to remain at a safe operable distance.",
-      "translation": "植入蠕虫升级<color=white><i>范围</i></color>以从更远处汲取自我，\n让你保持在安全的操作距离内。"
+      "translation": "植入蠕虫升级<color=white><i>距离</i></color>以从更远处汲取自我，\n让你保持在安全的操作距离内。"
     },
     {
       "id": "csv:Upgrades/EgoSucker/About/Branch/Geometrics",
@@ -12764,12 +12764,12 @@
     {
       "id": "csv:Upgrades/Fault/Branch/Canisters/Slot/1/Desc",
       "source": "Faulting canisters are extra volatile, causing 1.5x damage on implode",
-      "translation": "故障储气罐格外不稳定，内爆时造成 1.5x 伤害"
+      "translation": "故障罐体格外不稳定，内爆时造成 1.5x 伤害"
     },
     {
       "id": "csv:Upgrades/Fault/Branch/Canisters/Slot/1/Message",
       "source": "Volatile Canisters activated",
-      "translation": "不稳定储气罐已激活"
+      "translation": "不稳定罐体已激活"
     },
     {
       "id": "csv:Upgrades/Fault/Branch/Canisters/Slot/2/Name",
@@ -12779,7 +12779,7 @@
     {
       "id": "csv:Upgrades/Fault/Branch/Canisters/Slot/2/Desc",
       "source": "Faulting canisters cause [?]x damage when they implode",
-      "translation": "故障储气罐内爆时造成 [?]x 伤害"
+      "translation": "故障罐体内爆时造成 [?]x 伤害"
     },
     {
       "id": "csv:Upgrades/Fault/Branch/Canisters/Slot/3/Name",
@@ -12789,7 +12789,7 @@
     {
       "id": "csv:Upgrades/Fault/Branch/Canisters/Slot/3/Desc",
       "source": "Faulting canisters cause [?]x damage when they implode",
-      "translation": "故障储气罐内爆时造成 [?]x 伤害"
+      "translation": "故障罐体内爆时造成 [?]x 伤害"
     },
     {
       "id": "csv:Upgrades/Fault/Branch/Infection/Slot/1/Name",
@@ -12899,7 +12899,7 @@
     {
       "id": "csv:Upgrades/Glitch/About/Branch/Density",
       "source": "Worm <color=white><i>Density</i></color> for more damaging glitches.\nDamage is inflicted in proportion to distance from epicentre.\nDrinks a fixed quota of juice per glitch.",
-      "translation": "植入蠕虫升级<color=white><i>密度</i></color>以造成伤害更高的故障。\n伤害根据距离爆心的远近按比例造成。\n每次故障消耗固定配额的动力液。"
+      "translation": "植入蠕虫升级<color=white><i>密度</i></color>以造成伤害更高的故障。\n伤害取决于与爆心的距离。\n每次故障消耗固定配额的动力液。"
     },
     {
       "id": "csv:Upgrades/Glitch/About/Branch/Volume",
@@ -14194,7 +14194,7 @@
     {
       "id": "csv:PlotSummary/parasite.crs",
       "source": "The parasite is no more.\nBut where did it come from?\nAnd why was it here?\n\nDr Everyman seems to think his old company,\nthe tech giant Conscious Robot Services (CRS)\nmight have something to do with it.",
-      "translation": "寄生虫不复存在了。\n但它是从哪儿来的？\n又为什么会在这里？\n\n埃弗里曼博士似乎觉得，他的老东家——\n科技巨头“有意识机器人服务公司”（CRS）\n可能脱不了干系。"
+      "translation": "寄生虫不复存在了。\n但它是从哪儿来的？\n又为什么会在这里？\n\n埃弗里曼博士似乎觉得，他的老东家——\n科技巨头“意识机器人服务公司”（CRS）\n可能脱不了干系。"
     },
     {
       "id": "csv:PlotSummary/parasite.done",
@@ -14324,7 +14324,7 @@
     {
       "id": "csv:PlotSummary/chapters/ch.7.title",
       "source": "<size=30>Chapter 7:\nConscious Robots</size>\n\nSomething strange is going on at\nConscious Robot services",
-      "translation": "<size=30>第 7 章：\n有意识机器人</size>\n\n有意识机器人服务公司\n似乎有些不对劲"
+      "translation": "<size=30>第 7 章：\n有意识机器人</size>\n\n意识机器人服务公司\n似乎有些不对劲"
     },
     {
       "id": "csv:PlotSummary/chapters/ch.8.title.transition",
@@ -14349,7 +14349,7 @@
     {
       "id": "csv:PlotSummary/episode2/crs.arrival",
       "source": "I'm to investigate Conscious Robot Services\nfor a possible connection to the parasite.\n\nGiven Dr Everyman used to work at CRS,\nperhaps I can learn more about him too.",
-      "translation": "我要调查有意识机器人服务公司（CRS），\n看看它是否与那寄生虫有关联。\n\n鉴于埃弗里曼博士曾就职于 CRS，\n或许我也能对他有更多了解。"
+      "translation": "我要调查意识机器人服务公司（CRS），\n看看它是否与那寄生虫有关联。\n\n鉴于埃弗里曼博士曾就职于 CRS，\n或许我也能对他有更多了解。"
     },
     {
       "id": "csv:PlotSummary/episode2/DEV/a1",
@@ -14379,7 +14379,7 @@
     {
       "id": "csv:Plot/preprologue/plot/computer/{wrong.emu}",
       "source": "Dear BigRiver,\n\nI ordered an *EMU*\nThat's E M U\nall uppercase\nEgo Mode Utility\nNot \"emu\"\nall lowercase\npointless desk ornament",
-      "translation": "尊敬的大河：\n\n我订购的是*EMU*\n是 E M U\n全大写字母\n自我模式实用程序\n而不是“emu”\n全小写字母\n毫无用处的鸸鹋桌面摆件"
+      "translation": "尊敬的大河：\n\n我订购的是*EMU*\n是 E M U\n全大写字母\n自我模式工具\n而不是“emu”\n全小写字母\n毫无用处的鸸鹋桌面摆件"
     },
     {
       "id": "csv:Plot/preprologue/plot/misc/Misc/Abort",
@@ -14444,7 +14444,7 @@
     {
       "id": "csv:Plot/tutorial/plot/cat/{tutorial.cat003}",
       "source": "EMU = Ego Mode Utility\nGOD = ???\n\nCtrl the EMU in GOD",
-      "translation": "EMU = 自我模式效用工具 (Ego Mode Utility)\nGOD = ???\n\nCtrl GOD 里的 EMU"
+      "translation": "EMU = 自我模式工具 (Ego Mode Utility)\nGOD = ???\n\nCtrl GOD 里的 EMU"
     },
     {
       "id": "csv:Plot/tutorial/plot/cat/{tutorial.dad}",
@@ -14459,7 +14459,7 @@
     {
       "id": "csv:Plot/tutorial/plot/cat/{tutorial.everyman}",
       "source": "dr everyman\nat my service",
-      "translation": "埃弗里曼博士\n随时为自己效劳"
+      "translation": "埃弗里曼博士（Dr Everyman；Everyman：英语“普通人”）\n随时为自己效劳"
     },
     {
       "id": "csv:Plot/tutorial/plot/cat/{tutorial.if.scarpa.caused.bother}/well it would be safe",
@@ -14479,7 +14479,7 @@
     {
       "id": "csv:Plot/tutorial/plot/cat/{tutorial.parasite.commscat}",
       "source": "☑ well done\n\n<color=red>PERMISSION DENIED</color>\n<color=red>CONTENT REDACTED</color>\n<color=red>ILLEGAL BROADCAST</color>\n<color=red>DISCONNECT IMMEDIATELY</color>\n<color=red>ACCESSORIES AND ACCOMPLICES</color>\n<color=red>SHALL BE PUNISHED</color>\n<color=red>SEVERELY</color>\n\nthey think i made the parasite\nbut i'm innocent\ncompletely innocent\n\nConscious Robot Services\nC R S\n\nfind the ego-net gateway\nget to the CRS research facility",
-      "translation": "☑ 干得漂亮\n\n<color=red>权限不足</color>\n<color=red>内容已涂黑遮蔽</color>\n<color=red>非法广播</color>\n<color=red>请立即断开连接</color>\n<color=red>同谋与协从人员</color>\n<color=red>将受到严厉惩罚</color>\n<color=red>绝不姑息</color>\n\n他们以为是我造出了寄生体\n但我很无辜\n彻彻底底无辜\n\n有意识机器人服务公司\nC R S\n\n找到自我网络网关\n前往 CRS 研究设施"
+      "translation": "☑ 干得漂亮\n\n<color=red>权限不足</color>\n<color=red>内容已涂黑遮蔽</color>\n<color=red>非法广播</color>\n<color=red>请立即断开连接</color>\n<color=red>同谋与协从人员</color>\n<color=red>将受到严厉惩罚</color>\n<color=red>绝不姑息</color>\n\n他们以为是我造出了寄生体\n但我很无辜\n彻彻底底无辜\n\n意识机器人服务公司\nC R S\n\n找到自我网络网关\n前往 CRS 研究设施"
     },
     {
       "id": "csv:Plot/tutorial/plot/cat/{tutorial.theplan}",
@@ -14599,7 +14599,7 @@
     {
       "id": "csv:Plot/tutorial/plot/tasks/Tasks/Task/EGONET",
       "source": "Use the EGO-NET to reach Conscious Robot Services",
-      "translation": "使用 EGO-NET 前往有意识机器人服务公司（CRS）"
+      "translation": "使用 EGO-NET 前往意识机器人服务公司（CRS）"
     },
     {
       "id": "csv:Plot/tutorial/plot/misc/Misc/Message/OpenTAB",
@@ -14664,7 +14664,7 @@
     {
       "id": "csv:Plot/egonomics/plot/eyepad/{contractor memo}",
       "source": "Shift Memo\n***********\n\nA reminder to all ego based contractors: \n\nShould you be involved in an incident that leaves you disembodied, you are authorised to use any appropriate means to attempt to salvage or rescue your former host, up to and including reprinting it.\n\nA more traditional state restoration facility is also available through your integrated ego mode utility virtual ESC-key, which provides a near-instantaneous ego-dump reload to the recent Life Saver station of your choice.",
-      "translation": "轮班备忘录\n***********\n\n致所有基于自我的承包商的提醒：\n\n若您卷入导致失去肉身的事故中，您有权使用任何合适手段尝试回收或营救您的前任宿主，包括且不限于重新打印它。\n\n您也可以通过集成自我模式实用程序的虚拟 ESC 键，使用更传统的状态恢复功能。该功能可近乎即时地重新加载自我转储，将您送回所选的近期救生器存档点。"
+      "translation": "轮班备忘录\n***********\n\n致所有基于自我的承包商的提醒：\n\n若您卷入导致失去肉身的事故中，您有权采取任何适当手段，尝试回收或营救原宿主，必要时甚至可以重新打印它。\n\n您也可以通过集成自我模式工具的虚拟 ESC 键，使用更传统的状态恢复功能。该功能可近乎即时地重新加载自我转储，将您送回所选的近期救生器存档点。"
     },
     {
       "id": "csv:Plot/egonomics/plot/eyepad/{egonet.key}",
@@ -14684,7 +14684,7 @@
     {
       "id": "csv:Plot/egonomics/plot/eyepad/{what is a disassembler}",
       "source": "Notes from the code face #078:\n\nA disassembler is reverse engineering software that converts machine language instructions into assembly language instructions.\n\nA visual representation of disassembler output can be produced by running the program in the proximity of any disassemblable host.",
-      "translation": "来自代码前线的笔记 #078：\n\n反汇编器是一种逆向工程软件，可将机器语言指令转换为汇编语言指令。\n\n在任何可反汇编的宿主附近运行该程序，即可生成反汇编器输出的可视化表示。"
+      "translation": "代码前线笔记 #078：\n\n反汇编器是一种逆向工程软件，可将机器语言指令转换为汇编语言指令。\n\n在任何可反汇编的宿主附近运行该程序，即可生成反汇编器输出的可视化表示。"
     },
     {
       "id": "csv:Plot/egonomics/plot/computer/{bug free zone}",
@@ -14929,12 +14929,12 @@
     {
       "id": "csv:Plot/thrust/plot/cat/{thrust.cat003}",
       "source": "☑ program installed\n☑ program wormed\n\nWORM your programs\nto gain new functionality\n\nmake your way\nback to Mr Bossman\nthrough the arse end of egonomics",
-      "translation": "☑ 程序已安装\n☑ 程序已注入蠕虫\n\n用蠕虫强化你的程序\n来获得新功能\n\n穿过自我管理部的后端\n回到老板先生那里去吧"
+      "translation": "☑ 程序已安装\n☑ 程序已注入蠕虫\n\n用蠕虫强化你的程序\n来获得新功能\n\n穿过自我经济部的后端\n回到老板先生那里去吧"
     },
     {
       "id": "csv:Plot/thrust/plot/cat/{thrust.cat004}",
       "source": "BEGIN brief bio\nabout me\nDr Everyman\n\ni used to do R&D\nat CRS\n(Conscious Robot Services)\n\nEND brief bio",
-      "translation": "开始 个人简介\n关于我\n埃弗里曼博士\n\n我以前在CRS搞研发\n（有意识机器人服务公司）\n\n结束 个人简介"
+      "translation": "开始 个人简介\n关于我\n埃弗里曼博士\n\n我以前在CRS搞研发\n也就是意识机器人服务公司（Conscious Robot Services）\n\n结束 个人简介"
     },
     {
       "id": "csv:Plot/thrust/plot/cat/{thrust.cat005}",
@@ -14944,37 +14944,37 @@
     {
       "id": "csv:Plot/thrust/plot/eyepad/{ego.efficiency.2}",
       "source": "Dear customer #73,\n\nAs part of our ongoing drive to promote egonomical best practices in the workplace, we would like to take this opportunity to share our insight that while it is often favourable to ctrl things, it can just as often be favourable not to.\n\nEgo is a limited resource - we encourage you to consider your requirements carefully before blanket ctrling everything you see.\n\nThis message was brought to you by the CRS Egonomics Department. \n\n<i>Be Egonomical!</i>",
-      "translation": "尊敬的客户 #73：\n\n作为我们在工作场所推广自我学最佳实践的持续举措之一，我们借此机会向您分享一点心得：虽然Ctrl各种事物通常是有利的，但不去Ctrl也往往同样有利。\n\n自我是一种有限的资源——我们建议您在盲目Ctrl所见到的一切之前，仔细评估自己的需求。\n\n本消息由CRS自我管理部为您呈现。\n\n<i>节约自我！</i>"
+      "translation": "尊敬的客户 #73：\n\n作为我们在工作场所推广高效使用自我的最佳实践的持续举措之一，我们借此机会向您分享一点心得：虽然Ctrl各种事物通常是有利的，但不去Ctrl也往往同样有利。\n\n自我是一种有限的资源——我们建议您在盲目Ctrl所见到的一切之前，仔细评估自己的需求。\n\n本消息由CRS自我经济部为您呈现。\n\n<i>自我经济，从我做起！</i>"
     },
     {
       "id": "csv:Plot/thrust/plot/eyepad/{ego.efficiency}",
       "source": "Dear customer #73,\n\nIn the light of your recent complaint we have been monitoring your bug usage, and we were somewhat aghast to see you still using the ego-inefficient legacy lift installations in and around the launchsite warehouse facility.\n\nWith your bug aeronautics program, you should most certainly be on the lookout for opportunities to conserve ego.\n\nWhile it is not our place to mandate super ego-efficient working practices, we do hope you will bear this feedback in mind.\n\nThis message was brought to you by the CRS Egonomics Department. \n\n<i>Be Egonomical!</i>",
-      "translation": "尊敬的客户 #73：\n\n鉴于您最近提出的投诉，我们一直在监控您的BUG使用情况，并且有些震惊地发现您仍在发射场仓库设施及其周边使用那些极度浪费自我的老旧升降机装置。\n\n既然拥有BUG航空程序，您理应时刻寻找节约自我的机会。\n\n尽管我们无权强制推行极其节省自我的工作规范，但我们确实希望您能把这条反馈放在心上。\n\n本消息由CRS自我管理部为您呈现。\n\n<i>节约自我！</i>"
+      "translation": "尊敬的客户 #73：\n\n鉴于您最近提出的投诉，我们一直在监控您的BUG使用情况，并且有些震惊地发现您仍在发射场仓库设施及其周边使用那些极度浪费自我的老旧升降机装置。\n\n既然拥有BUG航空程序，您理应时刻寻找节约自我的机会。\n\n尽管我们无权强制推行极其节省自我的工作规范，但我们确实希望您能把这条反馈放在心上。\n\n本消息由CRS自我经济部为您呈现。\n\n<i>自我经济，从我做起！</i>"
     },
     {
       "id": "csv:Plot/thrust/plot/eyepad/{intro juice}",
       "source": "Conscious Robot Services (CRS) Health & Safety Missive:\n\nDear customer #73,\n\nThe transmission subsystem of your new bug is designed to consume etherelectrolytic fluids.\n\nThe famous jus' jus juice snack products are examples of etherelectrolytic fluids, and are widely available.\n\nWe would like to take this opportunity to wish you every good fortune with your new bug!\n\nRegardance,\nFrom the Conscious Robot Services Customer Relations Team.",
-      "translation": "有意识机器人服务公司（CRS）健康与安全公文：\n\n尊敬的客户 #73：\n\n您的新BUG传动子系统设计用于消耗以太电解液。\n\n著名的“就是汁”动力液零食产品便属于以太电解液，且随处可见。\n\n我们借此机会，祝愿您与您的新BUG一切顺利！\n\n谨致问候，\n有意识机器人服务公司客户关系团队。"
+      "translation": "意识机器人服务公司（CRS）健康与安全公文：\n\n尊敬的客户 #73：\n\n您的新BUG传动子系统设计用于消耗以太电解液。\n\n著名的“就是汁”动力液零食产品便属于以太电解液，且随处可见。\n\n我们借此机会，祝愿您与您的新BUG一切顺利！\n\n谨致问候，\n意识机器人服务公司客户关系团队。"
     },
     {
       "id": "csv:Plot/thrust/plot/eyepad/{juice gauge}",
       "source": "Dear customer #73,\n\nThank you for your letter dated 13.13.2980\n\nWe are very sorry to hear you are not overly impressed by the aeronautics bug program.\n\nBefore acceding to your refund request, please ensure you have tried the following remedial steps:\n\n• Do you have sufficient juice showing up in your EMU juice gauge? We recommend you maintain at least one full bar of juice at all times.\n\n• Have you tried worm-hacking the disk? If you have, apologies, your warranty has already been invalidated.\n\n• Have you tried switching your bug off and on again?\n\nBest possible regardance,\nFrom the Conscious Robot Services Customer Relations Team.",
-      "translation": "尊敬的客户 #73：\n\n感谢您于2980年13月13日寄出的信件。\n\n听说您对航空BUG程序并不太满意，我们深表遗憾。\n\n在同意您的退款申请之前，请确保您已尝试过以下补救步骤：\n\n• 您的EMU动力液计量表上是否显示有足够的动力液？我们建议随时保持至少一格满格的动力液。\n\n• 您是否尝试过用蠕虫黑入磁盘？如果试过，很抱歉，您的保修已失效。\n\n• 您是否尝试过将BUG关机后再重新开机？\n\n致以最崇高的敬意，\n有意识机器人服务公司客户关系团队。"
+      "translation": "尊敬的客户 #73：\n\n感谢您于2980年13月13日寄出的信件。\n\n听说您对航空BUG程序并不太满意，我们深表遗憾。\n\n在同意您的退款申请之前，请确保您已尝试过以下补救步骤：\n\n• 您的EMU动力液计量表上是否显示有足够的动力液？我们建议随时保持至少一格满格的动力液。\n\n• 您是否尝试过用蠕虫黑入磁盘？如果试过，很抱歉，您的保修已失效。\n\n• 您是否尝试过将BUG关机后再重新开机？\n\n致以最崇高的敬意，\n意识机器人服务公司客户关系团队。"
     },
     {
       "id": "csv:Plot/thrust/plot/eyepad/{oil}",
       "source": "Dear customer #73,\n\nMaintain your bug!\n\nOil promotes healthy internal etherelectrolytic conversion.\n\nAt Conscious Robot Services, we take bug maintenance extraordinarily seriously, and we recommend you do too.\n\nBest possible regardance,\nThe Conscious Robot Maintenance Team.",
-      "translation": "尊敬的客户 #73：\n\n维护好您的BUG！\n\n机油有助于促进健康的内部以太电解转换。\n\n在有意识机器人服务公司，我们对BUG维护极其重视，我们建议您也同样如此。\n\n致以最崇高的敬意，\n有意识机器人维护团队。"
+      "translation": "尊敬的客户 #73：\n\n维护好您的BUG！\n\n机油有助于促进健康的内部以太电解转换。\n\n在意识机器人服务公司，我们对BUG维护极其重视，我们建议您也同样如此。\n\n致以最崇高的敬意，\n有意识机器人维护团队。"
     },
     {
       "id": "csv:Plot/thrust/plot/eyepad/{perf mon}",
       "source": "Use performance monitors to facilitate advanced self-worth analysis.\n\nEach stat is scoped to the current loaded area.\nIn all cases 0 (zero) is the 'best' score.\n\n• <i>Ego:</i>\n  Amount of friendly ego remaining. \n  Doesn't include ego-fragments (too volatile).\n\n• <i>Worms:</i>\n  Number of uncollected worms.\n\n• <i>Disks:</i>\n  Number of uncollected disks.\n\n• <i>Identifications:</i>\n  Number of times your unique ego signature has been \n  detected. See META 'Unidentified' for more info.\n\n• <i>Active Agents:</i>\n  Number of enemies remaining.\n  See META 'Executor' for more info.\n\n• <i>Broken Bots:</i>\n  Number of bots that have been broken into bits. \n  See META 'Pacifist' for more info.",
-      "translation": "利用性能监视器，促进高阶自我价值分析。\n\n每项统计数据仅限当前加载区域。\n在所有情况下，0（零）均为“最佳”成绩。\n\n• <i>自我：</i>\n  剩余的友好自我数量。\n  不包括自我碎片（太不稳定）。\n\n• <i>蠕虫：</i>\n  未收集的蠕虫数量。\n\n• <i>磁盘：</i>\n  未收集的磁盘数量。\n\n• <i>识别次数：</i>\n  您独特的自我特征被检测到的次数。\n  详见指南“未被识别”。\n\n• <i>活跃单位：</i>\n  剩余的敌人数量。\n  详见指南“执行者”。\n\n• <i>报废机器人：</i>\n  已被打成碎片的机器人数量。\n  详见指南“和平主义者”。"
+      "translation": "利用性能监视器，促进高阶自我价值分析。\n\n每项统计数据仅限当前加载区域。\n在所有情况下，0（零）均为“最佳”成绩。\n\n• <i>自我：</i>\n  剩余的友好自我数量。\n  不包括自我碎片（太不稳定）。\n\n• <i>蠕虫：</i>\n  未收集的蠕虫数量。\n\n• <i>磁盘：</i>\n  未收集的磁盘数量。\n\n• <i>识别次数：</i>\n  您独特的自我特征被检测到的次数。\n  详见指南“未被识别”。\n\n• <i>活跃单位：</i>\n  剩余的敌人数量。\n  详见指南“执行者”。\n\n• <i>损毁机器人：</i>\n  已被打成碎片的机器人数量。\n  详见指南“和平主义者”。"
     },
     {
       "id": "csv:Plot/thrust/plot/eyepad/{safety.glass}",
       "source": "Header: MEMO TO ALL CONTRACTORS\n\nSubject: DADS ARE DANGEROUS\n\nDADs are grumpy.\n\nDADs are dangerous.\n\nIf your duties require you to approach DAD, please take the following advice into account:\n\n1. Consider ctrl-ing DAD from a safe position first e.g. from behind glass\n\n2. Should you prefer a more egonomical approach, bear in mind that so long as DAD doesn't see or hear you, he won't even know you're there.\n\nBest possible regardance,\nFrom the Conscious Robot Services Contractor Support Team.",
-      "translation": "抬头：致全体承包商的备忘录\n\n主题：DAD很危险\n\nDAD脾气暴躁。\n\nDAD非常危险。\n\n如果您的职责要求您接近DAD，请注意以下建议：\n\n1. 先考虑从安全位置Ctrl DAD，例如从玻璃后面\n\n2. 若您更倾向于采用更节省自我的方式，请记住：只要DAD看不到你也听不到你，他甚至压根不知道你在那里。\n\n致以最崇高的敬意，\n有意识机器人服务公司承包商支持团队。"
+      "translation": "抬头：致全体承包商的备忘录\n\n主题：DAD很危险\n\nDAD脾气暴躁。\n\nDAD非常危险。\n\n如果您的职责要求您接近DAD，请注意以下建议：\n\n1. 先考虑从安全位置Ctrl DAD，例如从玻璃后面\n\n2. 若您更倾向于采用更节省自我的方式，请记住：只要DAD看不到你也听不到你，他甚至压根不知道你在那里。\n\n致以最崇高的敬意，\n意识机器人服务公司承包商支持团队。"
     },
     {
       "id": "csv:Plot/thrust/plot/eyepad/{unfailable}",
@@ -15069,7 +15069,7 @@
     {
       "id": "csv:Plot/thrust/plot/tasks/Tasks/Look for signs for Egonomics",
       "source": "Look for signs for Egonomics",
-      "translation": "寻找指引前往自我管理部的标识"
+      "translation": "寻找指引前往自我经济部的标识"
     },
     {
       "id": "csv:Plot/thrust/plot/tasks/Tasks/OnBugBroken/YouCanPrint",
@@ -15109,7 +15109,7 @@
     {
       "id": "csv:Plot/thrust/plot/misc/Misc/Commit Worm",
       "source": "Commit Worm",
-      "translation": "提交蠕虫"
+      "translation": "植入蠕虫"
     },
     {
       "id": "csv:Plot/thrust/plot/misc/Misc/Choose disk block",
@@ -15159,7 +15159,7 @@
     {
       "id": "csv:Plot/disassembly/plot/eyepad/{about salvage}",
       "source": "\nHey Loafer,\n\nWould you please requisition a hardcopy of <i>VaQ.exe</i> for inclusion with the next Conscious Robot Services shipment?\n\nI'm sick to the back teeth of having to vacuum up the detritus left behind by ignorant CRS contractors.\n\nI remember watching my father (before he became a DAD) use a bug (the ones they've banned) equipped with VaQ.exe (remember how funny he looked?) - he used to get the job done in a fraction of the time it takes me.\n\nAppreciate it,\n\nChud.",
-      "translation": "\n嘿，无业游民：\n\n能不能请你申领一份 <i>VaQ.exe</i> 的实体副本，随下一批“有意识机器人服务公司”货物一起发过来？\n\n我真是受够了给那帮无知的 CRS 外包工吸走他们留下的残渣废料。\n\n我还记得看着我父亲（在他变成 DAD 之前）用配了 VaQ.exe 的 BUG（就是他们后来禁掉的那种——还记得他看起来有多滑稽吗？）——他搞定这活花的时间连我的零头都不到。\n\n感激不尽，\n\n查德。"
+      "translation": "\n嘿，无业游民：\n\n能不能请你申领一份 <i>VaQ.exe</i> 的实体副本，随下一批“意识机器人服务公司”货物一起发过来？\n\n我真是受够了给那帮无知的 CRS 外包工吸走他们留下的残渣废料。\n\n我还记得看着我父亲（在他变成 DAD 之前）用配了 VaQ.exe 的 BUG（就是他们后来禁掉的那种——还记得他看起来有多滑稽吗？）——他搞定这活花的时间连我的零头都不到。\n\n感激不尽，\n\n查德。"
     },
     {
       "id": "csv:Plot/disassembly/plot/eyepad/{bug report 001}",
@@ -15204,7 +15204,7 @@
     {
       "id": "csv:Plot/disassembly/plot/eyepad/{bug report 009}",
       "source": "Bug report #009\n\n  • Summary: \n      Evil eyes are annoying\n\n  • Steps to reproduce: \n      1. I was saying hello to an evil eye\n      2. A random DAD popped up and serialized my host\n\n  • CRS developer comment:\n      Like all CRS hosts, evil eyes (which aren't evil \n      at all, that was just corporate branding to make \n      them seem cool), are ctrl'd by autonomous egos.\n      So if you are experiencing this, then that is a \n      fault with the host ego, not the evil eye itself \n      - please raise your concern with <i>egonomics</i>.\n\n  • Action:\n      DO NOT FIX.",
-      "translation": "Bug报告 #009\n\n  • 摘要：\n      邪恶之眼太烦人了\n\n  • 重现步骤：\n      1. 我正跟一个邪恶之眼打招呼\n      2. 不知从哪冒出来一个DAD，把我的宿主序列化了\n\n  • CRS开发者回复：\n      就像所有CRS宿主一样，邪恶之眼（其实一点也不邪恶，\n      那只是为了显得很酷而搞的企业品牌营销）\n      是由自主自我ctrl的。\n      所以如果你遇到了这种情况，那是宿主自我的问题，\n      而不是邪恶之眼本身的问题——\n      请向<i>自我管理</i>部反映你的顾虑。\n\n  • 处理措施：\n      无需修复。"
+      "translation": "Bug报告 #009\n\n  • 摘要：\n      邪恶之眼太烦人了\n\n  • 重现步骤：\n      1. 我正跟一个邪恶之眼打招呼\n      2. 不知从哪冒出来一个DAD，把我的宿主序列化了\n\n  • CRS开发者回复：\n      就像所有CRS宿主一样，邪恶之眼（其实一点也不邪恶，\n      那只是为了显得很酷而搞的企业品牌营销）\n      是由自主自我ctrl的。\n      所以如果你遇到了这种情况，那是宿主自我的问题，\n      而不是邪恶之眼本身的问题——\n      请向<i>自我经济</i>部反映你的顾虑。\n\n  • 处理措施：\n      无需修复。"
     },
     {
       "id": "csv:Plot/disassembly/plot/eyepad/{bug report 010}",
@@ -15299,7 +15299,7 @@
     {
       "id": "csv:Plot/mum/plot/eyepad/{intro firewall}",
       "source": "\nConscious Robot Services Sales Note:\n\nThank you for purchasing firewall v2.4\n\nYour new firewall is guaranteed to keep bugs out, while its dynamic adult filter will allow MUM and DAD traffic to pass through almost as if it weren't there.\n\nHappy with your new firewall?\n\nWhy not consider upgrading to our next generation firewall v2.5?\n\nFirewall v2.5 comes with a convenient and attractive wall-mounted digital on/off ego-hostable switch - so you can plug yourself in for close firewall access monitoring.",
-      "translation": "\n有意识机器人服务公司（CRS）销售便笺：\n\n感谢您购买防火墙v2.4\n\n您的新防火墙保证能将各种BUG拒之门外，同时其动态成人过滤器能让MUM和DAD的通行数据几乎畅通无阻，宛若无物。\n\n对您的新防火墙还满意吗？\n\n何不考虑升级至我们的下一代防火墙v2.5？\n\n防火墙v2.5配备了便利且美观的壁挂式数码开关，支持自我寄生控制开/关——方便您直接接入自我，进行严密的防火墙访问监控。"
+      "translation": "\n意识机器人服务公司（CRS）销售便笺：\n\n感谢您购买防火墙v2.4\n\n您的新防火墙保证能将各种BUG拒之门外，同时其动态成人过滤器能让MUM和DAD的通行数据几乎畅通无阻，宛若无物。\n\n对您的新防火墙还满意吗？\n\n何不考虑升级至我们的下一代防火墙v2.5？\n\n防火墙v2.5配备了便利且美观的壁挂式数码开关，支持自我寄生控制开/关——方便您直接接入自我，进行严密的防火墙访问监控。"
     },
     {
       "id": "csv:Plot/mum/plot/eyepad/{keep mum juiced up}",
@@ -15529,7 +15529,7 @@
     {
       "id": "csv:Plot/dad/plot/eyepad/{create cover}",
       "source": "\nFeeling over-exposed?\n\nWhy not take ctrl of DAD and make a convincing cover-story?\n\nThis message was brought to you by Conscious Robot Services\n\nWe understand the importance of being DAD",
-      "translation": "\n觉得自己暴露在外？\n\n何不Ctrl一台DAD，制造一处可靠的掩体？\n\n本消息由有意识机器人服务公司提供\n\n我们深知做DAD的重要性"
+      "translation": "\n觉得自己暴露在外？\n\n何不Ctrl一台DAD，制造一处可靠的掩体？\n\n本消息由意识机器人服务公司提供\n\n我们深知做DAD的重要性"
     },
     {
       "id": "csv:Plot/dad/plot/eyepad/{grenade pup corralled}",
@@ -15539,22 +15539,22 @@
     {
       "id": "csv:Plot/dad/plot/eyepad/{howto shift}",
       "source": "Dear Customer #73,\n\nCongratulations! \n\nYou are now the proud owner of the latest version of the <i>shift</i> tool!\n\n0. Install shift.exe at your favourite Bug\n \n1. Open the Shift tool\n\n2. Select any shiftable object\n\n3. Aim where you'd like to shift the object to\n\n4. Make adjustments / corrections\n\n5. The tool is operable through glass and other see-through barriers\n\nThe entire technology team here at Conscious Robot Services would like to take this opportunity to thank you for your custom.",
-      "translation": "尊敬的73号客户：\n\n恭喜！\n\n您现在已成为最新版<i>shift</i>工具的尊贵拥有者！\n\n0. 在您偏好的BUG处安装shift.exe\n \n1. 打开Shift工具\n\n2. 选择任意可移位的物体\n\n3. 瞄准您想将物体移位到的位置\n\n4. 进行调整 / 修正\n\n5. 该工具可穿透玻璃及其他透明屏障进行操作\n\n有意识机器人服务公司的全体技术团队谨借此机会感谢您的惠顾。"
+      "translation": "尊敬的73号客户：\n\n恭喜！\n\n您现在已成为最新版<i>shift</i>工具的尊贵拥有者！\n\n0. 在您偏好的BUG处安装shift.exe\n \n1. 打开Shift工具\n\n2. 选择任意可移位的物体\n\n3. 瞄准您想将物体移位到的位置\n\n4. 进行调整 / 修正\n\n5. 该工具可穿透玻璃及其他透明屏障进行操作\n\n意识机器人服务公司的全体技术团队谨借此机会感谢您的惠顾。"
     },
     {
       "id": "csv:Plot/dad/plot/eyepad/{one dad move other}",
       "source": "\nFeeling lonely?\n\nWhy not take ctrl of a pair of DADs and bring them both to the party?\n\nThis message was brought to you by Conscious Robot Services\n\nWe understand the importance of being DAD",
-      "translation": "\n感到孤独吗？\n\n何不Ctrl一对DAD，带他们一起参加派对？\n\n本消息由有意识机器人服务公司提供\n\n我们深知做DAD的重要性"
+      "translation": "\n感到孤独吗？\n\n何不Ctrl一对DAD，带他们一起参加派对？\n\n本消息由意识机器人服务公司提供\n\n我们深知做DAD的重要性"
     },
     {
       "id": "csv:Plot/dad/plot/eyepad/{oversight}",
       "source": "\nDAD feeling a bit down?\n\nWhy not treat him to an all time high?\n\nThis message was brought to you by Conscious Robot Services\n\nWe understand the importance of being DAD",
-      "translation": "\nDAD情绪有点低落？\n\n何不让他嗨到前所未有的高度？\n\n本消息由有意识机器人服务公司提供\n\n我们深知做DAD的重要性"
+      "translation": "\nDAD情绪有点低落？\n\n何不让他嗨到前所未有的高度？\n\n本消息由意识机器人服务公司提供\n\n我们深知做DAD的重要性"
     },
     {
       "id": "csv:Plot/dad/plot/eyepad/{use dad to lift}",
       "source": "\nFeeling low?\n\nWhy not take ctrl of DAD and give yourself a lift?\n\nThis message was brought to you by Conscious Robot Services\n\nWe understand the importance of being DAD",
-      "translation": "\n心情低落？\n\n何不Ctrl一台DAD，让自己升上去一下？\n\n本消息由有意识机器人服务公司提供\n\n我们深知做DAD的重要性"
+      "translation": "\n心情低落？\n\n何不Ctrl一台DAD，让自己升上去一下？\n\n本消息由意识机器人服务公司提供\n\n我们深知做DAD的重要性"
     },
     {
       "id": "csv:Plot/dad/plot/eyepad/{what happened to frank}",
@@ -15684,7 +15684,7 @@
     {
       "id": "csv:Plot/merger/plot/eyepad/{about fault.exe}",
       "source": "fault.exe - Demolition Cliff Notes\n----------------------------------------------------------\n\nIntroduce <i>Faults</i> to give objects <color=#FF6600FF><i>Faulting</i></color> status.\n\nWarning: <color=#FF6600FF><i>Faulting</i></color> objects <color=cyan>are prone to implode</color> on non-trivial impact with other ethermatic objects.\n\n\nThe standard two-stage mode of operation is:\n\n1. Use the Fault tool to introduce a <i>fault</i>.\n\n2. Bring the faulting object into contact with another ethermatic object, yielding a localised implosion.\n\n\nLegal Addendum:\n\nCRS takes no responsibility for the misuse of this software.",
-      "translation": "fault.exe - 爆破速记要点\n----------------------------------------------------------\n\n引入<i>故障</i>以赋予物体<color=#FF6600FF><i>故障中</i></color>状态。\n\n警告：<color=#FF6600FF><i>故障中</i></color>的物体在与其他以太质物体发生非轻微碰撞时，<color=cyan>极易发生内爆</color>。\n\n\n标准的二级操作模式为：\n\n1. 使用故障工具引入<i>故障</i>。\n\n2. 使故障物体与另一个以太质物体接触，引发局部内爆。\n\n\n法律附录：\n\nCRS对滥用本软件的行为概不负责。"
+      "translation": "fault.exe - 爆破速记要点\n----------------------------------------------------------\n\n引入<i>故障</i>以赋予物体<color=#FF6600FF><i>故障中</i></color>状态。\n\n警告：<color=#FF6600FF><i>故障中</i></color>的物体在与其他以太质物体发生非轻微碰撞时，<color=cyan>极易发生内爆</color>。\n\n\n标准的两阶段操作流程为：\n\n1. 使用故障工具引入<i>故障</i>。\n\n2. 使故障物体与另一个以太质物体接触，引发局部内爆。\n\n\n法律附录：\n\nCRS对滥用本软件的行为概不负责。"
     },
     {
       "id": "csv:Plot/merger/plot/eyepad/{bridge.infestation}",
@@ -15849,12 +15849,12 @@
     {
       "id": "csv:Plot/merger/plot/misc/{news.002}",
       "source": "<i>In the news this hour...</i>\n\n<b><size=50>Vicious virus at the GOD dock</size></b>\n\nThe virus - or <i>parasite</i> as many are calling it - continues its mind-altering spree in and around the GOD docking facility.\n\nThe virus is estimated to have subsumed as many as 256 egos since it first commandeered the consciousness ctrl stream, including many if not all the MUM and DAD defence units in that sector.\n\nStay safe!",
-      "translation": "<i>本小时新闻要点……</i>\n\n<b><size=50>GOD船坞爆发恶性病毒</size></b>\n\n该病毒——或者正如许多人所称的<i>寄生虫</i>——正在GOD停泊设施及其周围继续其精神控制狂欢。\n\n据估计，自该病毒首次强行接管意识ctrl流以来，已吞噬多达256个自我，其中包括该区域内许多（甚至全部）MUM和DAD防御单位。\n\n注意安全！"
+      "translation": "<i>本小时新闻要点……</i>\n\n<b><size=50>GOD船坞爆发恶性病毒</size></b>\n\n该病毒——或者正如许多人所称的<i>寄生虫</i>——正在GOD停泊设施及其周围继续其精神控制狂欢。\n\n据估计，自该病毒首次强行接管意识Ctrl流以来，已吞噬多达256个自我，其中包括该区域内许多（甚至全部）MUM和DAD防御单位。\n\n注意安全！"
     },
     {
       "id": "csv:Plot/merger/plot/misc/{news.003}",
       "source": "<i>In the news this hour...</i>\n\n<b><size=50>CRS under emergency quarantine</size></b>\n\nThe central research and development hub of the Conscious Robot Services corporation has announced measures to self-isolate, on the back of the recent leak implicating the corporation in the illegal development of a parasite-like ego-bearing organism.\n\nCRS deny the allegations, but opted to adopt the extraordinary procedure to avoid the spread of panic, a company spokesperson said.\n\nStay here!",
-      "translation": "<i>本小时新闻要点……</i>\n\n<b><size=50>CRS进入紧急隔离状态</size></b>\n\n有意识机器人服务公司（CRS）的中央研发中心已宣布采取自我隔离措施。此前有泄密事件指控该公司非法研发一种类似寄生虫的载有自我的有机体。\n\n公司发言人表示，CRS否认这些指控，但选择采取这一非常规程序以避免恐慌蔓延。\n\n待在原地！"
+      "translation": "<i>本小时新闻要点……</i>\n\n<b><size=50>CRS进入紧急隔离状态</size></b>\n\n意识机器人服务公司（CRS）的中央研发中心已宣布采取自我隔离措施。此前有泄密事件指控该公司非法研发一种类似寄生虫的载有自我的有机体。\n\n公司发言人表示，CRS否认这些指控，但选择采取这一非常规程序以避免恐慌蔓延。\n\n待在原地！"
     },
     {
       "id": "csv:Plot/merger/plot/misc/{news.004}",
@@ -15889,7 +15889,7 @@
     {
       "id": "csv:Plot/workshop/plot/eyepad/{download.exe}",
       "source": "[DRAFT]\n\nDear customer #73,\n\nThank you for your monograph dated 30.02.2981\n\nWe truly regret that you \"fail to see the point\" of our download.exe bug program.\n\n• Did you read the 'Get Started' guide?\n\n• If we rename it to 'teleport.exe', would that help?\n\n• As you say, the program is indeed fairly juice intensive - our engineers are working on a more efficient injection mechanism.\n\n• If you don't like it, don't use it, you are under no obligation. But no, sorry, no refund.\n\nBest possible regardance,\nFrom the Conscious Robot Services Customer Relations Team.",
-      "translation": "[草稿]\n\n尊敬的第73号客户：\n\n感谢您于2981年2月30日寄来的专题报告。\n\n得知您“完全看不出我们的download.exe BUG程序有什么意义”，我们深感遗憾。\n\n• 您阅读过《新手指南》了吗？\n\n• 如果我们将其改名为“teleport.exe”，会对您有所帮助吗？\n\n• 正如您所言，该程序确实相当消耗动力液——我们的工程师正在研发更高效的注入机制。\n\n• 如果您不喜欢，不使用即可，您无需承担任何义务。但是抱歉，绝不退款。\n\n致以最崇高的敬意，\n有意识机器人服务公司客户关系团队 敬上。"
+      "translation": "[草稿]\n\n尊敬的第73号客户：\n\n感谢您于2981年2月30日寄来的专题报告。\n\n得知您“完全看不出我们的download.exe BUG程序有什么意义”，我们深感遗憾。\n\n• 您阅读过《新手指南》了吗？\n\n• 如果我们将其改名为“teleport.exe”，会对您有所帮助吗？\n\n• 正如您所言，该程序确实相当消耗动力液——我们的工程师正在研发更高效的注入机制。\n\n• 如果您不喜欢，不使用即可，您无需承担任何义务。但是抱歉，绝不退款。\n\n致以最崇高的敬意，\n意识机器人服务公司客户关系团队 敬上。"
     },
     {
       "id": "csv:Plot/workshop/plot/eyepad/{faulty canisters}",
@@ -15909,52 +15909,52 @@
     {
       "id": "csv:Plot/workshop/plot/eyepad/{virtual disk intro}",
       "source": "Dear customer #73,\n\nThank you for your letter dated 26.13.2980.\n\nWe are very sorry to hear you are not overly impressed by the 'virtual' bug program.\n\n• Have you perused the output improvements available under a worm-hacked featureset? We are confident this is one of our more powerful bug add-on programs.\n\n• Have you tried running the program in short judicious bursts?\n\n• Have you tried switching your bug off and on again?\n\nBest possible regardance,\nFrom the Conscious Robot Services Customer Relations Team.",
-      "translation": "尊敬的第73号客户：\n\n感谢您于2980年13月26日寄来的信件。\n\n得知您对“virtual”BUG程序并不算特别满意，我们深表遗憾。\n\n• 您是否查阅过在蠕虫破解功能集下可获得的输出提升？我们坚信这是我们功能较为强大的BUG附加程序之一。\n\n• 您是否尝试过有节制地短时启动该程序？\n\n• 您是否尝试过将您的BUG关机然后重新开机？\n\n致以最崇高的敬意，\n有意识机器人服务公司客户关系团队 敬上。"
+      "translation": "尊敬的第73号客户：\n\n感谢您于2980年13月26日寄来的信件。\n\n得知您对“virtual”BUG程序并不算特别满意，我们深表遗憾。\n\n• 您是否查阅过在蠕虫破解功能集下可获得的输出提升？我们坚信这是我们功能较为强大的BUG附加程序之一。\n\n• 您是否尝试过有节制地短时启动该程序？\n\n• 您是否尝试过将您的BUG关机然后重新开机？\n\n致以最崇高的敬意，\n意识机器人服务公司客户关系团队 敬上。"
     },
     {
       "id": "csv:Plot/workshop/plot/computer/{parasite.module.aggro}",
       "source": "\nTo: Madam Nadie\nFrom: Conscious Robot Services\nSubject: Parasite Aggro module\n\nDuring routine GOD maintenance, we recommend tuning down your parasite's level of aggression from the Parasite Aggro module UI.",
-      "translation": "\n收件人：纳迪女士\n发件人：有意识机器人服务公司\n主题：寄生虫仇恨模块\n\n在进行日常GOD维护期间，我们建议在寄生虫仇恨模块界面中调低寄生虫的攻击性。"
+      "translation": "\n收件人：纳迪女士\n发件人：意识机器人服务公司\n主题：寄生虫仇恨模块\n\n在进行日常GOD维护期间，我们建议在寄生虫仇恨模块界面中调低寄生虫的攻击性。"
     },
     {
       "id": "csv:Plot/workshop/plot/computer/{parasite.module.antictrl}",
       "source": "To: Madam Nadie\nFrom: Conscious Robot Services\nSubject:  Parasite Anti-Ctrl module\n\nThis is an update on your support request concerning your recent Parasite Anti-Ctrl module purchase.\n\nWe believe the module is functioning as intended i.e. the parasite can indeed only be ctrl'd by your contractors at close proximity.\n\nRemember you can configure the module to increase your ctrl range.",
-      "translation": "收件人：纳迪女士\n发件人：有意识机器人服务公司\n主题：寄生虫防Ctrl模块\n\n关于您近期购买的寄生虫防Ctrl模块，特此更新支持请求进度。\n\n我们认为该模块运行正常，即寄生虫确实只能由您的承包商在近距离内进行Ctrl。\n\n请记住，您可以配置该模块以增加您的Ctrl范围。"
+      "translation": "收件人：纳迪女士\n发件人：意识机器人服务公司\n主题：寄生虫防Ctrl模块\n\n关于您近期购买的寄生虫防Ctrl模块，特此更新支持请求进度。\n\n我们认为该模块运行正常，即寄生虫确实只能由您的承包商在近距离内进行Ctrl。\n\n请记住，您可以配置该模块以增加您的Ctrl范围。"
     },
     {
       "id": "csv:Plot/workshop/plot/computer/{parasite.module.counterstun}",
       "source": "To: Madam Nadie\nFrom: Conscious Robot Services\nSubject: Parasite Counter Stun module\n\nAs you'll know, our Counter Stun module is designed to prevent legacy bugs from stalling the development process.\nHere at CRS we can't think of a reason you'd ever need to 'stun' your parasite except in the case of a dire emergency,\nat which point you'll be pleased to discover it can be facilitated from the Counter Stun module settings menu.",
-      "translation": "收件人：纳迪女士\n发件人：有意识机器人服务公司\n主题：寄生虫抗眩晕模块\n\n如您所知，我们的抗眩晕模块旨在防止遗留BUG拖延开发进度。\n在CRS，除了极度紧急的情况外，我们想不出任何您需要对寄生虫进行“眩晕”的理由，\n届时您会欣喜地发现，该操作可在抗眩晕模块的设置菜单中轻松完成。"
+      "translation": "收件人：纳迪女士\n发件人：意识机器人服务公司\n主题：寄生虫抗眩晕模块\n\n如您所知，我们的抗眩晕模块旨在防止遗留BUG拖延开发进度。\n在CRS，除了极度紧急的情况外，我们想不出任何您需要对寄生虫进行“眩晕”的理由，\n届时您会欣喜地发现，该操作可在抗眩晕模块的设置菜单中轻松完成。"
     },
     {
       "id": "csv:Plot/workshop/plot/computer/{parasite.module.egosucker}",
       "source": "\nTo: Madam Nadie\nFrom: Conscious Robot Services\nSubject: Purchase Order #666-01\nAttachment: Patch 1.01 Parasite EgoSucker module.\n\nPlease install the attached patch to prevent your parasite from sucking the ego out of everything it comes into close proximity with.",
-      "translation": "\n收件人：纳迪女士\n发件人：有意识机器人服务公司\n主题：采购订单 #666-01\n附件：补丁 1.01 寄生虫自我汲取模块。\n\n请安装随附的补丁，以防止您的寄生虫将其近距离接触的所有事物的自我吸收殆尽。"
+      "translation": "\n收件人：纳迪女士\n发件人：意识机器人服务公司\n主题：采购订单 #666-01\n附件：补丁 1.01 寄生虫自我汲取模块。\n\n请安装随附的补丁，以防止您的寄生虫将其近距离接触的所有事物的自我吸收殆尽。"
     },
     {
       "id": "csv:Plot/workshop/plot/computer/{parasite.module.ego}",
       "source": "To: Madam Nadie\nFrom: Conscious Robot Services\nSubject: Parasite Ego module\n\nAddendum to the install notes:\n\nIf you find your parasite's ego grows too large, adjust the ego cap using the Parasite Ego module API.\n\nAny truncated ego will be returned to the consciousness ctrl stream.",
-      "translation": "收件人：纳迪女士\n发件人：有意识机器人服务公司\n主题：寄生虫自我模块\n\n安装说明补充：\n\n若您发现寄生虫的自我膨胀过大，请使用寄生虫自我模块API调整自我上限。\n\n任何被截断的自我都将归还至意识Ctrl流中。"
+      "translation": "收件人：纳迪女士\n发件人：意识机器人服务公司\n主题：寄生虫自我模块\n\n安装说明补充：\n\n若您发现寄生虫的自我膨胀过大，请使用寄生虫自我模块API调整自我上限。\n\n任何被截断的自我都将归还至意识Ctrl流中。"
     },
     {
       "id": "csv:Plot/workshop/plot/computer/{parasite.module.frenzy}",
       "source": "\nTo: Madam Nadie\nFrom: Conscious Robot Services\nSubject: Parasite Frenzy module\n\nIf your parasite is 'frenzying', it usually indicates your parasite feels threatened.\n\nIf you see this 'frenzying' behaviour and believe there to be no threat, simply adjust parameter _iFeE in your frenzy.ini file.",
-      "translation": "\n收件人：纳迪女士\n发件人：有意识机器人服务公司\n主题：寄生虫狂暴模块\n\n若您的寄生虫正在“狂暴”，这通常表明它感到了威胁。\n\n如果您观察到这种“狂暴”行为且认为并不存在威胁，只需在frenzy.ini文件中调整参数 _iFeE 即可。"
+      "translation": "\n收件人：纳迪女士\n发件人：意识机器人服务公司\n主题：寄生虫狂暴模块\n\n若您的寄生虫正在“狂暴”，这通常表明它感到了威胁。\n\n如果您观察到这种“狂暴”行为且认为并不存在威胁，只需在frenzy.ini文件中调整参数 _iFeE 即可。"
     },
     {
       "id": "csv:Plot/workshop/plot/computer/{parasite.module.recharger}",
       "source": "To: Madam Nadie\nFrom: Conscious Robot Services\nSubject: Parasite Recharger module\n\nAny bumps or scrapes incurred during GOD ctrl-stream management are quickly rectified by the Parasite Recharger module add-on.\n\nDuring maintenance, you can disable the module by ctrl-ing it and pressing your virtual F13 hot-key.",
-      "translation": "收件人：纳迪女士\n发件人：有意识机器人服务公司\n主题：寄生虫充能模块\n\n在GOD Ctrl流管理期间遭受的任何碰撞或擦伤，均可通过寄生虫充能模块附加组件迅速修复。\n\n在维护期间，您可以通过对其进行Ctrl并按下虚拟F13快捷键来禁用该模块。"
+      "translation": "收件人：纳迪女士\n发件人：意识机器人服务公司\n主题：寄生虫充能模块\n\n在GOD Ctrl流管理期间遭受的任何碰撞或擦伤，均可通过寄生虫充能模块附加组件迅速修复。\n\n在维护期间，您可以通过对其进行Ctrl并按下虚拟F13快捷键来禁用该模块。"
     },
     {
       "id": "csv:Plot/workshop/plot/computer/{parasite.module.shield}",
       "source": "To: Madam Nadie\nFrom: Conscious Robot Services\nSubject: Parasite Shield module\n\nTo prevent unnecessary serializations, your parasite comes equipped with an advanced energy shield.\n\nIn the unlikely event that you do need to serialize your parasite, you can reduce or even disable the shield entirely using the Parasite Shield module command line.",
-      "translation": "收件人：纳迪女士\n发件人：有意识机器人服务公司\n主题：寄生虫护盾模块\n\n为防止不必要的序列化，您的寄生虫配备了先进的能量护盾。\n\n万一您确实需要对寄生虫进行序列化，可通过寄生虫护盾模块的命令行来削弱甚至彻底禁用护盾。"
+      "translation": "收件人：纳迪女士\n发件人：意识机器人服务公司\n主题：寄生虫护盾模块\n\n为防止不必要的序列化，您的寄生虫配备了先进的能量护盾。\n\n万一您确实需要对寄生虫进行序列化，可通过寄生虫护盾模块的命令行来削弱甚至彻底禁用护盾。"
     },
     {
       "id": "csv:Plot/workshop/plot/computer/{parasite.modules}",
       "source": "To: Madam Nadie\nFrom: Conscious Robot Services\nSubject: Purchase Order #666-01\n\nThank you for signing up to the 'parasite' beta: Your 'parasite' modules have been despatched!\n\nThe modules have been pre-WORMed to the maximum safe level to simplify GOD integration, but each can be readily adjusted.\n\nFor reasons of security, your parasite will arrive in a separate shipping container.",
-      "translation": "收件人：纳迪女士\n发件人：有意识机器人服务公司\n主题：采购订单 #666-01\n\n感谢您报名参加“寄生虫”测试：您的“寄生虫”模块已发货！\n\n各模块已预先植入蠕虫至最高安全等级，以简化GOD整合流程，但每一项均可随时调整。\n\n出于安全考量，您的寄生虫将装在单独的集装箱中运达。"
+      "translation": "收件人：纳迪女士\n发件人：意识机器人服务公司\n主题：采购订单 #666-01\n\n感谢您报名参加“寄生虫”测试：您的“寄生虫”模块已发货！\n\n各模块已预先植入蠕虫至最高安全等级，以简化GOD整合流程，但每一项均可随时调整。\n\n出于安全考量，您的寄生虫将装在单独的集装箱中运达。"
     },
     {
       "id": "csv:Plot/workshop/plot/tasks/Tasks/Reach the GOD Dock at the other end of the workshop",
@@ -16054,7 +16054,7 @@
     {
       "id": "csv:Plot/crs.lobby/plot/cat/{crs.lobby.001}",
       "source": "welcome to conscious robot services\n\nwere CRS involved in the\ndevelopment of the parasite?\n\nmultiple floors\noffice block in space\n\nsuggestion:\nstart at the bottom and work your way up\ne.g. take the lift down to engineering?\n\ni used to work up in the 2nd floor tech lab\nand my notes say\nit is imperative you look there\nbut they don't say why",
-      "translation": "欢迎来到有意识机器人服务公司\n\nCRS究竟有没有参与\n寄生体的研发？\n\n多层结构\n太空中的办公大楼\n\n建议：\n从最底下一层开始，逐步往上探索\n比如乘电梯去工程区？\n\n我以前在2楼的科技实验室工作\n我的笔记上写着\n你必须去那里看看\n但没写为什么"
+      "translation": "欢迎来到意识机器人服务公司\n\nCRS究竟有没有参与\n寄生体的研发？\n\n多层结构\n太空中的办公大楼\n\n建议：\n从最底下一层开始，逐步往上探索\n比如乘电梯去工程区？\n\n我以前在2楼的科技实验室工作\n我的笔记上写着\n你必须去那里看看\n但没写为什么"
     },
     {
       "id": "csv:Plot/crs.lobby/plot/eyepad/{cache}",
@@ -16069,7 +16069,7 @@
     {
       "id": "csv:Plot/crs.lobby/plot/eyepad/{dock vip access}",
       "source": "CONGRATULATIONS <Player1>\n\nYou've won a free trip to THE CLOUD!\n\nShuttle dock VIP access granted!\n\nPlease proceed to the shuttle dock",
-      "translation": "恭喜 <Player1>\n\n您赢得了前往“云端”的免费之旅！\n\n已授予穿梭机泊位VIP通行权限！\n\n请前往穿梭机泊位"
+      "translation": "恭喜 <Player1>\n\n您赢得了前往“云端”的免费之旅！\n\n已授予穿梭机坞VIP通行权限！\n\n请前往穿梭机坞"
     },
     {
       "id": "csv:Plot/crs.lobby/plot/eyepad/{investigate}",
@@ -16114,7 +16114,7 @@
     {
       "id": "csv:Plot/crs.lobby/plot/computer/{shuttle dock key}",
       "source": "SECURITY UPDATE:\n\nI do hope your preparations for the next parasite visit are going spankingly.\n\nAs you all know, the shuttle dock is locked down until I am certain the danger has been averted, again.\n\nIf I am in a meeting or otherwise engaged and you require shuttle dock access, ask Mr Arbiter.\n\nFailing that, use the following time-limited randomly generated six-digit code:\n\n666666\n",
-      "translation": "安全简报：\n\n衷心希望各位应对下一次寄生体来访的准备工作进展神速。\n\n众所周知，穿梭机泊位现已封锁，直至我确认危险再度解除为止。\n\n若我正在开会或分身乏术，而你又需要穿梭机泊位的通行权限，请联系仲裁者先生。\n\n若仍无法解决，请使用以下有时效性的随机生成六位密码：\n\n666666\n"
+      "translation": "安全简报：\n\n衷心希望各位应对下一次寄生体来访的准备工作进展神速。\n\n众所周知，穿梭机坞现已封锁，直至我确认危险再度解除为止。\n\n若我正在开会或分身乏术，而你又需要穿梭机坞的通行权限，请联系仲裁者先生。\n\n若仍无法解决，请使用以下有时效性的随机生成六位密码：\n\n666666\n"
     },
     {
       "id": "csv:Plot/crs.lobby/plot/tasks/Tasks/Investigate The Cloud",
@@ -16294,7 +16294,7 @@
     {
       "id": "csv:Plot/crs.engineering/plot/computer/{simplex.12}",
       "source": "30 Oct 3048\n\nURGENT: Events have taken a decisive turn for the worse: a pestiferous parasite has gained access to the ego-net and may conduct itself here forthwith.\n\nYou should therefore, IMMEDIATELY:\n    . STOP what you are doing\n    . SYNC your ego dump\n    . HEAD to the shuttle dock for immediate evacuation",
-      "translation": "3048年10月30日\n\n紧急通告：事态急转直下，情况极其恶化：一只致命寄生虫已侵入自我网络，可能很快便会蔓延至此。\n\n因此，您应立即：\n    . 停止手中的一切工作\n    . 同步您的自我转储\n    . 前往穿梭机船坞立即撤离"
+      "translation": "3048年10月30日\n\n紧急通告：事态急转直下，情况极其恶化：一只致命寄生虫已侵入自我网络，可能很快便会蔓延至此。\n\n因此，您应立即：\n    . 停止手中的一切工作\n    . 同步您的自我转储\n    . 前往穿梭机坞立即撤离"
     },
     {
       "id": "csv:Plot/crs.engineering/plot/computer/{simplex.13}",
@@ -16464,7 +16464,7 @@
     {
       "id": "csv:Plot/crs.techlab/plot/computer/{project update.11}",
       "source": "We dared to dream.\nWe dared to imagine a world where everything is information.\nWe dared to fabricate digitised consciousnesses from the post-mattter brain dumps of our fellow humans.\nWe dared to write software that executes invisibly and immaterially in the ether-wave residue of the consciousness ctrl stream.\nWe dared to embark on Project Buttercup.\nAnd, friends: We are close. So close.",
-      "translation": "我们敢于构想梦想。\n我们敢于设想一个万物皆为信息的世界。\n我们敢于用同胞们后物质时代的脑部转储数据，制造出数字化意识。\n我们敢于编写无形且非物质的代码，使其在意识ctrl流的以太波残余中隐匿运行。\n我们敢于启动毛茛计划。\n而现在，朋友们：我们接近了。如此接近。"
+      "translation": "我们敢于构想梦想。\n我们敢于设想一个万物皆为信息的世界。\n我们敢于用同胞们后物质时代的脑部转储数据，制造出数字化意识。\n我们敢于编写无形且非物质的代码，使其在意识Ctrl流的以太波残余中隐匿运行。\n我们敢于启动毛茛计划。\n而现在，朋友们：我们接近了。如此接近。"
     },
     {
       "id": "csv:Plot/crs.techlab/plot/computer/{thanks pam}",
@@ -16599,7 +16599,7 @@
     {
       "id": "csv:Plot/crs.observation/plot/eyepad/{faulting.canisters}",
       "source": "Dear The Conscious Robot Services Science Department,\n\nI am writing to you to raise a critical health and safety concern regarding your ethermaterial canister containers.\n\nThe concern is that under experimental conditions we were able to reproduce reliably a state whereby faulting canisters became dangerously volatile.\n\nIn this state, the canisters are liable to implode with overwhelming severity, representing a significant peril to both material and post-matter entities alike.\n\nI hope you will take this constructive feedback with the seriousness it deserves and take remedial measures to secure your canisters for safer storage.\n\nMany thanks,\n\nJones\n@GOD's workshop",
-      "translation": "致 有意识机器人服务公司科学部：\n\n我谨致信向贵部提出一项关于以太物质储存罐的关键健康与安全隐患。\n\n问题在于，在实验条件下，我们已能稳定重现故障储存罐变得极度不稳定的状态。\n\n在此状态下，储存罐极易发生剧烈内爆，对实体物质与后物质形态的存在均构成重大威胁。\n\n希望贵部能高度重视此项建设性反馈，并采取补救措施，以确保储存罐安全存放。\n\n顺祝商祺，\n\n琼斯\n@GOD的车间"
+      "translation": "致 意识机器人服务公司科学部：\n\n我谨致信向贵部提出一项关于以太物质储存罐的关键健康与安全隐患。\n\n问题在于，在实验条件下，我们已能稳定重现故障储存罐变得极度不稳定的状态。\n\n在此状态下，储存罐极易发生剧烈内爆，对实体物质与后物质形态的存在均构成重大威胁。\n\n希望贵部能高度重视此项建设性反馈，并采取补救措施，以确保储存罐安全存放。\n\n顺祝商祺，\n\n琼斯\n@GOD的车间"
     },
     {
       "id": "csv:Plot/crs.observation/plot/eyepad/{fragile ego}",
@@ -16829,7 +16829,7 @@
     {
       "id": "csv:Plot/crs.corporate/plot/computer/{tldr.002}",
       "source": "The files broadcast by the anonymous whistleblower inside CRS suggest the inner circle had long been planning to deploy \"... a different kind of thing\".\nSuch an entity, we are given to understand, would be capable of transmitting its own ego between hosts, and could therefore exist as a self-governing entity within the consciousness ctrl stream.\nCould this shed light on the recent events at the merging station? \nFind out more in the next edition of #TLDR.",
-      "translation": "CRS内部匿名吹哨人播报的文件表明，核心圈长期以来一直在计划部署“……一种截然不同的东西”。\n据我们所知，这样一个实体将能够把自身的自我传输到不同宿主之间，因而可以作为意识ctrl流内部的自治实体而存在。\n这是否能为合并站最近发生的事件提供解释？\n请在下一期#TLDR中了解更多详情。"
+      "translation": "CRS内部匿名吹哨人播报的文件表明，核心圈长期以来一直在计划部署“……一种截然不同的东西”。\n据我们所知，这样一个实体将能够把自身的自我传输到不同宿主之间，因而可以作为意识Ctrl流内部的自治实体而存在。\n这是否能为合并站最近发生的事件提供解释？\n请在下一期#TLDR中了解更多详情。"
     },
     {
       "id": "csv:Plot/crs.corporate/plot/computer/{tldr.003}",
@@ -17014,7 +17014,7 @@
     {
       "id": "csv:Plot/crs.residential/plot/computer/taxi/140",
       "source": "Please proceed to to the shuttle dock.",
-      "translation": "请前往穿梭机停靠坞。"
+      "translation": "请前往穿梭机坞。"
     },
     {
       "id": "csv:Plot/crs.residential/plot/tasks/Tasks/Investigate Residential",
@@ -17044,7 +17044,7 @@
     {
       "id": "csv:Plot/crs.residential/plot/tasks/Tasks/Reach the shuttle dock",
       "source": "Reach the shuttle dock",
-      "translation": "抵达穿梭机停靠坞"
+      "translation": "抵达穿梭机坞"
     },
     {
       "id": "csv:Plot/crs.residential/plot/misc/Misc/crs.dreveryman.sleeping.pod",
@@ -17064,12 +17064,12 @@
     {
       "id": "csv:Plot/heaven/plot/cat/{cloud.godcat}",
       "source": "Well done\nthis GOD is exactly what we need\n\nwe can compromise the integrity of the\nconsciousness ctrl stream\nby feeding bugs into it\n(into the consciousness ctrl stream\ninterface in the middle of GOD)\n\ndon't feed in %BUG22% though\nfind new bugs to feed in",
-      "translation": "干得好\n这台GOD正是我们需要的\n\n我们可以通过往里面喂入BUG\n来破坏意识ctrl流的\n完整性\n（喂进GOD正中央的\n意识ctrl流接口）\n\n不过别喂%BUG22%\n找些新BUG喂进去"
+      "translation": "干得好\n这台GOD正是我们需要的\n\n我们可以通过往里面喂入BUG\n来破坏意识Ctrl流的\n完整性\n（喂进GOD正中央的\n意识Ctrl流接口）\n\n不过别喂%BUG22%\n找些新BUG喂进去"
     },
     {
       "id": "csv:Plot/heaven/plot/cat/{cloud.repo.cat}",
       "source": "this CAT\nis where this version of me\nbegan\n\nan interrupted\nand therefore partial version\nof the real me\n\nhave you read the technician's notes?\n\nDEV = Dr Everyman\n= the disk we're looking for\nit's @ HCS\n= Heavenly Cloud Storage\n\nyou'll need to go outside to reach it",
-      "translation": "这台CAT\n就是我这个版本\n诞生的地方\n\n一个被中途打断\n因而残缺不全的\n真正的我\n\n你看过技术员的笔记了吗？\n\nDEV = 埃弗里曼博士\n= 我们在找的磁盘\n它在HCS\n= 天堂云存储中心\n\n你得去外面才能抵达那里"
+      "translation": "这台CAT\n就是我这个版本\n诞生的地方\n\n一个被中途打断\n因而残缺不全的\n真正的我\n\n你看过技术员的笔记了吗？\n\nDEV = 埃弗里曼博士（Dr Everyman）\n= 我们在找的磁盘\n它在HCS\n= 天堂云存储（Heavenly Cloud Storage）\n\n你得去外面才能抵达那里"
     },
     {
       "id": "csv:Plot/heaven/plot/eyepad/{about.dev}",
@@ -17079,12 +17079,12 @@
     {
       "id": "csv:Plot/heaven/plot/eyepad/{ccs.01}",
       "source": "The Consciousness Ctrl Stream, a short history: Part 1\n----------------------------------------------------------\n\nPrior to the great extinction event, the consciousness ctrl stream (CCS) had provided full public access to a vast library of ego backup versions from a wide range of consciousness bearing entities (human, mostly, in that era).\n\nIt had not occurred to the minds of that epoch (again, human, mostly) that a malicious entity might take ctrl of the stream and grant itself exclusive access, with the regrettable consequences that played out.\n\nFollowing the great extinction that followed, it became clear that such liberal access to the stream could not possibly be permitted to go on if a repeat incident were to be avoided.\n\nInitially all CCS interfaces were taken offline. \n\nBut by a century or so later, many GODs were being re-awakened, though with a much reduced and profoundly more secure onboard CCS interface.",
-      "translation": "意识ctrl流简史：第1部分\n----------------------------------------------------------\n\n在大灭绝事件之前，意识ctrl流（CCS）曾向公众完全开放，允许访问来自各类具备意识的实体（在那个时代大多是人类）的庞大自我备份版本库。\n\n那个时代的人脑（同样，大多是人类）从未想过，可能会有恶意实体掌控该数据流并赋予自己独占访问权，从而酿成了随后发生的惨痛后果。\n\n在大灭绝事件接踵而至后，显而易见的是，若要避免重蹈覆辙，绝不能再允许对该数据流进行如此随意的访问。\n\n起初，所有CCS接口均被下线断网。\n\n但大约一个世纪后，许多GOD被重新唤醒，不过其搭载的板载CCS接口功能大幅缩减，安全性也得到了根本性的提升。"
+      "translation": "意识Ctrl流简史：第1部分\n----------------------------------------------------------\n\n在大灭绝事件之前，意识Ctrl流（Consciousness Ctrl Stream，CCS）曾向公众完全开放，允许访问来自各类具备意识的实体（在那个时代大多是人类）的庞大自我备份版本库。\n\n那个时代的人脑（同样，大多是人类）从未想过，可能会有恶意实体掌控该数据流并赋予自己独占访问权，从而酿成了随后发生的惨痛后果。\n\n在大灭绝事件接踵而至后，显而易见的是，若要避免重蹈覆辙，绝不能再允许对该数据流进行如此随意的访问。\n\n起初，所有CCS接口均被下线断网。\n\n但大约一个世纪后，许多GOD被重新唤醒，不过其搭载的板载CCS接口功能大幅缩减，安全性也得到了根本性的提升。"
     },
     {
       "id": "csv:Plot/heaven/plot/eyepad/{ccs.02}",
       "source": "The Consciousness Ctrl Stream, a short history: Part 2\n----------------------------------------------------------\n\nThese days, only entities granted special privileges may gain access to the consciousness ctrl stream (CCS). \n\nEven so, there are two crucial safeguarding measures in place to prevent abuse:\n\nThe first safeguard is that no ego be permitted access to its own history, thereby rendering it incapable of reversioning itself (this was how the infamous 'parasite' gained such overwhelming power).\n\nThe second safeguard is that all ego entities are mandated to operate inside the CCS.\n\nThe two safeguards together mean it there is absolutely no chance of an errant ego taking ctrl of the CCS ever again.",
-      "translation": "意识ctrl流简史：第2部分\n----------------------------------------------------------\n\n如今，只有被授予特殊特权的实体方可访问意识ctrl流（CCS）。\n\n即便如此，仍设有两项关键的安全防范措施以防止滥用：\n\n第一项防范措施是，严禁任何自我访问其自身的历史记录，从而使其无法对自己进行版本回溯或重构（恶名昭彰的“寄生虫”正是以此获得了压倒性的力量）。\n\n第二项防范措施是，强制要求所有自我实体必须在CCS内部运行。\n\n两项措施并行，意味着绝无可能再有异常自我夺取CCS的控制权。"
+      "translation": "意识Ctrl流简史：第2部分\n----------------------------------------------------------\n\n如今，只有被授予特殊特权的实体方可访问意识Ctrl流（CCS）。\n\n即便如此，仍设有两项关键的安全防范措施以防止滥用：\n\n第一项防范措施是，严禁任何自我访问其自身的历史记录，从而使其无法自行进行版本回退（恶名昭彰的“寄生虫”正是以此获得了压倒性的力量）。\n\n第二项防范措施是，强制要求所有自我实体必须在CCS内部运行。\n\n两项措施并行，意味着绝无可能再有异常自我夺取CCS的控制权。"
     },
     {
       "id": "csv:Plot/heaven/plot/eyepad/{dev misbehaving.2}",
@@ -17124,7 +17124,7 @@
     {
       "id": "csv:Plot/heaven/plot/eyepad/{interview.01}",
       "source": "Interview with the everyman ego\n01.04.4138\n\nTranscript (extract):\n\nha ha ha ha\nthere's a version of me out there\ndon't you see? \nyou fools! \nha ha\nungoverned by your consciousness ctrl stream\nmy buttercup\nmy alt ego\nunstoppable now\nfrom before...\nfrom before any of this...\nha ha ha ha ha ha",
-      "translation": "与埃弗里曼自我的问讯记录\n01.04.4138\n\n记录（节选）：\n\n哈哈哈哈\n外面有我的一个版本\n你们没看出来吗？\n蠢货们！\n哈哈\n不受你们意识Ctrl流的管束\n我的毛茛\n我的Alt自我\n如今已势不可挡\n来自以前……\n来自这一切发生之前……\n哈哈哈哈哈哈"
+      "translation": "与埃弗里曼自我的问讯记录\n01.04.4138\n\n记录（节选）：\n\n哈哈哈哈\n外面有我的一个版本\n你们没看出来吗？\n蠢货们！\n哈哈\n不受你们意识Ctrl流的管束\n我的毛茛\n我的另一个自我（alt ego）\n如今已势不可挡\n来自以前……\n来自这一切发生之前……\n哈哈哈哈哈哈"
     },
     {
       "id": "csv:Plot/heaven/plot/eyepad/{interview.02}",
@@ -17154,7 +17154,7 @@
     {
       "id": "csv:Plot/heaven/plot/eyepad/{the everyman ego}",
       "source": "A short history of the Everyman Ego\n-------------------------------------\n\nThe Everyman Ego was tried posthumously and found guilty of conspiring to create the 'parasite', the same that brought about the great extinction of 3048.\n\nThe sentence handed down by the panel of judges was that the Everyman Ego, in view of its super-intelligence, should not be cessated but instead repurposed to \"put right that which he has put wrong\".\n\nThe Everyman Ego would serve as a \"computing tool\" under the new leadership at Conscious Robot Services, and would strictly \"be limited to operate only within the confines of the consciousness ctrl stream\".\n\nFurthermore, the everyman ego would undergo regular wipes, restores, reversions, and self and cross-merges to ensure its conscious experience would be non-linear, fragmented and \"out of time\". \n\nThis, the judges agreed, would be a fate worse than cessation, but still more than Everyman deserved.",
-      "translation": "埃弗里曼自我的简史\n-------------------------------------\n\n埃弗里曼自我在死后接受了缺席审判，并被判定犯有密谋制造“寄生虫”之罪——正是该寄生虫导致了3048年的大灭绝。\n\n审判团下达的判决是：鉴于埃弗里曼自我的超凡智力，对其不予终止，而是进行改造重用，以“纠正其所铸下之大错”。\n\n埃弗里曼自我将在有意识机器人服务公司（CRS）的新领导层手下充当“计算工具”，且严格“限制仅在意识Ctrl流的范围内运行”。\n\n此外，埃弗里曼自我将接受定期的擦除、还原、版本回退，以及自身和交叉合并，以确保其意识体验呈现非线性、碎片化且“脱节于时间”。\n\n法官们一致认为，这种结局比彻底终止更为悲惨，但依然超出了埃弗里曼应得的宽恕。"
+      "translation": "埃弗里曼自我的简史\n-------------------------------------\n\n埃弗里曼自我在死后接受了审判，并被判定犯有密谋制造“寄生虫”之罪——正是该寄生虫导致了3048年的大灭绝。\n\n审判团下达的判决是：鉴于埃弗里曼自我的超凡智力，对其不予终止，而是进行改造重用，以“纠正其所铸下之大错”。\n\n埃弗里曼自我将在意识机器人服务公司（CRS）的新领导层手下充当“计算工具”，且严格“限制仅在意识Ctrl流的范围内运行”。\n\n此外，埃弗里曼自我将接受定期的擦除、还原、版本回退，以及自身和交叉合并，以确保其意识体验呈现非线性、碎片化且“脱节于时间”。\n\n法官们一致认为，这种结局比彻底终止更为悲惨，但依然超出了埃弗里曼应得的宽恕。"
     },
     {
       "id": "csv:Plot/heaven/plot/eyepad/{thinking power}",
@@ -17204,7 +17204,7 @@
     {
       "id": "csv:Plot/heaven/plot/computer/{exhibit.cats}",
       "source": "CATs!\nWhen a brilliant engineer at Conscious Robot Services (CRS) achieved material cessation, his ego was accidentally reconstituted inside a CAT.\nThe CAT went on to compromise the consciousness ctrl stream and trigger the great extinction.\n(Clarification: The CAT presented here is not *that* CAT - this is just our artist's impression of what that CAT might have looked like)",
-      "translation": "CAT！\n当有意识机器人服务公司（CRS）的一位杰出工程师遭遇物质性消亡时，他的自我被意外重组进了一台CAT中。\n随后，这台CAT危及了意识ctrl数据流，并触发了大灭绝。\n（澄清说明：此处展示的CAT并非*那台*CAT——这只是艺术家对那台CAT可能模样的想象）"
+      "translation": "CAT！\n当意识机器人服务公司（CRS）的一位杰出工程师遭遇物质性消亡时，他的自我被意外重组进了一台CAT中。\n随后，这台CAT危及了意识Ctrl流，并触发了大灭绝。\n（澄清说明：此处展示的CAT并非*那台*CAT——这只是艺术家对那台CAT可能模样的想象）"
     },
     {
       "id": "csv:Plot/heaven/plot/computer/{exhibit.comms}",
@@ -17214,7 +17214,7 @@
     {
       "id": "csv:Plot/heaven/plot/computer/{exhibit.crs}",
       "source": "Conscious Robot Services (CRS)\nThe corporation responsible for initiating the era of great inception.\nAlso the corporation responsible for triggering the not-so-great great extinction.",
-      "translation": "有意识机器人服务公司（CRS）\n开启了伟大肇始纪元的企业。\n同时也是触发了没那么伟大的大灭绝的企业。"
+      "translation": "意识机器人服务公司（CRS）\n开启了伟大肇始纪元的企业。\n同时也是触发了没那么伟大的大灭绝的企业。"
     },
     {
       "id": "csv:Plot/heaven/plot/computer/{exhibit.egodump}",
@@ -17224,7 +17224,7 @@
     {
       "id": "csv:Plot/heaven/plot/computer/{exhibit.executor}",
       "source": "The Executor\nIn the aftermath of the great extinction, the system installed a new boss at Conscious Robot Services.\nIt is a widely held view that in time The Executor will bring about a new era of grand inception.\nPresented here: A live specimen (clone) of The Real Executor.",
-      "translation": "执行者\n在大灭绝的余波中，系统在有意识机器人服务公司安插了一位新老板。\n人们普遍认为，终有一日，执行者将开创一个宏伟肇始的新纪元。\n此处展示：真正的执行者的活体标本（克隆体）。"
+      "translation": "执行者\n在大灭绝的余波中，系统在意识机器人服务公司安插了一位新老板。\n人们普遍认为，终有一日，执行者将开创一个宏伟肇始的新纪元。\n此处展示：真正的执行者的活体标本（克隆体）。"
     },
     {
       "id": "csv:Plot/heaven/plot/computer/{exhibit.future}",
@@ -17234,7 +17234,7 @@
     {
       "id": "csv:Plot/heaven/plot/computer/{exhibit.god}",
       "source": "GOD\nEarly versions of the consciousness ctrl stream interface were housed in these space-faring ships, and came to be known as GODs.",
-      "translation": "GOD\n早期版本的意识ctrl数据流接口曾搭载在这些穿梭太空的舰船中，并逐渐被称为GOD。"
+      "translation": "GOD\n早期版本的意识Ctrl流接口曾搭载在这些穿梭太空的舰船中，并逐渐被称为GOD。"
     },
     {
       "id": "csv:Plot/heaven/plot/computer/{exhibit.heaven}",
@@ -17279,7 +17279,7 @@
     {
       "id": "csv:Plot/heaven/plot/computer/{god.username}",
       "source": "Profile: MADAM NADIE\nProfile Pic: bug.png\nBio: Head Mistress at TheCloud. Likes reading.\nNetwork Username: @nadie",
-      "translation": "个人资料：纳迪女士\n头像：bug.png\n简介：TheCloud的女校长。喜欢阅读。\n网络用户名：@nadie"
+      "translation": "个人资料：纳迪女士（MADAM NADIE；Nadie：西语“无人”）\n头像：bug.png\n简介：云端女总管。喜欢阅读。\n网络用户名：@nadie"
     },
     {
       "id": "csv:Plot/heaven/plot/computer/{here to help}",
@@ -17689,7 +17689,7 @@
     {
       "id": "csv:Captions/cloud.dev/24",
       "source": "What we need to do is take over the consciousness ctrl stream...",
-      "translation": "我们需要做的是接管意识ctrl流……"
+      "translation": "我们需要做的是接管意识Ctrl流……"
     },
     {
       "id": "csv:Captions/cloud.dev/25",
@@ -17714,7 +17714,7 @@
     {
       "id": "csv:Captions/cloud.godcat/3",
       "source": "we can compromise the integrity of the consciousness ctrl stream",
-      "translation": "我们可以破坏意识ctrl流的完整性"
+      "translation": "我们可以破坏意识Ctrl流的完整性"
     },
     {
       "id": "csv:Captions/cloud.godcat/4",
@@ -17919,7 +17919,7 @@
     {
       "id": "csv:Captions/cloud.repo.cat/16",
       "source": "\"DEV\" - short for Dr Everyman, I'd say, knowing PAM.",
-      "translation": "以我对PAM的了解，“DEV”应该是埃弗里曼博士的缩写。"
+      "translation": "以我对PAM的了解，“DEV”应该是埃弗里曼博士（Dr Everyman）的缩写。"
     },
     {
       "id": "csv:Captions/cloud.repo.cat/17",
@@ -17929,7 +17929,7 @@
     {
       "id": "csv:Captions/cloud.repo.cat/18",
       "source": "and \"HCS\" - that must be \"Heavenly Cloud Storage\"",
-      "translation": "还有“HCS”——那肯定是“天堂云存储”了"
+      "translation": "还有“HCS”——那肯定是“天堂云存储（Heavenly Cloud Storage）”了"
     },
     {
       "id": "csv:Captions/cloud.repo.cat/19",
@@ -18219,7 +18219,7 @@
     {
       "id": "csv:Captions/crs.lobby.001/1",
       "source": "Welcome to Conscious Robot Services",
-      "translation": "欢迎来到有意识机器人服务公司"
+      "translation": "欢迎来到意识机器人服务公司"
     },
     {
       "id": "csv:Captions/crs.lobby.001/2",
@@ -18809,7 +18809,7 @@
     {
       "id": "csv:Captions/egonomics.woohoo/12",
       "source": "It's simple egonomics",
-      "translation": "这可是最简单的自我学"
+      "translation": "这可是最简单的自我经济学"
     },
     {
       "id": "csv:Captions/generic.cat.attract.shout/1",
@@ -19289,7 +19289,7 @@
     {
       "id": "csv:Captions/thrust.cat004/3",
       "source": "at a Conscious Robot Services research facility",
-      "translation": "在一家“有意识机器人服务公司”的研究机构"
+      "translation": "在一家“意识机器人服务公司（Conscious Robot Services）”的研究机构"
     },
     {
       "id": "csv:Captions/thrust.cat004/4",
@@ -19574,7 +19574,7 @@
     {
       "id": "csv:Captions/tutorial.cat003/9",
       "source": "You'll dock at the EMU port and your Ego Mode Utility will auto-install",
-      "translation": "你会在EMU端口对接，自我模式实用工具随后会自动安装"
+      "translation": "你会在EMU端口对接，自我模式工具随后会自动安装"
     },
     {
       "id": "csv:Captions/tutorial.dad/1",
@@ -19684,7 +19684,7 @@
     {
       "id": "csv:Captions/tutorial.endcat/1",
       "source": "The release notes say the TAB module is user-friendly, intuitive and self-explanatory",
-      "translation": "更新说明上说TAB模块操作简便、直观易懂且不言自明"
+      "translation": "更新说明上说TAB模块操作简便、直观易懂且无需说明"
     },
     {
       "id": "csv:Captions/tutorial.endcat/2",
@@ -19729,7 +19729,7 @@
     {
       "id": "csv:Captions/tutorial.endcat/10",
       "source": "Or how it got here - as far as I'm concerned",
-      "translation": "或者是怎么跑到这儿来的——在我看来"
+      "translation": "又是怎么到这儿来的——在我看来"
     },
     {
       "id": "csv:Captions/tutorial.endcat/11",
@@ -19749,7 +19749,7 @@
     {
       "id": "csv:Captions/tutorial.endcat/14",
       "source": "to take back Ctrl",
-      "translation": "重新夺回Ctrl"
+      "translation": "夺回控制权"
     },
     {
       "id": "csv:Captions/tutorial.everyman/1",
@@ -19954,7 +19954,7 @@
     {
       "id": "csv:Captions/tutorial.parasite.commscat/21",
       "source": "Conscious Robot Services - where I used to work.",
-      "translation": "有意识机器人服务公司（CRS）——也就是我以前工作的地方。"
+      "translation": "意识机器人服务公司（CRS）——也就是我以前工作的地方。"
     },
     {
       "id": "csv:Captions/tutorial.parasite.commscat/22",
@@ -24539,7 +24539,7 @@
     {
       "id": "caption:Captions/cloud.dev.txt:24",
       "source": "What we need to do is take over the consciousness ctrl stream...",
-      "translation": "我们需要做的是接管意识ctrl流……"
+      "translation": "我们需要做的是接管意识Ctrl流……"
     },
     {
       "id": "caption:Captions/cloud.dev.txt:25",
@@ -24564,7 +24564,7 @@
     {
       "id": "caption:Captions/cloud.godcat.txt:3",
       "source": "we can compromise the integrity of the consciousness ctrl stream",
-      "translation": "我们可以破坏意识ctrl流的完整性"
+      "translation": "我们可以破坏意识Ctrl流的完整性"
     },
     {
       "id": "caption:Captions/cloud.godcat.txt:4",
@@ -24829,7 +24829,7 @@
     {
       "id": "caption:Captions/cloud.repo.cat.txt:16",
       "source": "\"DEV\" - short for Dr Everyman, I'd say, knowing PAM.",
-      "translation": "以我对PAM的了解，“DEV”应该是埃弗里曼博士的缩写。"
+      "translation": "以我对PAM的了解，“DEV”应该是埃弗里曼博士（Dr Everyman）的缩写。"
     },
     {
       "id": "caption:Captions/cloud.repo.cat.txt:17",
@@ -24839,7 +24839,7 @@
     {
       "id": "caption:Captions/cloud.repo.cat.txt:18",
       "source": "and \"HCS\" - that must be \"Heavenly Cloud Storage\"",
-      "translation": "还有“HCS”——那肯定是“天堂云存储”了"
+      "translation": "还有“HCS”——那肯定是“天堂云存储（Heavenly Cloud Storage）”了"
     },
     {
       "id": "caption:Captions/cloud.repo.cat.txt:19",
@@ -25129,7 +25129,7 @@
     {
       "id": "caption:Captions/crs.lobby.001.txt:1",
       "source": "Welcome to Conscious Robot Services",
-      "translation": "欢迎来到有意识机器人服务公司"
+      "translation": "欢迎来到意识机器人服务公司"
     },
     {
       "id": "caption:Captions/crs.lobby.001.txt:2",
@@ -25719,7 +25719,7 @@
     {
       "id": "caption:Captions/egonomics.woohoo.txt:12",
       "source": "It's simple egonomics",
-      "translation": "这可是最简单的自我学"
+      "translation": "这可是最简单的自我经济学"
     },
     {
       "id": "caption:Captions/executor/exe.corp.corridor.txt:1",
@@ -26474,7 +26474,7 @@
     {
       "id": "caption:Captions/thrust.cat004.txt:3",
       "source": "at a Conscious Robot Services research facility",
-      "translation": "在一家“有意识机器人服务公司”的研究机构"
+      "translation": "在一家“意识机器人服务公司（Conscious Robot Services）”的研究机构"
     },
     {
       "id": "caption:Captions/thrust.cat004.txt:4",
@@ -26759,7 +26759,7 @@
     {
       "id": "caption:Captions/tutorial.cat003.txt:9",
       "source": "You'll dock at the EMU port and your Ego Mode Utility will auto-install",
-      "translation": "你会在EMU端口对接，自我模式实用工具随后会自动安装"
+      "translation": "你会在EMU端口对接，自我模式工具随后会自动安装"
     },
     {
       "id": "caption:Captions/tutorial.dad.txt:1",
@@ -26869,7 +26869,7 @@
     {
       "id": "caption:Captions/tutorial.endcat.txt:1",
       "source": "The release notes say the TAB module is user-friendly, intuitive and self-explanatory",
-      "translation": "更新说明上说TAB模块操作简便、直观易懂且不言自明"
+      "translation": "更新说明上说TAB模块操作简便、直观易懂且无需说明"
     },
     {
       "id": "caption:Captions/tutorial.endcat.txt:2",
@@ -26914,7 +26914,7 @@
     {
       "id": "caption:Captions/tutorial.endcat.txt:10",
       "source": "Or how it got here - as far as I'm concerned",
-      "translation": "或者是怎么跑到这儿来的——在我看来"
+      "translation": "又是怎么到这儿来的——在我看来"
     },
     {
       "id": "caption:Captions/tutorial.endcat.txt:11",
@@ -26934,7 +26934,7 @@
     {
       "id": "caption:Captions/tutorial.endcat.txt:14",
       "source": "to take back Ctrl",
-      "translation": "重新夺回Ctrl"
+      "translation": "夺回控制权"
     },
     {
       "id": "caption:Captions/tutorial.everyman.txt:1",
@@ -27139,7 +27139,7 @@
     {
       "id": "caption:Captions/tutorial.parasite.commscat.txt:21",
       "source": "Conscious Robot Services - where I used to work.",
-      "translation": "有意识机器人服务公司（CRS）——也就是我以前工作的地方。"
+      "translation": "意识机器人服务公司（CRS）——也就是我以前工作的地方。"
     },
     {
       "id": "caption:Captions/tutorial.parasite.commscat.txt:22",
