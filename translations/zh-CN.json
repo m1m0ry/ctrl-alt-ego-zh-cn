@@ -8189,7 +8189,7 @@
     {
       "id": "csv:Missions/MissionDescription/Tutorial",
       "source": "An identical but standalone version of the prologue from the main campaign, so if you've already played that there's nothing new to see here.",
-      "translation": "主线战役序章的完全独立版本，所以如果你已经玩过序章，这里就没什么新鲜内容了。"
+      "translation": "主线战役序章的独立版本（内容完全相同），所以如果你已经玩过序章，这里就没什么新鲜内容了。"
     },
     {
       "id": "csv:Missions/MissionDescription/Thrust",
@@ -8859,7 +8859,7 @@
     {
       "id": "csv:Signs/LOCKDOWN/ParasiteLoose",
       "source": "LOCKDOWN\n<size=60>PARASITE LOOSE</size>",
-      "translation": "封锁中\n<size=60>寄生体逃脱</size>"
+      "translation": "封锁中\n<size=60>寄生虫逃脱</size>"
     },
     {
       "id": "csv:Signs/EGOMETRICS",
@@ -9424,12 +9424,12 @@
     {
       "id": "csv:Signs/Graffiti/ILoveFrank",
       "source": "I ❤ Frank",
-      "translation": "我 ❤ Frank"
+      "translation": "我 ❤ 弗兰克"
     },
     {
       "id": "csv:Signs/Graffiti/ILoveFrank/2",
       "source": "Frank is a hunk",
-      "translation": "Frank 是个大帅哥"
+      "translation": "弗兰克是个大帅哥"
     },
     {
       "id": "csv:Signs/Graffiti/Sadia/Date",
@@ -10114,7 +10114,7 @@
     {
       "id": "csv:Signs/SmallComputer/NothingIsInformation",
       "source": "Nothing is zero information, but nonetheless, is information",
-      "translation": "虚无是零信息，但归根结底，它仍是信息"
+      "translation": "虚无是零信息，但即便如此，它仍是信息"
     },
     {
       "id": "csv:Signs/SmallComputer/YouAreInsideConsciousness",
@@ -10924,7 +10924,7 @@
     {
       "id": "csv:Metas/serializer",
       "source": "Serialization\nEthermatics is the branch of physics that \ndescribes material -> data and data -> material\ntransformations.\n\nBy taking ctrl of a <color=cyan><i>Serializer</i></color>\nyou can serialize and deserialize (\"print\") \nlocal ethermatic objects.\n\nTo facilitate identification, an energy readout\nis displayed when looking at ethermatic objects.",
-      "translation": "序列化\n以太学是描述“物质 -> 数据”以及“数据 -> 物质”\n转化的物理学分支。\n\n通过 ctrl 一台<color=cyan><i>序列化机</i></color>，\n你可以对本地以太物品进行序列化\n和反序列化（“打印”）。\n\n为方便识别，注视以太学物品时\n会显示其能量读数。"
+      "translation": "序列化\n以太学是描述“物质 -> 数据”以及“数据 -> 物质”\n转化的物理学分支。\n\n通过 ctrl 一台<color=cyan><i>序列化机</i></color>，\n你可以对本地以太物品进行序列化\n和反序列化（“打印”）。\n\n为方便识别，注视以太物品时\n会显示其能量读数。"
     },
     {
       "id": "csv:Metas/stats",
@@ -11114,7 +11114,7 @@
     {
       "id": "csv:Insights/parasite.safe.hosts",
       "source": "Safety\nThe parasite can't see me\nat safe hosts.",
-      "translation": "安全\n寄生体看不到处于\n安全宿主内的我。"
+      "translation": "安全\n寄生虫看不到处于\n安全宿主内的我。"
     },
     {
       "id": "csv:Insights/thrust.disk",
@@ -11169,7 +11169,7 @@
     {
       "id": "csv:Insights/workshop.parasite.modules",
       "source": "Parasite Modules\nThe parasite is running GOD modules \nto boost its defences.",
-      "translation": "寄生体模块\n寄生体正在运行GOD模块\n以增强其防御。"
+      "translation": "寄生虫模块\n寄生虫正在运行GOD模块\n以增强其防御。"
     },
     {
       "id": "csv:Insights/episode2/bugx.key.hint",
@@ -12269,12 +12269,12 @@
     {
       "id": "csv:Upgrades/Drill/About/Branch/Drill",
       "source": "A well-wormed <color=white><i>Drill</i></color> breaks things apart faster.\nFairly thirsty juice consumption.",
-      "translation": "充分注入蠕虫的<color=white><i>钻头</i></color>能更快地把东西拆解。\n动力液消耗相当大。"
+      "translation": "充分植入蠕虫的<color=white><i>钻头</i></color>能更快地把东西拆解。\n动力液消耗相当大。"
     },
     {
       "id": "csv:Upgrades/Drill/About/Branch/Extension",
       "source": "Worm <color=white><i>Extension</i></color> to drill from farther away.",
-      "translation": "用蠕虫升级<color=white><i>延长</i></color>，从更远的地方进行钻探。"
+      "translation": "植入蠕虫升级<color=white><i>延长</i></color>，从更远的地方进行钻探。"
     },
     {
       "id": "csv:Upgrades/Drill/Branch/Drill/Message",
@@ -12879,7 +12879,7 @@
     {
       "id": "csv:Upgrades/Glitch/About/Description",
       "source": "Emulates the projection of\nan implosive software glitch,\nripping a veritable hole in\nthe fabric of the simulation,\nand causing not insignificant\nenergy loss to ethermatic\nobjects caught by the blast.\n\nIt's a grenade.",
-      "translation": "模拟投射出一个内爆式\n软件故障，在模拟机制的\n结构上硬生生撕开一个窟窿，\n并对爆炸波及的以太物质\n物体造成相当可观的能量损失。\n\n其实就是颗手雷。"
+      "translation": "模拟投射出一个内爆式\n软件故障，在模拟机制的\n结构上硬生生撕开一个窟窿，\n并对爆炸波及的以太物品\n造成相当可观的能量损失。\n\n其实就是颗手雷。"
     },
     {
       "id": "csv:Upgrades/Glitch/About/Branch/Name/Density",
@@ -13264,12 +13264,12 @@
     {
       "id": "csv:Upgrades/Shift/About/Branch/HeavyMetal",
       "source": "Worm <color=white><i>HeavyMetal</i></color> to enable shifting of\nlarger, very heavy objects.",
-      "translation": "用蠕虫升级<color=white><i>重金属</i></color>，\n即可移位更大、极沉重的物体。"
+      "translation": "植入蠕虫升级<color=white><i>重金属</i></color>，\n即可移位更大、极沉重的物体。"
     },
     {
       "id": "csv:Upgrades/Shift/About/Branch/Strength",
       "source": "Worm <color=white><i>Strength</i></color> for a more powerful shift\nwith a longer reach.",
-      "translation": "用蠕虫升级<color=white><i>强度</i></color>，\n获得更强力、距离更远的移位。"
+      "translation": "植入蠕虫升级<color=white><i>强度</i></color>，\n获得更强力、距离更远的移位。"
     },
     {
       "id": "csv:Upgrades/Shift/About/Branch/Shock",
@@ -13299,7 +13299,7 @@
     {
       "id": "csv:Upgrades/Shift/Branch/Strength/Message",
       "source": "Shift Strength upgraded",
-      "translation": "移位强度已升级"
+      "translation": "移物强度已升级"
     },
     {
       "id": "csv:Upgrades/Shift/Branch/Strength/Slot/Desc",
@@ -13329,7 +13329,7 @@
     {
       "id": "csv:Upgrades/Shift/Branch/Shock/Message",
       "source": "Shift Shock upgraded",
-      "translation": "移位电击已升级"
+      "translation": "移物电击已升级"
     },
     {
       "id": "csv:Upgrades/Shift/Branch/Shock/Slot/1/Name",
@@ -13344,7 +13344,7 @@
     {
       "id": "csv:Upgrades/Shift/Branch/Shock/Slot/1/Message",
       "source": "Shift Shock now available",
-      "translation": "移位电击现已可用"
+      "translation": "移物电击现已可用"
     },
     {
       "id": "csv:Upgrades/Shift/Branch/Shock/Slot/2/Name",
@@ -13379,7 +13379,7 @@
     {
       "id": "csv:Upgrades/Shift/Branch/Vortex/Message",
       "source": "Shift Vortex now available",
-      "translation": "移位涡流现已可用"
+      "translation": "移物涡流现已可用"
     },
     {
       "id": "csv:Upgrades/Shift/Branch/Vortex/Slot/1/Name",
@@ -13679,22 +13679,22 @@
     {
       "id": "csv:Upgrades/VaQ/About/Branch/VaQ",
       "source": "Worm the <color=white><i>VaQ</i></color> to enable continuous suction mode",
-      "translation": "对<color=white><i>VaQ</i></color>使用蠕虫以启用持续吸力模式"
+      "translation": "为<color=white><i>VaQ</i></color>植入蠕虫升级以启用持续吸力模式"
     },
     {
       "id": "csv:Upgrades/VaQ/About/Branch/Extract",
       "source": "Worm <color=white><i>Extract</i></color> to convert more energy\nfrom every broken bit sucked up",
-      "translation": "对<color=white><i>萃取</i></color>使用蠕虫，从吸入的\n每块破损碎片中转化出更多能量"
+      "translation": "为<color=white><i>萃取</i></color>植入蠕虫升级，从吸入的\n每块破损碎片中转化出更多能量"
     },
     {
       "id": "csv:Upgrades/VaQ/About/Branch/Juicer",
       "source": "Worm <color=white><i>Juicer</i></color> to squeeze more juice\nfrom every broken bit sucked up",
-      "translation": "对<color=white><i>榨汁器</i></color>使用蠕虫，从吸入的\n每块破损碎片中榨出更多动力液"
+      "translation": "为<color=white><i>榨汁器</i></color>植入蠕虫升级，从吸入的\n每块破损碎片中榨出更多动力液"
     },
     {
       "id": "csv:Upgrades/VaQ/About/Branch/Fragmenter",
       "source": "Worm <color=white><i>Fragmenter</i></color> to spill more ego fragments\nwhen breaking hostiles",
-      "translation": "对<color=white><i>碎解器</i></color>使用蠕虫，在击碎\n敌对目标时掉落更多自我碎片"
+      "translation": "为<color=white><i>碎解器</i></color>植入蠕虫升级，在击碎\n敌对目标时掉落更多自我碎片"
     },
     {
       "id": "csv:Upgrades/VaQ/Branch/VaQ/Message",
@@ -14164,7 +14164,7 @@
     {
       "id": "csv:PlotSummary/merger.arrival",
       "source": "I've made it through to The Merging Station,\nwhich I'm hoping leads back to the\nBug Free Zone.",
-      "translation": "我成功穿行到了合并站，\n希望这里能通往\n无BUG区。"
+      "translation": "我成功穿行到了合并站，\n希望这里能通回\n无BUG区。"
     },
     {
       "id": "csv:PlotSummary/merger",
@@ -14454,7 +14454,7 @@
     {
       "id": "csv:Plot/tutorial/plot/cat/{tutorial.endcat}",
       "source": "TAB - Task Activity Broker\ni'll post important info to your TAB\n\nthe parasite\nis taking ctrl of everything\n\nwe need to ctrl *it*\n\nuse ego mode to exit GOD",
-      "translation": "TAB - 任务活动代理 (Task Activity Broker)\n我会把重要信息发到你的 TAB 上\n\n寄生体\n正在 ctrl 一切\n\n我们需要 ctrl *它*\n\n使用自我模式退出 GOD"
+      "translation": "TAB - 任务活动代理 (Task Activity Broker)\n我会把重要信息发到你的 TAB 上\n\n寄生虫\n正在 ctrl 一切\n\n我们需要 ctrl *它*\n\n使用自我模式退出 GOD"
     },
     {
       "id": "csv:Plot/tutorial/plot/cat/{tutorial.everyman}",
@@ -14474,12 +14474,12 @@
     {
       "id": "csv:Plot/tutorial/plot/cat/{tutorial.parasite.arrival}",
       "source": "the parasite awaits you\nagain\n\nhere's hoping we finally built a version\nwhere you win\n\ncheck stash first?",
-      "translation": "寄生体在等着你\n又一次\n\n但愿我们这次终于造出了\n能让你赢的版本\n\n先检查一下储藏点？"
+      "translation": "寄生虫在等着你\n又一次\n\n但愿我们这次终于造出了\n能让你赢的版本\n\n先检查一下储藏点？"
     },
     {
       "id": "csv:Plot/tutorial/plot/cat/{tutorial.parasite.commscat}",
       "source": "☑ well done\n\n<color=red>PERMISSION DENIED</color>\n<color=red>CONTENT REDACTED</color>\n<color=red>ILLEGAL BROADCAST</color>\n<color=red>DISCONNECT IMMEDIATELY</color>\n<color=red>ACCESSORIES AND ACCOMPLICES</color>\n<color=red>SHALL BE PUNISHED</color>\n<color=red>SEVERELY</color>\n\nthey think i made the parasite\nbut i'm innocent\ncompletely innocent\n\nConscious Robot Services\nC R S\n\nfind the ego-net gateway\nget to the CRS research facility",
-      "translation": "☑ 干得漂亮\n\n<color=red>权限不足</color>\n<color=red>内容已涂黑遮蔽</color>\n<color=red>非法广播</color>\n<color=red>请立即断开连接</color>\n<color=red>同谋与协从人员</color>\n<color=red>将受到严厉惩罚</color>\n<color=red>绝不姑息</color>\n\n他们以为是我造出了寄生体\n但我很无辜\n彻彻底底无辜\n\n意识机器人服务公司\nC R S\n\n找到自我网络网关\n前往 CRS 研究设施"
+      "translation": "☑ 干得漂亮\n\n<color=red>权限不足</color>\n<color=red>内容已涂黑遮蔽</color>\n<color=red>非法广播</color>\n<color=red>请立即断开连接</color>\n<color=red>同谋与协从人员</color>\n<color=red>将受到严厉惩罚</color>\n<color=red>绝不姑息</color>\n\n他们以为是我造出了寄生虫\n但我很无辜\n彻彻底底无辜\n\n意识机器人服务公司\nC R S\n\n找到自我网络网关\n前往 CRS 研究设施"
     },
     {
       "id": "csv:Plot/tutorial/plot/cat/{tutorial.theplan}",
@@ -14499,17 +14499,17 @@
     {
       "id": "csv:Plot/tutorial/plot/eyepad/{hotto survive parasite}",
       "source": "Hello me (note #2 of 2)\n\nI'm adding these extra notes because apparently the last time I got here I still didn't get what to do:\n\nREM: The parasite can't detect me in <color=green><i>Safe</i></color> hosts\n\nREM: When the parasite detects me, it sucks my ego. If that happens, it's maybe a good idea to HOP away sharpish like\n\nREM: Dave thinks the parasite's aggression can be tempered by infesting the aggro module - might be useful",
-      "translation": "你好我自己（便签 2/2）\n\n我补加了这些说明，因为显然上次我到这里时，还是不知道该干嘛：\n\n备忘：处于<color=green><i>安全</i></color>宿主体内时，寄生体无法察觉我\n\n备忘：当寄生体察觉到我时，会吸食我的自我。要是发生了这种情况，最好麻溜地跃迁逃开\n\n备忘：戴夫 觉得寄生体的攻击性可以通过侵染仇恨模块来缓解——也许会有用"
+      "translation": "你好我自己（便签 2/2）\n\n我补加了这些说明，因为显然上次我到这里时，还是不知道该干嘛：\n\n备忘：处于<color=green><i>安全</i></color>宿主体内时，寄生虫无法察觉我\n\n备忘：当寄生虫察觉到我时，会吸食我的自我。要是发生了这种情况，最好麻溜地跃迁逃开\n\n备忘：戴夫 觉得寄生虫的攻击性可以通过侵染仇恨模块来缓解——也许会有用"
     },
     {
       "id": "csv:Plot/tutorial/plot/eyepad/{howto defeat parasite}",
       "source": "Hello me (note #1 of 2)\n\nDave will no doubt remind me I've been here already, but I'll probably put it down to his quirky communication style and not read too much into that.\n\nAnyway, we've figured out from previous runs that we can weaken the parasite by getting inside GOD and infesting one or more of the GOD modules with maggots.\n\nI likely won't have enough maggots to infest all the modules, but that's fine - I can pick two or three and exploit those features.\n\nI suppose if necessary I could always go back to the Freight Workshop for more maggots.",
-      "translation": "你好我自己（便签 1/2）\n\n毫无疑问戴夫会提醒我已经来过这里了，但我大概只会把它当成他古怪的交流风格，不会深究。\n\n总之，我们从之前的尝试中摸索出，只要进入 GOD 内部，用蛆虫侵染一个或多个 GOD 模块，就能削弱寄生体。\n\n我的蛆虫大概不够侵染所有模块，不过无所谓——挑个两三个，利用好那些机制就行。\n\n我想如有必要，我随时可以回货运车间抓更多蛆虫。"
+      "translation": "你好我自己（便签 1/2）\n\n毫无疑问戴夫会提醒我已经来过这里了，但我大概只会把它当成他古怪的交流风格，不会深究。\n\n总之，我们从之前的尝试中摸索出，只要进入 GOD 内部，用蛆虫侵染一个或多个 GOD 模块，就能削弱寄生虫。\n\n我的蛆虫大概不够侵染所有模块，不过无所谓——挑个两三个，利用好那些机制就行。\n\n我想如有必要，我随时可以回货运车间抓更多蛆虫。"
     },
     {
       "id": "csv:Plot/tutorial/plot/computer/{it is me}",
       "source": "Hello, it's me (you)\nfrom an earlier version.\nYou (I) left this \nto remind me (you)\nhow to defeat the parasite.\nBut then you (I) discovered\nthere wasn't enough space\non this screen,\nso I (you) decided to\nleave a couple of eye-pads \ninstead.",
-      "translation": "你好，是我（你）\n来自之前的版本。\n你（我）留下了这个，\n是为了提醒我（你）\n该如何击败寄生体。\n但后来你（我）发现\n屏幕上的空间\n不够写了，\n所以我（你）决定\n留下两台 EyePad 平板\n来代替。"
+      "translation": "你好，是我（你）\n来自之前的版本。\n你（我）留下了这个，\n是为了提醒我（你）\n该如何击败寄生虫。\n但后来你（我）发现\n屏幕上的空间\n不够写了，\n所以我（你）决定\n留下两台 EyePad 平板\n来代替。"
     },
     {
       "id": "csv:Plot/tutorial/plot/tasks/Tasks/Task/GetEMU",
@@ -14974,7 +14974,7 @@
     {
       "id": "csv:Plot/thrust/plot/eyepad/{safety.glass}",
       "source": "Header: MEMO TO ALL CONTRACTORS\n\nSubject: DADS ARE DANGEROUS\n\nDADs are grumpy.\n\nDADs are dangerous.\n\nIf your duties require you to approach DAD, please take the following advice into account:\n\n1. Consider ctrl-ing DAD from a safe position first e.g. from behind glass\n\n2. Should you prefer a more egonomical approach, bear in mind that so long as DAD doesn't see or hear you, he won't even know you're there.\n\nBest possible regardance,\nFrom the Conscious Robot Services Contractor Support Team.",
-      "translation": "抬头：致全体承包商的备忘录\n\n主题：DAD很危险\n\nDAD脾气暴躁。\n\nDAD非常危险。\n\n如果您的职责要求您接近DAD，请注意以下建议：\n\n1. 先考虑从安全位置Ctrl DAD，例如从玻璃后面\n\n2. 若您更倾向于采用更节省自我的方式，请记住：只要DAD看不到你也听不到你，他甚至压根不知道你在那里。\n\n致以最崇高的敬意，\n意识机器人服务公司承包商支持团队。"
+      "translation": "抬头：致全体承包商的备忘录\n\n主题：DAD很危险\n\nDAD脾气暴躁。\n\nDAD非常危险。\n\n如果您的职责要求您接近DAD，请注意以下建议：\n\n1. 先考虑从安全位置Ctrl DAD，例如从玻璃后面\n\n2. 若您更倾向于采用更节省自我的方式，请记住：只要DAD看不到您也听不到您，他甚至压根不知道您在那里。\n\n致以最崇高的敬意，\n意识机器人服务公司承包商支持团队。"
     },
     {
       "id": "csv:Plot/thrust/plot/eyepad/{unfailable}",
@@ -15534,7 +15534,7 @@
     {
       "id": "csv:Plot/dad/plot/eyepad/{grenade pup corralled}",
       "source": "\nTo whom it may concern\n\nPup Chuck has been corralled pending full expungification.\n\nReason: His disk has been deemed too grave a risk to the proper order of things.\n\nHave a nice day.",
-      "translation": "\n致相关人士\n\nPUP Chuck已被围栏扣留，等待彻底清除。\n\n原因：他的磁盘被认定对正常秩序构成了过于严重的风险。\n\n祝你有美好的一天。"
+      "translation": "\n致相关人士\n\nPUP 查克已被围栏扣留，等待彻底清除。\n\n原因：他的磁盘被认定对正常秩序构成了过于严重的风险。\n\n祝你有美好的一天。"
     },
     {
       "id": "csv:Plot/dad/plot/eyepad/{howto shift}",
@@ -15559,7 +15559,7 @@
     {
       "id": "csv:Plot/dad/plot/eyepad/{what happened to frank}",
       "source": "\nI was given a choice: die and be zero, or die and be DAD.\n\nHope I've made the right choice.\n\nI wonder if Chris ever made it out of Legacy Systems?\n\nIf only he had got back here with the files, things might have ended very differently.\n\nOh well, at least they made me invulnerable.\n\nIf I'm to be DAD, I suppose I should at least try to enjoy it and try to bag me some bugs.\n\nFrank.\n",
-      "translation": "\n摆在我面前的有两个选择：要么死后化为虚无，要么死后成为DAD。\n\n希望我做出了正确的选择。\n\n不知道Chris到底有没有逃出遗留系统？\n\n要是他当时带着文件回到这里，结局可能就完全不同了。\n\n唉，至少他们让我变得坚不可摧了。\n\n既然我注定要成为DAD，我想我至少应该试着乐在其中，顺便抓几只BUG。\n\nFrank。\n"
+      "translation": "\n摆在我面前的有两个选择：要么死后化为虚无，要么死后成为DAD。\n\n希望我做出了正确的选择。\n\n不知道克里斯到底有没有逃出遗留系统？\n\n要是他当时带着文件回到这里，结局可能就完全不同了。\n\n唉，至少他们让我变得坚不可摧了。\n\n既然我注定要成为DAD，我想我至少应该试着乐在其中，顺便抓几只BUG。\n\n弗兰克。\n"
     },
     {
       "id": "csv:Plot/dad/plot/computer/{get.alertz}",
@@ -15699,7 +15699,7 @@
     {
       "id": "csv:Plot/merger/plot/eyepad/{hidey hole}",
       "source": "It's all gone pear shaped and I don't know what to do.\n\nI've been told my mind and all my ego dump backups are now the property of the thing everyone is calling 'the parasite'.\n\nCan that really be true? Is my mind and all its history now owned by something that isn't me? How can that have been allowed to happen?\n\nI don't know whether to stay holed up here and hope this nightmare ends soon, or else go face... well, whatever fate awaits me.\n\nSimon says that most likely my body will be ordered to undergo matter cessation, and that my ego will be redeployed as a MUM - to serve the parasite as one of its enforcement agents.\n\nI'm so scared.\n\nAnd what's happened to Lucia?\n\nIf anyone sees this, please, I beg you, help us. Help us all.\n\nSadia.",
-      "translation": "一切都搞砸了，我不知道该怎么办。\n\n有人告诉我，我的心智和我所有的自我转储备份，现在都成了那个被大家称作“寄生体”的东西的财产。\n\n这真的是真的吗？我的心智以及它所有的经历，现在都归一个不是我的东西所有了？怎么能允许这种事情发生？\n\n我不知道该继续躲在这里寄希望于这场噩梦早点结束，还是出去面对……唉，面对等待着我的无论什么命运。\n\n西蒙说，极大概率我的肉体会接到物质终止指令，而我的自我将被重新部署为MUM——作为执法代理之一去为寄生体效力。\n\n我好害怕。\n\n露西亚又怎么样了？\n\n要是有人看到这个，求求你，救救我们。救救我们大家吧。\n\n萨迪亚。"
+      "translation": "一切都搞砸了，我不知道该怎么办。\n\n有人告诉我，我的心智和我所有的自我转储备份，现在都成了那个被大家称作“寄生虫”的东西的财产。\n\n这真的是真的吗？我的心智以及它所有的经历，现在都归一个不是我的东西所有了？怎么能允许这种事情发生？\n\n我不知道该继续躲在这里寄希望于这场噩梦早点结束，还是出去面对……唉，面对等待着我的无论什么命运。\n\n西蒙说，极大概率我的肉体会接到物质终止指令，而我的自我将被重新部署为MUM——作为执法代理之一去为寄生虫效力。\n\n我好害怕。\n\n露西亚又怎么样了？\n\n要是有人看到这个，求求你，救救我们。救救我们大家吧。\n\n萨迪亚。"
     },
     {
       "id": "csv:Plot/merger/plot/eyepad/{password}",
@@ -16054,7 +16054,7 @@
     {
       "id": "csv:Plot/crs.lobby/plot/cat/{crs.lobby.001}",
       "source": "welcome to conscious robot services\n\nwere CRS involved in the\ndevelopment of the parasite?\n\nmultiple floors\noffice block in space\n\nsuggestion:\nstart at the bottom and work your way up\ne.g. take the lift down to engineering?\n\ni used to work up in the 2nd floor tech lab\nand my notes say\nit is imperative you look there\nbut they don't say why",
-      "translation": "欢迎来到意识机器人服务公司\n\nCRS究竟有没有参与\n寄生体的研发？\n\n多层结构\n太空中的办公大楼\n\n建议：\n从最底下一层开始，逐步往上探索\n比如乘电梯去工程区？\n\n我以前在2楼的科技实验室工作\n我的笔记上写着\n你必须去那里看看\n但没写为什么"
+      "translation": "欢迎来到意识机器人服务公司\n\nCRS究竟有没有参与\n寄生虫的研发？\n\n多层结构\n太空中的办公大楼\n\n建议：\n从最底下一层开始，逐步往上探索\n比如乘电梯去工程区？\n\n我以前在2楼的科技实验室工作\n我的笔记上写着\n你必须去那里看看\n但没写为什么"
     },
     {
       "id": "csv:Plot/crs.lobby/plot/eyepad/{cache}",
@@ -16074,7 +16074,7 @@
     {
       "id": "csv:Plot/crs.lobby/plot/eyepad/{investigate}",
       "source": "\nHOWTO conduct an OPEN investigation\n-------------------------------------\n\nDear OPEN operative,\n\nTo conduct a full and proper OPEN investigation don't forget to check around every corner, explore every avenue, pull on every thread, leave no tablet unturned.\n\nKnowledge and understanding can be achieved by uncovering clues and scrutinizing the evidence.\n\nHowever, you are under no obligation to understand anything at all. \n\nKeep an eye on your TAB and we'll do our utmost to provide ongoing OPEN guidance.\n\nGood luck,\n\nThe OPEN investigation team.\n\nPS The very fact that you are reading this is a hugely encouraging indication that you are the kind of OPEN operative we've been looking for.",
-      "translation": "\n如何展开一场“开放”调查\n-------------------------------------\n\n亲爱的“开放”特工：\n\n要展开一场彻底且规范的“开放”调查，别忘了检查每一个角落，探索每一条路径，顺藤摸瓜，掘地三尺。\n\n唯有发掘线索、详查物证，方能洞察真相。\n\n不过，你也完全没有非得理解这一切的义务。\n\n随时留意你的TAB界面，我们会竭尽所能提供持续的“开放”指导。\n\n祝你好运，\n\n“开放”调查团队。\n\n附注：你正在阅读这份说明本身，就足以充分表明你正是我们苦苦寻找的那类“开放”特工。"
+      "translation": "\n如何展开一场“开放”调查\n-------------------------------------\n\n亲爱的“开放”特工：\n\n要展开一场彻底且规范的“开放”调查，别忘了检查每一个角落，探索每一条路径，顺藤摸瓜，不放过任何一块平板。\n\n唯有发掘线索、详查物证，方能洞察真相。\n\n不过，你也完全没有非得理解这一切的义务。\n\n随时留意你的TAB界面，我们会竭尽所能提供持续的“开放”指导。\n\n祝你好运，\n\n“开放”调查团队。\n\n附注：你正在阅读这份说明本身，就足以充分表明你正是我们苦苦寻找的那类“开放”特工。"
     },
     {
       "id": "csv:Plot/crs.lobby/plot/eyepad/{sensor.feature}",
@@ -16114,7 +16114,7 @@
     {
       "id": "csv:Plot/crs.lobby/plot/computer/{shuttle dock key}",
       "source": "SECURITY UPDATE:\n\nI do hope your preparations for the next parasite visit are going spankingly.\n\nAs you all know, the shuttle dock is locked down until I am certain the danger has been averted, again.\n\nIf I am in a meeting or otherwise engaged and you require shuttle dock access, ask Mr Arbiter.\n\nFailing that, use the following time-limited randomly generated six-digit code:\n\n666666\n",
-      "translation": "安全简报：\n\n衷心希望各位应对下一次寄生体来访的准备工作进展神速。\n\n众所周知，穿梭机坞现已封锁，直至我确认危险再度解除为止。\n\n若我正在开会或分身乏术，而你又需要穿梭机坞的通行权限，请联系仲裁者先生。\n\n若仍无法解决，请使用以下有时效性的随机生成六位密码：\n\n666666\n"
+      "translation": "安全简报：\n\n衷心希望各位应对下一次寄生虫来访的准备工作进展神速。\n\n众所周知，穿梭机坞现已封锁，直至我确认危险再度解除为止。\n\n若我正在开会或分身乏术，而你又需要穿梭机坞的通行权限，请联系仲裁者先生。\n\n若仍无法解决，请使用以下有时效性的随机生成六位密码：\n\n666666\n"
     },
     {
       "id": "csv:Plot/crs.lobby/plot/tasks/Tasks/Investigate The Cloud",
@@ -16269,7 +16269,7 @@
     {
       "id": "csv:Plot/crs.engineering/plot/computer/{simplex.07}",
       "source": "07 Jun 3048\n\nTo distinguish the new bugs from the old ones, please spray paint them a different shade of red. \n\nBurgundy? \n\nI've always fancied burgundy. \n\nWell look it can be any colour, so long as it's burgundy.",
-      "translation": "3048年6月7日\n\n为了将新型BUG与旧型号区分开来，请给它们喷涂不同深浅的红色。\n\n勃艮第红？\n\n我一向挺钟情勃艮第红的。\n\n行吧，其实什么颜色都行，只要它是勃艮第红就好。"
+      "translation": "3048年6月7日\n\n为了将新型BUG与旧型号区分开来，请给它们喷涂另一种色调的红色。\n\n勃艮第红？\n\n我一向挺钟情勃艮第红的。\n\n行吧，其实什么颜色都行，只要它是勃艮第红就好。"
     },
     {
       "id": "csv:Plot/crs.engineering/plot/computer/{simplex.08}",
@@ -16389,7 +16389,7 @@
     {
       "id": "csv:Plot/crs.techlab/plot/eyepad/{schrodingers cat}",
       "source": "Excerpt from <i>Everything and Nothing</i> by D Everyman\n\nOn Schrodinger's CAT\n\nIt is not so much a question of whether or not the CAT is dead or alive before the drawer is opened, but more a question of whether or not the CAT can be the thing that is found, irrespective of where it has been concealed.\n\nTo put it another way: If I secrete a little CAT in a drawer, and that CAT is later to be found, the finder cannot know they have found it unless they have prior knowledge that there was in fact a findable to be found.",
-      "translation": "节选自 D·埃弗里曼所著<i>一切与虚无</i>\n\n论薛定谔的CAT\n\n问题并不在于打开抽屉之前CAT究竟是死是活，而在于无论CAT被藏在何处，它本身是否能成为“被找到的事物”。\n\n换句话说：如果我把一只小CAT藏进抽屉里，而后这只CAT被找到了，那么寻找者若非事先知晓实际上存在一个“可寻之物”，便根本不可能知道自己已经找到了它。"
+      "translation": "节选自 D·埃弗里曼所著<i>一切与虚无</i>\n\n论薛定谔的CAT\n\n问题并不在于打开抽屉之前CAT究竟是死是活，而在于无论CAT被藏在何处，它本身是否能成为“被找到的事物”。\n\n换句话说：如果我把一台小CAT藏进抽屉里，而后这台CAT被找到了，那么寻找者若非事先知晓实际上存在一个“可寻之物”，便根本不可能知道自己已经找到了它。"
     },
     {
       "id": "csv:Plot/crs.techlab/plot/computer/{compromising material}",
@@ -16569,7 +16569,7 @@
     {
       "id": "csv:Plot/crs.techlab/plot/misc/{datadump.done}",
       "source": "Thank you for using Test DAD\n\nYour data has been published to all networks and is ready for analysis.\n\nSummary:\n<color=white>\"Parasite\" deployment authorizing ego EGO_ID: 00000666 \"The Executor\" on 22.03.3045 at 04:26:23</color>\n\nEGO_ID 00000666 Source Log from 22.03.3045:\n\n04:26:23  EGO_ID 00000021 \"Everyman\" created by \n          EGO_ID 00000665 \"The Executor\"\n04:26:23  EGO_ID 00000022 \"Unknown\" created by UNKNOWN PROCESS\n04:26:23  <color=yellow>WARNING: EGO_ID 00000021 conflicts \n          with EGO_ID 00000022</color>\n          Please delete either EGO_ID 00000021 or EGO_ID \n          00000022 before continuing\n04:27:02  <color=red>ERROR: Attempt to delete EGO_ID 00000022 failed</color>\n04:27:03  <color=red>ERROR: Attempt to delete EGO_ID 00000022 failed</color>\n04:27:07  <color=red>ERROR: Attempt to delete EGO_ID 00000022 failed</color>\n04:32:41  EGO_ID 00000021 \"Everyman\" merged with \n          EGO_ID 00000665 \"The Executor\"\n          New EGO_ID 00000666 \"The Executor\" assigned\n04:32:41  <color=yellow>WARNING: EGO_ID 00000022 conflicts \n          with EGO_ID 00000666</color> \n          Please delete either EGO_ID 00000022 or \n          EGO_ID 00000666 before continuing\n04:32:46  <color=red>ERROR: Attempt to delete EGO_ID 00000022 failed</color>",
-      "translation": "感谢您使用测试DAD\n\n您的数据已发布至所有网络，可随时进行分析。\n\n摘要：\n<color=white>“寄生体”部署授权自我 EGO_ID：00000666“执行者”，时间：3045年3月22日 04:26:23</color>\n\nEGO_ID 00000666 源日志（3045年3月22日）：\n\n04:26:23  EGO_ID 00000021“埃弗里曼”由以下实体创建：\n          EGO_ID 00000665“执行者”\n04:26:23  EGO_ID 00000022“未知”由未知进程创建\n04:26:23  <color=yellow>警告：EGO_ID 00000021 与 \n          EGO_ID 00000022 冲突</color>\n          请在继续前删除 EGO_ID 00000021 或 \n          EGO_ID 00000022\n04:27:02  <color=red>错误：尝试删除 EGO_ID 00000022 失败</color>\n04:27:03  <color=red>错误：尝试删除 EGO_ID 00000022 失败</color>\n04:27:07  <color=red>错误：尝试删除 EGO_ID 00000022 失败</color>\n04:32:41  EGO_ID 00000021“埃弗里曼”已合并至 \n          EGO_ID 00000665“执行者”\n          已分配新 EGO_ID 00000666“执行者”\n04:32:41  <color=yellow>警告：EGO_ID 00000022 与 \n          EGO_ID 00000666 冲突</color> \n          请在继续前删除 EGO_ID 00000022 或 \n          EGO_ID 00000666\n04:32:46  <color=red>错误：尝试删除 EGO_ID 00000022 失败</color>"
+      "translation": "感谢您使用测试DAD\n\n您的数据已发布至所有网络，可随时进行分析。\n\n摘要：\n<color=white>“寄生虫”部署授权自我 EGO_ID：00000666“执行者”，时间：3045年3月22日 04:26:23</color>\n\nEGO_ID 00000666 源日志（3045年3月22日）：\n\n04:26:23  EGO_ID 00000021“埃弗里曼”由以下实体创建：\n          EGO_ID 00000665“执行者”\n04:26:23  EGO_ID 00000022“未知”由未知进程创建\n04:26:23  <color=yellow>警告：EGO_ID 00000021 与 \n          EGO_ID 00000022 冲突</color>\n          请在继续前删除 EGO_ID 00000021 或 \n          EGO_ID 00000022\n04:27:02  <color=red>错误：尝试删除 EGO_ID 00000022 失败</color>\n04:27:03  <color=red>错误：尝试删除 EGO_ID 00000022 失败</color>\n04:27:07  <color=red>错误：尝试删除 EGO_ID 00000022 失败</color>\n04:32:41  EGO_ID 00000021“埃弗里曼”已合并至 \n          EGO_ID 00000665“执行者”\n          已分配新 EGO_ID 00000666“执行者”\n04:32:41  <color=yellow>警告：EGO_ID 00000022 与 \n          EGO_ID 00000666 冲突</color> \n          请在继续前删除 EGO_ID 00000022 或 \n          EGO_ID 00000666\n04:32:46  <color=red>错误：尝试删除 EGO_ID 00000022 失败</color>"
     },
     {
       "id": "csv:Plot/crs.techlab/plot/misc/{datadump.init}",
@@ -16834,7 +16834,7 @@
     {
       "id": "csv:Plot/crs.corporate/plot/computer/{tldr.003}",
       "source": "An update on our CRS whistleblower story:\nThe Director and his inner-circle are planning to roll out their \"new thing\" and \"sit back\" and \"see what happens\".\nAre we the people to be the subjects of the dastardly corporation's next big experiment!?\nCan they be stopped? \nFind out in the next edition of #TLDR.",
-      "translation": "关于CRS吹哨人事件的最新进展：\n主管及其核心圈计划推出他们的“新玩意儿”，然后“坐山观虎斗”，“静观其变”。\n我们老百姓是否将成为这家卑劣公司下一场重大实验的试验品！？\n他们能被阻止吗？\n请在下一期#TLDR中寻找答案。"
+      "translation": "关于CRS吹哨人事件的最新进展：\n主管及其核心圈计划推出他们的“新玩意儿”，然后“袖手旁观”，“静观其变”。\n我们老百姓是否将成为这家卑劣公司下一场重大实验的试验品！？\n他们能被阻止吗？\n请在下一期#TLDR中寻找答案。"
     },
     {
       "id": "csv:Plot/crs.corporate/plot/computer/{tldr.004}",
@@ -18224,7 +18224,7 @@
     {
       "id": "csv:Captions/crs.lobby.001/2",
       "source": "If CRS were involved at all in the development of the parasite",
-      "translation": "如果CRS确实参与了寄生体的研发"
+      "translation": "如果CRS确实参与了寄生虫的研发"
     },
     {
       "id": "csv:Captions/crs.lobby.001/3",
@@ -20239,7 +20239,7 @@
     {
       "id": "csv:Captions/workshop.003/6",
       "source": "And I couldn't not be there if it weren't for you either being there",
-      "translation": "要不是你在那儿，我也没法像这样不在那儿"
+      "translation": "而且我也没法像这样不在那儿，要不是你在那儿"
     },
     {
       "id": "csv:Captions/workshop.003/7",
@@ -25134,7 +25134,7 @@
     {
       "id": "caption:Captions/crs.lobby.001.txt:2",
       "source": "If CRS were involved at all in the development of the parasite",
-      "translation": "如果CRS确实参与了寄生体的研发"
+      "translation": "如果CRS确实参与了寄生虫的研发"
     },
     {
       "id": "caption:Captions/crs.lobby.001.txt:3",
@@ -27424,7 +27424,7 @@
     {
       "id": "caption:Captions/workshop.003.txt:6",
       "source": "And I couldn't not be there if it weren't for you either being there",
-      "translation": "要不是你在那儿，我也没法像这样不在那儿"
+      "translation": "而且我也没法像这样不在那儿，要不是你在那儿"
     },
     {
       "id": "caption:Captions/workshop.003.txt:7",
